@@ -1,0 +1,310 @@
+{
+  "version": "0.13.0",
+  "date": "2026-10-02",
+  "parent_version": "0.12.0",
+  "publication": "Local archive only; no public repository, tag or remote release created.",
+  "version_note": "Version labels identify supplied archives; they do not assert the existence of public Git tags.",
+  "predecessors": [
+    {
+      "version_label": "original",
+      "archive_name": "twelve-step-jurisdiction.zip",
+      "bytes": 16292,
+      "sha256": "02f54a438b4fa558aa5826c9aabbe190422a335aec2ba4d9a7913c9b42aef40b",
+      "verification": "Identity inherited from v0.8.0; original archive not rechecked for v0.9.0."
+    },
+    {
+      "version_label": "v0.1.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.1.0.zip",
+      "bytes": 131414,
+      "sha256": "e64f040919fed749112052dfd724b1b633ed4660911a8f8941eed550a0311842",
+      "verification": "Identity inherited from v0.8.0; original archive not rechecked for v0.9.0."
+    },
+    {
+      "version_label": "v0.2.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.2.0.zip",
+      "bytes": 597234,
+      "sha256": "b41d37dcd7ad6f064b09096105f2ced6801a39ea7a1b49b5f44bff5c4d72fa97",
+      "verification": "Identity inherited from v0.8.0; original archive not rechecked for v0.9.0."
+    },
+    {
+      "version_label": "v0.3.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.3.0.zip",
+      "bytes": 1983811,
+      "sha256": "78d90fac99b4e5debbd7eefcdc93cf94d92c6b82531be7291acae4f5dab3faef",
+      "verification": "Identity inherited from v0.8.0; original archive not rechecked for v0.9.0."
+    },
+    {
+      "version_label": "v0.4.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.4.0.zip",
+      "bytes": 28992,
+      "sha256": "161c6fe1eb7695514a59e9ee19fb8a3d447eee8bfd7bd8262ad41bae5c166b85",
+      "verification": "Identity inherited from v0.8.0; original archive not rechecked for v0.9.0."
+    },
+    {
+      "version_label": "v0.5.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.5.0.zip",
+      "bytes": 65612,
+      "sha256": "9f8d0e5dcb42ead071025f57c7af71a31af5e7bc1c100c06cf672304ad1cf07d",
+      "verification": "Identity inherited from v0.8.0; original archive not rechecked for v0.9.0."
+    },
+    {
+      "version_label": "v0.6.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.6.0.zip",
+      "bytes": 83323,
+      "sha256": "4ef61a12f0356e61a9bbeacc2040b8d8538592072f389bdda58e97e941e680ec",
+      "verification": "Original archive bytes rechecked on 2026-10-02."
+    },
+    {
+      "version_label": "v0.7.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.7.0.zip",
+      "bytes": 90919,
+      "sha256": "4e1d63d4a89a01cf96c2b976eccd25e02fbdfa4e9a3ec9f613ffb5a109f90238",
+      "verification": "Original archive bytes rechecked on 2026-10-02."
+    },
+    {
+      "version_label": "v0.8.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.8.0.zip",
+      "bytes": 93737,
+      "sha256": "90cda1b2594f72abf360ff2313d24523b1f4f8f006128dbdb5961d9dc55933c1",
+      "verification": "Original archive bytes checked on 2026-10-02; revision base."
+    },
+    {
+      "version_label": "v0.9.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.9.0.zip",
+      "bytes": 101081,
+      "sha256": "16bdef1aac8a0c56651561ec984c0bf6f7272ba68ff40d2b881e011e12acffb8",
+      "verification": "Delivered archive rechecked on 2026-10-02; byte-preserved revision base for v0.10.0."
+    },
+    {
+      "version_label": "v0.10.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.10.0.zip",
+      "bytes": 114718,
+      "sha256": "d4d444d3211c307af212b22f2809f00f8387d4b832362d8b2bf371e5b74ee111",
+      "verification": "Delivered archive rechecked and preserved on 2026-10-02; source base for v0.11.0. Its treatment of structural displacement was superseded."
+    },
+    {
+      "version_label": "v0.11.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.11.0.zip",
+      "bytes": 118520,
+      "sha256": "0b1fa0c180455a986f54c186a5716f19a890fe33757fcf93c484632dab97cf63",
+      "verification": "Delivered archive rechecked and preserved on 2026-10-02; isolated source base for v0.12.0."
+    },
+    {
+      "version_label": "v0.12.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.12.0.zip",
+      "bytes": 127569,
+      "sha256": "7fd5cade74497774b7ef662c937420d05d6fc7abdcfb26cd8770b81b261799bb",
+      "verification": "Delivered archive rechecked and preserved on 2026-10-02; source base for v0.13.0."
+    }
+  ],
+  "editorial_source": {
+    "file": "A-Commentary-on-the-Creed-of-Asfahani-v2.3.pdf",
+    "bytes": 9941932,
+    "sha256": "bed5565280dcb71b96fc3437cf2f9c07cdc75e6fe6e3798e24fe6bf886cad6ad",
+    "work": "Ibn Taymiyyah, Al-Aqidah al-Asfahaniyyah, Wordsmiths translation, Sapience Publishing, 2024",
+    "passages": "Current use: printed pp. 16–17 (PDF pp. 23–24) and pp. 36–37 (PDF pp. 43–44). Earlier contextual reading reported in predecessor provenance is not claimed as a fresh complete reading.",
+    "bundled": false,
+    "pdf_pages": 248,
+    "verification": "File identity and the current cited portions checked on 2026-10-02; complete work not read."
+  },
+  "custody": "Historical archive and source bytes are not embedded. Hashes identify those separate files; this manifest is neither a download service nor a digital signature.",
+  "additional_sources": [
+    {
+      "file": "10_Kitab_Al_Itisam_by_imam_Ash-Shatibi.pdf",
+      "bytes": 5265390,
+      "sha256": "1c2a1856bb437836a318b5abd8518016478a3e6ed04e578b3ea236bf89d35f3e",
+      "work": "Al-Shatibi, Kitab al-Itisam, Mohammed Mahdi Al-Sharif translation, Dar Al-Kotob Al-Ilmiyah, 2012",
+      "passages": "Printed pp. 24–37 (PDF pp. 25–38), including the knowledge-of-benefits argument on printed pp. 31–32; publication details on PDF p. 3.",
+      "scope": "Mounted file has 641 PDF pages; publication page lists a 640-page book. The index exposed 150 pages but is not the file page count. Only identified passages are claimed as inspected; complete work not read.",
+      "bundled": false,
+      "pdf_pages": 641,
+      "verification": "File identity and the current cited portions checked on 2026-10-02; complete work not read."
+    },
+    {
+      "file": "Carl_Sharif_El-TobguiRobert_Wisnovsky_Supervisor2_Wael_Halla_-_Reason_revelation__the_reconstitution_of_rationality__Taqi_al-Din_Ibn_Taymiyyas_d._728_1328_Dar_Ta_arud_al-_Aql_wa-l-Na_2013_McGill_Univ (1).pdf",
+      "bytes": 2231368,
+      "sha256": "d2c90eaa5f238145c5c8b71ff4f27b048ded1fd154242a300d08d212a737a963",
+      "work": "Carl Sharif El-Tobgui, Reason, Revelation & the Reconstitution of Rationality, McGill PhD dissertation, 12 April 2013",
+      "passages": "Current use: printed pp. 160–174 (PDF pp. 184–198), pp. 226–233 (PDF pp. 250–257), and pp. 276–278 (PDF pp. 300–302).",
+      "scope": "Secondary scholarly account of Ibn Taymiyya’s Dar al-taarud; not the original Arabic work.",
+      "bundled": false,
+      "pdf_pages": 353,
+      "verification": "File identity and the current cited portions checked on 2026-10-02; complete work not read."
+    },
+    {
+      "file": "qayyim-daa.pdf",
+      "work": "Ibn al-Qayyim, al-Da wa-l-Dawa (al-Jawab al-Kafi), ed. Muhammad Ajmal al-Islahi, Dar Ataat al-Ilm / Dar Ibn Hazm, fourth edition, 1440/2019",
+      "url": "https://ibnelqayem.com/assets/media/alda-oaldoa-aljoab-alkafy31.pdf",
+      "bytes": 10584073,
+      "sha256": "cf8cbd8550a63414db47543a364556fda49450c769da592ff2c33e464f64777e",
+      "pdf_pages": 751,
+      "passages": "Opening p. 3; pp. 8–9, 25–29, 139–141, 353, 357–360. In the inspected body, printed page + 73 = physical PDF page. Bibliographic leaves and selected cited pages checked as images.",
+      "verification": "Downloaded edition and selected passages checked on 2026-10-02. Whole work not read; no independent authentication of every report it cites.",
+      "bundled": false
+    },
+    {
+      "file": "millati-readings.pdf",
+      "work": "Millati Islami World Services, Meeting Format Readings",
+      "url": "https://millatiislami.org/V2/wp-content/uploads/2026/09/Millati-Islami-Meeting-Format-Readings.pdf",
+      "bytes": 450920,
+      "sha256": "808456257e4b3369895fa333a24f92bfb44e108a7c8082bf54afbead055df9d0",
+      "pdf_pages": 8,
+      "passages": "Current eight-page reading packet, especially p. 7, Hope Through Millati Islami; text and p. 7 image checked. The PDF metadata records creation on 2026-09-28, distinct from the linked HTML page dated 2025-05-02. For v0.11.0, pp.3–4 and6 were reread for the religious grounds claimed by the adaptation.",
+      "verification": "Downloaded PDF and corresponding current HTML checked on 2026-10-02. Published material, not observation of meetings or evidence of clinical outcomes.",
+      "bundled": false
+    }
+  ],
+  "official_aa_pdf_sources": {
+    "access_date": "2026-10-02",
+    "numbering": "Printed pages in citations; PDF locators are one-based within each separate file.",
+    "sources": [
+      {
+        "file": "aa_ch4.pdf",
+        "url": "https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt4.pdf",
+        "bytes": 75449,
+        "sha256": "2434c961bd5cf46f9c71f6e8734403d6ff0fc42ac19098af624151645c96d811",
+        "pdf_pages": 14,
+        "scope": "Printed pp. 44–57; entire chapter, with images of pp. 53 and 55.",
+        "bundled": false
+      },
+      {
+        "file": "aa_ch5.pdf",
+        "url": "https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt5.pdf",
+        "bytes": 70731,
+        "sha256": "1cea3bff4c209601566d836937014839891b30ba0d229f5f25ab0edf6c5cca9a",
+        "pdf_pages": 14,
+        "scope": "Printed pp. 58–71; especially pp. 58–62, with images of pp. 58–60.",
+        "bundled": false
+      },
+      {
+        "file": "aa_ch6.pdf",
+        "url": "https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt6.pdf",
+        "bytes": 77631,
+        "sha256": "f6fd940220f7914b8f9f076459478b032f3c7ad7977b5b0e436fb6cfa79bd993",
+        "pdf_pages": 17,
+        "scope": "Printed pp. 72–88; especially pp. 74 and 83–87. Images of pp. 83–84 checked for v0.9.0; p. 74 additionally checked as text and image for v0.10.0. For v0.11.0 the continuation on p.75 and progression on pp.72,75–76 were reread; p.75 additionally checked as image.",
+        "bundled": false
+      },
+      {
+        "file": "aa_ch7.pdf",
+        "url": "https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt7.pdf",
+        "bytes": 73866,
+        "sha256": "7b3a28f1c75f4298b7783adfb9972f9dd0dc39e45ccf8cb81133559e1502c04b",
+        "pdf_pages": 15,
+        "scope": "Printed pp. 89–103; especially pp. 93–94.",
+        "bundled": false
+      },
+      {
+        "file": "aa_ch11.pdf",
+        "url": "https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt11.pdf",
+        "bytes": 73936,
+        "sha256": "f1e6f4810f810b3e7a0fbeac9a393228de69c37fc2abe20b605b2d6e65ce16c0",
+        "pdf_pages": 14,
+        "scope": "Printed pp. 151–164; especially p. 164.",
+        "bundled": false
+      },
+      {
+        "file": "aa_step2.pdf",
+        "url": "https://www.aa.org/sites/default/files/2022-01/en_step2.pdf",
+        "bytes": 63850,
+        "sha256": "2bb1b2660949c3cb7c4df448bd26c187c13003dbf854b51f8714e31a6f1190df",
+        "pdf_pages": 9,
+        "scope": "Printed pp. 25–33; entire commentary.",
+        "bundled": false
+      },
+      {
+        "file": "aa_step3.pdf",
+        "url": "https://www.aa.org/sites/default/files/2022-01/en_step3.pdf",
+        "bytes": 61894,
+        "sha256": "84e32d438fb88c013882344583a1ba6f408d1238cd65f3ecc3e314c3653d1f54",
+        "pdf_pages": 8,
+        "scope": "Printed pp. 34–41; entire commentary previously read. For v0.10.0, pp.35 and39–40 reread for the relationship between AA guidance, Providence and conformity to God’s will.",
+        "bundled": false
+      },
+      {
+        "file": "aa_step11.pdf",
+        "url": "https://www.aa.org/sites/default/files/2022-01/en_step11.pdf",
+        "bytes": 68644,
+        "sha256": "d5474055d91507bb1991ccc939e0d889c7f0d8875d9d126db896bc173818f1fe",
+        "pdf_pages": 10,
+        "scope": "Printed pp. 96–105; entire commentary; images of pp. 98 and 103–105.",
+        "bundled": false
+      },
+      {
+        "file": "aa_paths.pdf",
+        "url": "https://www.aa.org/sites/default/files/literature/assets/p-84_manypathstospirituality.pdf",
+        "bytes": 327821,
+        "sha256": "ec85ce7d185bfa230c922383d27f902616d0e10a157fcbe424c924ab6c2feed0",
+        "pdf_pages": 16,
+        "scope": "P-84, especially pp. 6–9; copyright 2014, printing code 10/25.",
+        "bundled": false
+      },
+      {
+        "file": "aa_godword.pdf",
+        "url": "https://www.aa.org/sites/default/files/literature/assets/p-86_theGodWord.pdf",
+        "bytes": 1388864,
+        "sha256": "564302e2f32e9fe7ad5a69106b076216b0fb8b9146e81ea0cf4a53f512690e6a",
+        "pdf_pages": 24,
+        "scope": "P-86, introductory discussion and member accounts; copyright 2018, printing code 8/25.",
+        "bundled": false
+      },
+      {
+        "file": "aa_sponsorship.pdf",
+        "url": "https://aaws.widen.net/content/zz7rsf3sie/pdf/p-15_qa_on_sponsorship_online.pdf?v=59f06454-440b-4dc1-9596-befa93529fe3",
+        "bytes": 479768,
+        "sha256": "5de1198780331204e6480789d1ea55160cff73ad7286a6a789a007e1ef7bf4f5",
+        "pdf_pages": 32,
+        "scope": "P-15, especially pp. 13–14 and 20; revised 2025, printing code 2/26.",
+        "bundled": false
+      },
+      {
+        "file": "aa_copyright.pdf",
+        "url": "https://www.aa.org/sites/default/files/2021-11/en_bigbook_copyright.pdf",
+        "bytes": 39098,
+        "sha256": "be9206a9685aff74ad69fbb874e1c35b8554ef185f2dd7fcf0ad9b77441ac81b",
+        "pdf_pages": 1,
+        "scope": "Fourth edition identified as 2001; this leaf records a December 2013 printing. No assumption that all separately hosted files share its printing.",
+        "bundled": false
+      },
+      {
+        "file": "aa_tt_copyright.pdf",
+        "url": "https://www.aa.org/sites/default/files/2022-01/en_tt_copyright.pdf",
+        "bytes": 36839,
+        "sha256": "62bef80b3c99b548484acbae285169c89dcc59c8c8ae415cb0e0d8014eae2ffd",
+        "pdf_pages": 1,
+        "scope": "Original publication April 1953; reformatting/footnoting June 2021.",
+        "bundled": false
+      }
+    ]
+  },
+  "web_texts": {
+    "access_date": "2026-10-02",
+    "scope": "Exact URLs and passage locators appear in the Markdown footnotes. They cover Quran verses; hadith in Bukhari, Muslim and Abu Dawud; Nawawi on repentance; Izz and Nawawi on five-fold innovation; Ibn Taymiyyah on worship/customs; Maturidi and Ghazali on reason/obligation; Millati Islami published Steps, meeting format and current readings; Ibn Kathir on Quran 16:97 through the identified English abridgement; Ibn al-Qayyim counsel; NIAAA care boundary. Hosted primary passages were read; this does not claim manuscript collation, an independent hadith transmission study, observed meeting practice or clinical comparison.",
+    "v011_additions": {
+      "access_date": "2026-10-02",
+      "sources": [
+        "https://quran.com/5/3",
+        "https://sunnah.com/muslim:1718a",
+        "https://sunnah.com/muslim:1718b"
+      ],
+      "scope": "Primary religious passages on religious completion and rejection of unauthorised additions; application to AA is the essay’s assessment."
+    },
+    "v012_additions": {
+      "access_date": "2026-10-02",
+      "work": "Ibn al-Qayyim, Miftah dar al-saʿadah wa-manshur wilayat al-ʿilm wa’l-iradah",
+      "edition": "Edited by Abd al-Rahman ibn Hasan ibn Qaid; Dar Ataat al-Ilm / Dar Ibn Hazm, third edition 1440/2019; metadata and continuous pagination supplied by the digital host.",
+      "sources": [
+        "https://ibnelqayem.com/ar/books/34?is_intro=0&page=395",
+        "https://ibnelqayem.com/ar/books/34?is_intro=0&page=396",
+        "https://ibnelqayem.com/ar/books/34?is_intro=0&page=397"
+      ],
+      "scope": "Hosted Arabic main text inspected for resemblance, silver/copper comparison, acceptance through wording, reverse case of truth rejected through wording, and impartial examination. Distinguished from the preceding counsel attributed to Ibn Taymiyyah. Application to AA is the essay’s own argument.",
+      "limits": "No physical scan or independently identified English translation checked. The earlier heritage-site locator 1:140 has an unidentified edition; it is not applied to this reproduction.",
+      "bundled": false
+    }
+  },
+  "current_verification_scope": "Editorial revision of the verified v0.12.0 sources. No new primary-source interpretation, full-book reading, meeting observation or clinical comparison claimed. Existing source identities, critical quotations, source-reader text parity, internal links and archive integrity rechecked for v0.13.0. The distinction between religious authority and reported benefit, the resemblance analysis and the positive Islamic source work are retained.",
+  "prior_v011_verification_scope": "Retained source identities and verified passages from v0.9.0 and v0.10.0. For v0.11.0 the AA structural passages were reread, including Big Book45–50,58–60,63,72,74–76,83–85,93–94 and12&12 StepThree35,39–40; p75 checked as image. Millati readings3–4,6 reread for claimed grounds. Quran5:3 and Muslim1718a–b checked online in Arabic and displayed translations. No new full-book reading, manuscript collation, meeting observation or clinical comparison claimed.",
+  "prior_v012_verification_scope": "Previous source identities and research retained. For v0.12.0 the wording analysis uses renewed checks of Big Book59; 12&12 StepTwo26; P-15 pp13–14,20; P-84 p4; P-86 pp5–6, and the context recorded in the essay. Ibn al-Qayyim’s Arabic resemblance passage was checked in the named digital edition, continuous pp395–397. No exact English translation, physical title-page verification, new full-book reading, meeting observation or clinical comparison is claimed.",
+  "edition_scope": "Self-contained criticism of AA’s offered spiritual remedy and its appeal to God’s direction; affirmative religious grounds, source assessment, objections and notes on evidence. Editorial correspondence and earlier submitted formulations are not bundled."
+}
