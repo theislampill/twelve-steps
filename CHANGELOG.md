@@ -19,9 +19,12 @@ recorded as the entry’s attribution, without claiming independent inspection o
 that original page. The application concerns the method’s relation to divine
 guidance, not every participant’s development or an exhaustive AA doctrine of sin.
 
-The AA-facing essay, README, objections and appendix are unchanged from accepted
-v0.17.0. Its divine-answerability derivation already makes the relevant analytical
-distinctions. The Islamic addition applies those distinctions under its own
+The README replaces one block with three exact owner-approved paragraphs,
+clarifying the complete programme, the self-defeat of its appeal and the explicit
+conditional premise. All other README text is unchanged. THESIS.md, OBJECTIONS.md
+and APPENDIX.md remain unchanged from accepted v0.17.0. Its divine-answerability
+derivation already makes the relevant analytical distinctions. The Islamic
+addition applies those distinctions under its own
 religious premises; it supplies no new premise for the internal argument. General
 authorisation, practical means, the fivefold Sunni account and care boundaries
 remain. This is a proposal for review, not a new numbered edition or publication.

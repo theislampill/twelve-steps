@@ -19,11 +19,11 @@ creed can make this arrangement look like leaving the direction to God. The
 criticism concerns the method’s operation before any encounter with a prescription
 later refused.
 
-The argument tests whether the complete course does this work or merely helps
-carry out prescribed instruction. Genuine delivery removes this criticism; in
-the adverse branch, naming God does not undo the substitution. The premise of an
-authoritative and sufficient prescription is explicit. Readers can examine the
-connection without already accepting its Islamic identification.
+The essay tests AA’s whole spiritual programme, not merely whether some of its practices help people. If the programme genuinely teaches and helps people follow God’s prescribed remedy, this criticism does not apply.
+
+The criticism is that AA instead tells people to seek God’s direction through a method that cannot recognise His prescription as what settles the remedy. **It asks God for the very answer its method treats as unavailable.** Invoking God therefore exposes the incoherence; it does not resolve it.
+
+The argument makes its assumption explicit: suppose God has already given clear, binding instruction that fully answers what He requires concerning this harm. Readers can examine what follows without first accepting Islam. The Islamic chapter separately explains what it holds that instruction to be, and why.
 
 [The Way of the Messengers and the work of recovery](ISLAMIC_APPLICATION.md)
 develops the separate Islamic argument. It accepts the Qur’an and Muhammad’s
