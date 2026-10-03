@@ -99,10 +99,9 @@ of a proposed remedy are consequently distinct tasks. Judging a proposed remedy 
 the proposition it actually advances. This moral and epistemic distinction
 is not a complete clinical explanation of dependence or a diagnosis of anyone’s heart.
 
-The following develops the given religious answer through its own sources. The instruction
-establishes the work to be undertaken; practical arrangements serve its performance.
-It is not a new numbered treatment sequence or evidence for a guaranteed course of
-clinical recovery. Nor does the presence of some of these acts in another programme
+The given religious instruction establishes the work to be undertaken; practical
+arrangements serve its performance. This account is not a new numbered treatment
+sequence or evidence for a guaranteed course of clinical recovery. Nor does the presence of some of these acts in another programme
 establish that programme’s complete account of the remedy.
 
 **Repentance and repair.** Qur’an 5:90–91 directs believers to avoid intoxicants and names
@@ -177,8 +176,9 @@ prescribed treatment. The project’s [care boundary](NOTICE.md#scope-and-care) 
 **Hope without a diagnosis of another person’s heart.** Ibn al-Qayyim himself describes
 conditions and impediments affecting healing and supplication. He also warns that
 an answered prayer can be misread: a person may isolate the wording while overlooking
-the circumstances that accompanied the answer.[^conditions] The essay must therefore
-apply parity. A conditional promise is not defective merely because it has conditions.
+the circumstances that accompanied the answer.[^conditions] Islamic claims about
+answered prayer require the same scrutiny. A conditional promise is not defective
+merely because it has conditions.
 The questions are what warrants the promise and whether an observer actually knows
 why a particular outcome occurred. A Muslim adviser gains no such knowledge merely
 by quoting a general teaching about spiritual impediments. Continuing difficulty
@@ -226,7 +226,7 @@ against everything labelled scriptural. As El-Tobgui explains it, conclusive
 evidence takes precedence over conjecture; where both are inconclusive, their
 relative strength matters. Two genuinely conclusive proofs cannot conflict.[^certainty]
 Thus an uncertain interpretation does not become decisive through a religious
-label. This rule also constrains the present author’s use of the Islamic sources.
+label. The same rule governs the use of Islamic sources here.
 
 Reason therefore does more than check the form of an argument. The commentary
 itself uses it to establish theological content, including divine mercy. On
@@ -414,9 +414,9 @@ establish a general religious requirement to recount one’s life. These are the
 limits of the defence. They concern the inference from an authorised means to
 the religious account attached to it, not the fact that human beings arranged it.
 
-On these grounds, I reject AA’s course as an additional religious answer to this
-harm. The Way of the Messengers already determines worship, repentance and the
-grounds for claims about Allah’s help. The programme’s account of approach,
+AA’s course is an unauthorised additional religious answer to this harm. The Way
+of the Messengers already determines worship, repentance and the grounds for
+claims about Allah’s help. The programme’s account of approach,
 surrender and restoration undertakes to supply that answer through its own course.
 The programme invokes God for direction through that supplied answer. The religious
 grounds stated here identify Allah’s given instruction as the answer to what He

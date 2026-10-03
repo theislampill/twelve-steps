@@ -299,8 +299,8 @@ In that account, the reported experience and its interpretation establish how
 approach and surrender occur. Prescribed instruction does not perform that work
 of determining the religious remedy. It can accompany the course in a member’s
 beliefs and duties while remaining unavailable as what definitively answers the
-question the invitation addresses. This is why I judge the method to operate on
-that unavailability, rather than merely to arrange prescribed acts.
+question the invitation addresses. The method therefore operates on that
+unavailability rather than merely arranging prescribed acts.
 
 The objection could succeed by showing that an established prescription authorises
 this whole religious account, not merely that it commends some of its materials.
@@ -390,10 +390,10 @@ involve, while His direction is unavailable **as what settles that account**.
 This is not merely a seeker who has yet to learn the answer. It is a method which
 frustrates reception of divine direction as the answer in the very seeking it
 commends, and therefore interferes with the growth pursued through that seeking.
-The outward side of the meditation’s warning applies when this method is commended
-to another; the inward side applies when the seeker adopts the same relation to
-divine direction. The method reproduces the interference through its own teaching
-and adoption.
+**By the standard stated in AA’s own “ONLY TWO SINS” meditation, AA’s method commits both sins:**
+commending it to another interferes with that person’s growth, and adopting it
+oneself interferes with one’s own growth. The method reproduces both sins through
+its own teaching and adoption.
 
 Step Eleven’s warning against asking God to endorse a previously chosen solution
 makes the question intelligible within AA’s own account of surrender. Its commentary
