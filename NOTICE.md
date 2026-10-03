@@ -68,8 +68,16 @@ For the PR #6 review response, AAWS’s official *Daily Reflections* entry for
 November 22, “ONLY TWO SINS”, was read on 3 October 2026, including the meditation
 on prayers, humility and acceptance. The entry attributes its opening quotation
 to *Alcoholics Anonymous*, Third Edition, p. 542. That original book page was not
-independently inspected. The Islamic chapter applies its own account of spiritual
-growth; the entry is not treated as an exhaustive statement of AA’s doctrine of sin.
+independently inspected. PR #6 placed the reversal in the Islamic chapter.
+The v0.17.1 candidate moves it into the main essay as an internal consequence of
+its divine-answerability argument, using AA’s own seeking-and-growth commitments.
+This reversal requires neither an already-given complete remedy nor its Islamic
+identification. The Islamic chapter separately affirms and identifies the
+stipulated prescription. The entry is not treated as
+an exhaustive statement of AA’s doctrine of sin. The candidate rechecks the
+official entry’s indexed text and the retained 12&12 Step Eleven text and page
+images at printed pp. 96 and 102; it makes no new claim to inspection of the
+Third Edition page.
 
 The supplied Islamic works retain separate identities: the Wordsmiths translation
 of Ibn Taymiyyah’s *Creed of Asfahani* (2024), al-Shatibi’s *al-Iʿtisam* in Mohammed
@@ -148,7 +156,7 @@ credits, identify changes, and link to the licence and copy used. A title-based
 citation is:
 
 *The Twelve Steps and the prescribed answer: AA, divine prescription and the Way of the Messengers.*
-Twelve-Step Jurisdiction, edition 0.17.0, 3 October 2026. Cite the document and section.
+Twelve-Step Jurisdiction, edition 0.17.1 (review candidate), 3 October 2026. Cite the document and section.
 
 The [source repository](https://github.com/theislampill/twelve-steps) and
 [HTML reader](https://theislampill.github.io/twelve-steps/) are public. Git commits

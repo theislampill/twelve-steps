@@ -437,16 +437,12 @@ the chapter’s application of those principles, not a claim that every Sunni sc
 has issued the same judgement of AA. Nor does the judgement assign an identical
 ruling to every exercise, interpretation or participant.
 
-AAWS’s November 22 meditation, “ONLY TWO SINS”, presents interference with
-another’s growth and with one’s own as the two sins.[^growth] On the Islamic
-account defended here, spiritual growth includes apprehending and submitting to
-Allah’s prescribed direction. A methodology that tells people to seek God while
-operating on the unavailability of His definitive prescription as the answer
-interferes with that growth: it directs another through a method in which that
-prescription is unavailable as the governing answer, and the seeker adopting
-the method enters the same relation to divine guidance. AA’s own warning thus
-turns against the method it commends, both in directing another and in adopting
-it oneself.
+The [main essay](THESIS.md#the-grounding-test-and-the-self-defeat-of-the-appeal)
+applies AA’s own language of growth to the method’s interference with the seeking
+it commends. That criticism does not require an already-given complete prescription
+or its Islamic identification. This chapter adopts the essay’s argued account of
+AA and takes the further step of affirming that the prescription has been given
+and identifying its religious content.
 
 Resemblance explains how the addition can look like obedience. The offer uses
 prayer, humility and surrender, and names God as director. Those genuine religious
@@ -542,7 +538,5 @@ useful or bearing an Islamic name.
 [^disclosure-aa]: Big Book, [Chapter 6](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt6.pdf), pp. 72–76 (PDF pp. 1–5). The argument preserves the chosen recipient, confidentiality, consideration for others and possibility of postponement. The book links incomplete disclosure to renewed drinking, gives its spiritual interpretation of completed disclosure, and directs review of the first five Steps before continuing.
 
 [^kingdom]: 12&12, [Step Eleven](https://www.aa.org/sites/default/files/2022-01/en_step11.pdf#page=3), p. 98 (PDF p. 3); p. 105 also gives confidence concerning the hereafter while discussing suffering. Neither passage makes attendance itself a guarantee of salvation.
-
-[^growth]: AAWS, *Daily Reflections*, [“ONLY TWO SINS”, November 22](https://www.aa.org/daily-reflections?date=00-11-22). The entry attributes its quotation to *Alcoholics Anonymous*, Third Edition, p. 542; its meditation concerns self-serving prayers, humility and acceptance. Official entry read 3 October 2026; the original Third Edition page was not independently inspected. The reversal applies this chapter’s Islamic account of growth, not AA’s definition or an exhaustive AA doctrine of sin. Its object is the method’s relation to divine guidance, not every participant’s intentions, faith or actual development.
 
 [^moral-reason]: Ibn Taymiyyah, supplied *Creed of Asfahani* translation, printed pp. 225–227 (PDF pp. 232–234), especially the three alternatives and combined account on p. 226. The distinctions and the author’s reported affiliations are paraphrased from this passage, not offered as a complete history of Sunni or Muʿtazili ethics. Together with pp. 16–17 and El-Tobgui pp. 171–172, they rule out portraying his method as the rejection of substantive rational knowledge about God.

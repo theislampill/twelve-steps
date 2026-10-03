@@ -1,6 +1,28 @@
 # Changelog
 
-## Unreleased — proposed al-Shatibi integration
+## 0.17.1 — unreleased review candidate, 3 October 2026
+
+Reclassified the “ONLY TWO SINS” growth reversal from an Islamic/external
+application to an internal consequence of the divine-answerability criticism in
+THESIS §3. AA’s own seeking-and-growth commitments supply the standard: the method
+interferes with the reception of the direction it tells the person to seek. This
+inference requires neither an Islamic premise nor the additional supposition that
+a complete divine remedy has already been given. The separate argument from an
+already-given authoritative and sufficient prescription retains that premise.
+
+The Islamic chapter now cross-refers to this internal reversal and performs
+its separate task of affirming that the stipulated prescription exists and
+identifying its content. Moved the source note while retaining the distinction
+between AAWS’s attribution to Third Edition p. 542 and independent inspection
+of that page, which is not claimed.
+
+The accepted v0.17 answerability/self-defeat structure, practical-means and
+participant distinctions, exact owner-approved README block and PR #6’s
+al-Shatibi improvements remain intact. README changes only its edition metadata.
+This is the bounded correction for Issue #7, prepared for independent review;
+no merge, tag, release or Pages publication is claimed.
+
+## Merged PR #6 — 3 October 2026
 
 Strengthened the Islamic chapter’s existing distinction between practical means
 and added religious specification. Al-Shatibi’s discussion of sufficiency and
@@ -27,7 +49,9 @@ derivation already makes the relevant analytical distinctions. The Islamic
 addition applies those distinctions under its own
 religious premises; it supplies no new premise for the internal argument. General
 authorisation, practical means, the fivefold Sunni account and care boundaries
-remain. This is a proposal for review, not a new numbered edition or publication.
+remain. This work was merged in PR #6 without a new numbered edition. Its growth
+reversal was placed in the Islamic chapter; the v0.17.1 correction above changes
+that placement and dependency.
 
 ## 0.17.0 — 3 October 2026
 

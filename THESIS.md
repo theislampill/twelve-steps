@@ -369,6 +369,32 @@ prescription is available in that capacity, the offer has nothing to be as anoth
 spiritual solution. That is a consequence of the argument about divine answerability,
 not its replacement by a comparison between competing solutions.
 
+AA’s own language ties growth to seeking direction without making a prior agenda
+govern prayer. Its November 22 *Daily Reflections* meditation presents interference
+with another person’s growth and with one’s own as the two sins. It examines
+self-serving prayers and commends humility and acceptance. Step Eleven seeks
+knowledge of God’s will and power to carry it out; its commentary warns against
+asking God to do things our way.[^growth] That pursuit requires His direction to
+be able to settle what following Him requires. It is frustrated if the method of
+seeking makes that direction unavailable in precisely that capacity. This objection
+to the method does not require knowing, or supposing, that a complete prescription
+has already been given.
+
+The interference follows from how the course determines the religious remedy,
+examined above. Reliance on AA is interpreted as surrender to Providence, and
+continuing the Steps as conformity to God’s will. The account of recovery supplies
+those religious connections across differences about approaching God; it does more
+than select useful exercises.[^tt-role][^basis] The person is thus directed to seek
+God through an account which independently determines what approach and surrender
+involve, while His direction is unavailable **as what settles that account**.
+This is not merely a seeker who has yet to learn the answer. It is a method which
+frustrates reception of divine direction as the answer in the very seeking it
+commends, and therefore interferes with the growth pursued through that seeking.
+The outward side of the meditation’s warning applies when this method is commended
+to another; the inward side applies when the seeker adopts the same relation to
+divine direction. The method reproduces the interference through its own teaching
+and adoption.
+
 Step Eleven’s warning against asking God to endorse a previously chosen solution
 makes the question intelligible within AA’s own account of surrender. Its commentary
 distinguishes sought guidance from wishful thinking, rationalisation and presumption.[^direction]
@@ -493,6 +519,8 @@ and its application without deriving revelation from a gap in AA. The
 [^resemblance]: Ibn al-Qayyim, *Miftah dar al-saʿadah wa-manshur wilayat al-ʿilm wa’l-iradah*, ed. ʿAbd al-Rahman ibn Hasan ibn Qaʾid, third edition (Dar ʿAtaʾat al-ʿIlm / Dar Ibn Hazm, 1440/2019), continuous [pp. 395](https://ibnelqayem.com/ar/books/34?is_intro=0&page=395), [396](https://ibnelqayem.com/ar/books/34?is_intro=0&page=396) and [397](https://ibnelqayem.com/ar/books/34?is_intro=0&page=397), Arabic digital reproduction. The resemblance discussion is Ibn al-Qayyim’s continuation after reporting Ibn Taymiyyah’s sponge-and-glass counsel. Its immediate examples concern polemical descriptions of divine attributes. This essay paraphrases the Arabic and applies the method to AA; neither scholar is being quoted as judging AA. The named host supplies the edition metadata and pagination; the paraphrases here follow its Arabic text.
 
 [^direction]: 12&12, [Step Eleven](https://www.aa.org/sites/default/files/2022-01/en_step11.pdf#page=7), pp. 102–104 (PDF pp. 7–9). Page 102 warns against asking God to do things our way; pp. 103–104 distinguish sought guidance from rationalisation and presumption. Applying that distinction to the programme’s own account is this essay’s argument, not a statement that the commentary itself condemns AA.
+
+[^growth]: AAWS, *Daily Reflections*, [“ONLY TWO SINS”, November 22](https://www.aa.org/daily-reflections?date=00-11-22). The official entry attributes its quotation to *Alcoholics Anonymous*, Third Edition, p. 542; that original page was not independently inspected. The entry was read on 3 October 2026, including its meditation on self-serving prayers, humility and acceptance. See also 12&12, [Step Eleven](https://www.aa.org/sites/default/files/2022-01/en_step11.pdf#page=1), pp. 96 and 102 (PDF pp. 1 and 7), on seeking knowledge of God’s will and power to carry it out, and on not asking God to do things our way. The reversal applies the essay’s argued account of the method to AA’s own seeking-and-growth commitments. It does not assume an already-given complete prescription or an Islamic identification of it, and does not treat the meditation as an exhaustive AA doctrine of sin. Adopting the method instantiates its relation to divine guidance; this is not a judgement of a participant’s motives, sincerity, faith or actual spiritual state.
 
 [^edition]: *Alcoholics Anonymous*, fourth edition (Alcoholics Anonymous World Services, 2001), official [online edition](https://www.aa.org/the-big-book). The linked [copyright leaf](https://www.aa.org/sites/default/files/2021-11/en_bigbook_copyright.pdf) identifies the fourth edition and a December 2013 printing. Separate chapter files have their own production metadata; no claim is made that all reproduce that single printing. Edition and page images were checked on 2 October 2026. See [source scope](NOTICE.md#sources).
 
