@@ -1,5 +1,25 @@
 # Changelog
 
+## Unreleased — approved STOW corrections, 3 October 2026
+
+Issue #11 applies eight approved changes on top of PR #10’s independently accepted
+head 85b7d610ece303b4761aee4446afd779b12437d4. The introduction and Objections §3
+now identify which further conclusion requires an already-given sufficient
+prescription; the methodological and growth criticisms retain their distinct
+premises. Appendix §3 names the three contested claims. The authority sentence,
+Islamic statement of incoherence and assistance distinction use the approved
+clearer wording. The first 12&12 reference is expanded, and the non-actionable
+repository-description sentence is removed from PUBLISHING; the actual description
+is unchanged. The introduction and assistance paragraph use the adjudicated
+refinements recorded in the issue.
+
+PR #10’s explicit two-sins verdict and eight prose repairs are preserved, not
+counted as new STOW changes. README, source notes, al-Shatibi analysis, participant
+and practical-means limits, and the reader pipeline are unchanged. No new source
+inspection or numbered edition is claimed. This is a separate review proposal
+based on the approved PR #10 head; both requested reviews must examine the same
+final candidate before a fresh owner merge decision.
+
 ## Unreleased — explicit verdict and prose correction, 3 October 2026
 
 PR #8 moved the growth reversal into the internal argument and removed its

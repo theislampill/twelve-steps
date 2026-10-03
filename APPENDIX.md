@@ -80,12 +80,13 @@ and power to carry it out, not on equating every instance of divine help with a
 religious prescription.
 
 These transitions can be contested separately. Evidence that the course only
-organises practical means would challenge the first. An account showing how the
-method apprehends prescribed instruction as what definitively determines its
-religious remedy would challenge the second. Evidence that the
-appeal concerns assistance alone, without the attributed account of following
-God, would challenge the third. A later veto is not an additional premise, and
-inadequate warrant cannot substitute for establishing these connections.
+organises practical means would challenge the claim that it independently determines
+the religious remedy. An account showing how the method apprehends prescribed
+instruction as what definitively determines its religious remedy would challenge
+the claim of unavailability. Evidence that the appeal concerns assistance alone,
+without the attributed account of following God, would challenge the identification
+of the direction sought with the prescribed answer. A later veto is not an additional
+premise, and inadequate warrant cannot substitute for establishing these connections.
 
 Showing that the complete account genuinely delivers the prescribed answer puts
 it in the favourable branch of the grounding test. Challenging the prescription’s

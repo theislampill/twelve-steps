@@ -80,8 +80,10 @@ further connection is that the answer functionally unavailable is the direction
 the person is being invited to seek from God. This explains the self-defeat of
 the appeal, rather than merely a conflict between two proposed answers.
 
-The premise remains conditional in the main inquiry. The Islamic chapter affirms
-and identifies the prescription on separate grounds. The claim is not that nobody
+The further conclusion—that the independent offer cannot remain beside a clear,
+binding and sufficient prescribed answer—assumes that this answer has already
+been given. The Islamic chapter affirms and identifies the prescription on separate
+grounds. The claim is not that nobody
 can recognise revelation or that AA must continue unchanged forever. It is that
 the same independent spiritual offer cannot remain the solution while the given
 answer governs. Assessing useful acts or attendance separately does not preserve it.

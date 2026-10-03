@@ -422,8 +422,9 @@ The programme invokes God for direction through that supplied answer. The religi
 grounds stated here identify Allah’s given instruction as the answer to what He
 requires in this matter. On the argued reading, the method operates on that
 instruction’s unavailability as the definitive answer while directing the person
-to seek God for the remedy. Its appeal exposes the very divine answerability it
-has made unavailable in its account of the remedy. The objection does not await
+to seek God for the remedy. Its appeal exposes the incoherence: it seeks divine
+direction while its method makes that very direction unavailable as the definitive
+answer. The objection does not await
 a later refusal of a command. The religious answer affirmed here leaves no place
 for that further answer to complete or replace it.
 
@@ -454,10 +455,9 @@ in an argument and authorisation of a practice; neither judgement proves the
 other merely by sharing religious language.
 
 The rejection therefore concerns the complete offer as another spiritual solution.
-Taking a useful act separately does not preserve that standing for the programme.
-The assessment of assistance has its own object; it is not a remainder of the
-rejected religious answer. Questions of a particular practice’s devotional status,
-or a participant’s faith, still require their own evidence.
+Useful assistance is assessed separately; its usefulness does not preserve AA’s
+standing as another spiritual solution. Questions of a particular practice’s
+devotional status, or a participant’s faith, still require their own evidence.
 
 ## 7. The person seeking help
 
