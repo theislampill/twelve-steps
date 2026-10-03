@@ -299,8 +299,8 @@ In that account, the reported experience and its interpretation establish how
 approach and surrender occur. Prescribed instruction does not perform that work
 of determining the religious remedy. It can accompany the course in a member’s
 beliefs and duties while remaining unavailable as what definitively answers the
-question the invitation addresses. This is why I judge the method to operate on
-that unavailability, rather than merely to arrange prescribed acts.
+question the invitation addresses. The method therefore operates on that
+unavailability rather than merely arranging prescribed acts.
 
 The objection could succeed by showing that an established prescription authorises
 this whole religious account, not merely that it commends some of its materials.

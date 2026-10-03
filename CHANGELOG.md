@@ -1,5 +1,27 @@
 # Changelog
 
+## Unreleased — explicit verdict and prose correction, 3 October 2026
+
+PR #8 moved the growth reversal into the internal argument and removed its
+unnecessary Islamic and already-given-remedy dependencies, but left the requested
+conclusion implicit. Issue #9 corrects that omission: the THESIS growth paragraph
+now explicitly concludes that, by the standard stated in AA’s “ONLY TWO SINS”
+meditation, AA’s method commits both sins, and states both applications.
+The preceding derivation and its source and participant limits remain.
+
+Replaced the two identified author-centred verdicts with direct propositions.
+A sentence-level review of THESIS, the Islamic chapter, OBJECTIONS, APPENDIX and
+README also removed redundant exposition about the writer’s activity where the
+claim or connection could be stated directly. Necessary qualifications, source
+attributions, inferential conditions and navigation remain. README and OBJECTIONS
+are unchanged; the approved README block and merged al-Shatibi work are preserved.
+
+This is an unmerged follow-up to PR #8, based on its main-branch merge commit
+4de58fd49c2e8cd3efb67654384b7c8cbe34977a. Edition metadata remains 0.17.1;
+no new numbered release is prepared. The earlier candidate and review records
+below are retained as history. Independent review is required before any merge
+or publication.
+
 ## 0.17.1 — unreleased review candidate, 3 October 2026
 
 Reclassified the “ONLY TWO SINS” growth reversal from an Islamic/external

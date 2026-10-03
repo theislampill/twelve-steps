@@ -67,17 +67,17 @@ of a cited verse cannot decide between those readings on their own.
 
 The disputed assumption concerns divine answerability within the method:
 definitive divine direction is unavailable as what determines the religious
-remedy. The essay argues that AA’s interpretation of experience does that work
-in its invitation, while a prescribed instruction may remain available as a
-member’s belief or duty. The claim must be established at that transition;
+remedy. AA’s interpretation of experience does that work in its invitation,
+while a prescribed instruction may remain available as a member’s belief or duty.
+The claim must be established at that transition;
 failure to cite revelation does not establish it. This concerns the method of
 identifying direction, not an encounter with recognised instruction followed
 by refusal.
 The further connection is the identity of the direction sought and displaced:
 the given instruction would answer the appeal about what God wills in this matter.
-The essay argues this through Step Eleven’s distinction between knowledge of His
-will and power to carry it out. It does not equate every instance of divine help
-with a religious prescription.
+The connection rests on Step Eleven’s distinction between knowledge of His will
+and power to carry it out, not on equating every instance of divine help with a
+religious prescription.
 
 These transitions can be contested separately. Evidence that the course only
 organises practical means would challenge the first. An account showing how the
@@ -102,8 +102,8 @@ Allah’s response. General praise for honesty cannot by itself settle all three
 
 Evidence that a passage recommends a revisable practical means without the
 religious status attributed to it would also require correcting that attribution.
-The essay retains the sources’ suggestions, probability words and limited claims
-for precisely this reason. It does not demand proof that every AA meeting rejects
+The sources’ suggestions, probability words and limited claims matter for precisely
+this reason. The criticism does not demand proof that every AA meeting rejects
 revelation, and an absence of such rejection does not authorise the published course.
 
 Reported benefit can support practical expectations and recognition of mercy.
