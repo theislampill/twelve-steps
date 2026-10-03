@@ -1,5 +1,41 @@
 # Changelog
 
+## 0.17.0 — 3 October 2026
+
+Corrected a substantive limit in v0.16.0. That edition removed the extra exclusion
+condition and recovered the structural conclusion, but its main development still
+classified AA’s course and then compared it with a stipulated sufficient prescription.
+It did not adequately develop how the invitation itself proceeds on the unavailability
+of the very prescribed direction it asks the person to seek.
+
+Revised the opening, central derivation and conclusion around that connected
+operation. Step Eleven’s request for knowledge of God’s will and power to carry
+it out distinguishes direction from assistance. The governing criticism concerns
+a methodology operating on the unavailability of definitive divine direction as
+the answer while directing the person to seek God for the remedy. The essay argues
+this through the method by which the course’s religious terms are identified;
+it does not replace it with a comparison of rival solutions or a need to make room
+for a human answer. The grounding test examines whether
+the course delivers the given answer or supplies the answer through which God
+is then sought. The self-defeat concerns the same direction invoked and displaced.
+The appeal exposes the problem within the method of seeking, rather than following
+an encounter with recognised instruction and its later replacement.
+
+Integrated the strip-and-restore comparison with that operation, preserving the
+meaning of suggestions, individual interpretation and religious liberty. Retained
+and developed the whole-course practical-execution objection at its actual target.
+The inference depends on an argued reading of AA’s account of approach, surrender
+and restoration, not on religious vocabulary, human authorship or absence of a
+citation alone. The teacher comparison distinguishes experience selecting a useful
+exercise from experience commending the course’s religious account itself. The
+separate affirmative Islamic argument retains its own grounds.
+
+Aligned README, replies, appendix and the necessary application and scope passages.
+Preserved the later AA research, assurance and natural-theology examinations,
+positive Islamic content, jurisprudential distinctions, Millati removal and care
+boundaries. No new methodological rules were added to CONTRIBUTING. The existing
+Markdown reader, design, tests and CI pipeline remain unchanged.
+
 ## 0.16.0 — 3 October 2026
 
 Repaired the transition in the central argument. Edition 0.15.0 restored separate

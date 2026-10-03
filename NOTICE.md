@@ -8,10 +8,13 @@ evidence about a particular meeting or member. Narcotics Anonymous requires
 separate analysis of its own sources. No endorsement is claimed from any cited
 organisation or author.
 
-The main essay examines AA’s own invitation and what follows if God has already
-given a clear, binding and sufficient religious answer. Its application rests on
-an argued reading of AA’s complete offer as another spiritual answer, rather than
-merely a means of carrying out instruction. It does not assume the Qur’an’s authority. The
+The main essay examines a method operating on the unavailability of definitive
+divine direction as the answer while inviting the person to seek God for the
+remedy. It argues this through the programme’s way of identifying approach,
+surrender and restoration, and explains how the appeal exposes the unavailable
+kind of answer as the very direction sought. Its application rests on an argued reading of AA’s complete offer,
+rather than on treating every useful arrangement as another religious answer.
+It does not assume the Qur’an’s authority. The
 Islamic chapter separately accepts the Qur’an and Muhammad’s teaching as
 revelation, develops the Way of the Messengers as sufficient religious guidance,
 and assesses AA’s religious course on those grounds. Their conclusions have
@@ -55,6 +58,12 @@ Step Three commentary, Big Book pp. 46–47 and 93–94, and the introduction to
 checks remain evidence for the retained passages; this edition does not claim
 to have repeated every earlier check.
 
+For v0.17.0, existing extracts were reread for Big Book pp. 46–50, 59–60 and 93–94,
+12&12 Step Three pp. 35 and 39–40, and Step Eleven pp. 102–104. The distinction
+between knowledge of God’s will and power to carry it out is part of Step Eleven
+itself. Its application to the programme’s complete offer is the essay’s inference.
+No new primary source or complete-book reading is claimed for this revision.
+
 The supplied Islamic works retain separate identities: the Wordsmiths translation
 of Ibn Taymiyyah’s *Creed of Asfahani* (2024), al-Shatibi’s *al-Iʿtisam* in Mohammed
 Mahdi Al-Sharif’s translation (2012), and El-Tobgui’s dissertation (2013).
@@ -73,6 +82,13 @@ of the Arabic original. Ibn al-Qayyim’s *al-Daʾ wa’l-Dawaʾ* is cited from 
 identified Arabic edition and scan, edited by Muhammad Ajmal al-Islahi, fourth
 edition, 1440/2019. The research checks selected passages and images, not complete
 readings of these books.
+
+The methodological comparison in v0.17.0 also revisits the existing extracts of
+*Asfahani*, pp. 36–37, and El-Tobgui, pp. 165–166. The former reconstructs an
+argument before answering its premises and inference; the latter distinguishes
+recognising an authority from giving the route of recognition authority over its
+instruction. The revision applies those distinctions to the actual reasoning;
+neither source supplies a verdict about AA.
 
 The *Miftah dar al-saʿadah* discussion uses the hosted Arabic text at continuous
 pp. 395–397. The host identifies Ibn Qaʾid’s third edition, 1440/2019; a physical
@@ -116,7 +132,7 @@ credits, identify changes, and link to the licence and copy used. A title-based
 citation is:
 
 *The Twelve Steps and the prescribed answer: AA, divine prescription and the Way of the Messengers.*
-Twelve-Step Jurisdiction, edition 0.16.0, 3 October 2026. Cite the document and section.
+Twelve-Step Jurisdiction, edition 0.17.0, 3 October 2026. Cite the document and section.
 
 The [source repository](https://github.com/theislampill/twelve-steps) and
 [HTML reader](https://theislampill.github.io/twelve-steps/) are public. Git commits

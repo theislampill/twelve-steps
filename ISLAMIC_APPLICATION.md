@@ -380,9 +380,13 @@ On these grounds, I reject AA’s course as an additional religious answer to th
 harm. The Way of the Messengers already determines worship, repentance and the
 grounds for claims about Allah’s help. The programme’s account of approach,
 surrender and restoration undertakes to supply that answer through its own course.
-Its standing as another answer is the displacement: the prescribed direction is
-no longer what settles the remedy in the offer. The objection does not await a
-later refusal of a command. The religious answer affirmed here leaves no place
+The programme invokes God for direction through that supplied answer. The religious
+grounds stated here identify Allah’s given instruction as the answer to what He
+requires in this matter. On the argued reading, the method operates on that
+instruction’s unavailability as the definitive answer while directing the person
+to seek God for the remedy. Its appeal exposes the very divine answerability it
+has made unavailable in its account of the remedy. The objection does not await
+a later refusal of a command. The religious answer affirmed here leaves no place
 for that further answer to complete or replace it.
 
 The added religious status at issue belongs to the course as a way of approaching

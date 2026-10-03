@@ -1,24 +1,29 @@
 # The Twelve Steps and the prescribed answer
 
-*AA, divine prescription and the Way of the Messengers — edition 0.16.0, 3 October 2026.*
+*AA, divine prescription and the Way of the Messengers — edition 0.17.0, 3 October 2026.*
 
 [Open the HTML reader](https://theislampill.github.io/twelve-steps/) · [Read the essay](THESIS.md)
 
-AA asks someone to seek God’s direction while already supplying a course for
-following it. Its books interpret reliance on AA as surrender to Providence and
-relate practising the Steps to God’s will. Calling the course suggested and
-leaving belief individual can make the religious answer appear undecided.
-Yet an answer has already been offered.
+AA asks someone to seek God’s direction through a spiritual course it has already
+supplied. Its books explain reliance on AA as surrender to Providence and relate
+practising the Steps to God’s will. The invitation gives an answer about how to
+follow Him when it asks the person to seek His direction.
 
-The [essay](THESIS.md) examines the resulting dilemma. If God has already given
-clear, binding and sufficient religious instruction, the course must deliver
-that answer or supply another in its place. It argues that AA’s complete offer
-does the latter: the programme supplies the spiritual remedy while invoking God
-as director. The displacement is in its standing as another answer, before any
-later refusal of instruction. The essay tests the objection that the course is
-merely a means of carrying out guidance, and explains why its published religious
-role exceeds that description. This conditional argument does not require the
-reader to accept Islam.
+The [essay](THESIS.md) argues that AA is **operating on the unavailability of
+definitive divine direction as the answer**. Its method identifies the spiritual
+remedy through its account of recovery and surrender, while directing the person
+to seek God for that remedy. The appeal exposes the problem: it seeks divine
+direction through a method in which instruction known as God’s definitive
+prescription does not determine the religious answer. Suggestions and liberty of
+creed can make this arrangement look like leaving the direction to God. The
+criticism concerns the method’s operation before any encounter with a prescription
+later refused.
+
+The argument tests whether the complete course does this work or merely helps
+carry out prescribed instruction. Genuine delivery removes this criticism; in
+the adverse branch, naming God does not undo the substitution. The premise of an
+authoritative and sufficient prescription is explicit. Readers can examine the
+connection without already accepting its Islamic identification.
 
 [The Way of the Messengers and the work of recovery](ISLAMIC_APPLICATION.md)
 develops the separate Islamic argument. It accepts the Qur’an and Muhammad’s

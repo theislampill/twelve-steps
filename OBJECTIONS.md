@@ -11,20 +11,23 @@ path grounded in experience, asks members to learn through action, and qualifies
 its connection with God’s will by “so, we trust”. It need not claim revelation
 before recommending prayer, honesty or help from others. A proposed course does
 not become an independent religious authority merely because someone wrote it.
+Asking God for strength and understanding could accompany the performance of
+duties already given.
 
-**The reply.** A fallible recommendation can still supply a religious answer.
-The decisive issue is whether AA’s complete offer does that or merely arranges
-means of carrying out instruction. The [main examination](THESIS.md#is-the-course-another-answer-or-a-means-of-carrying-one-out)
-states the strongest form of this objection, including the religious teacher
-who organises prescribed acts, and answers it in full from AA’s account of the
-course. Human authorship and order are expressly insufficient for its conclusion.
+**The reply.** That is the strongest alternative to the essay’s reading. The
+[main examination](THESIS.md#is-the-course-another-answer-or-a-means-of-carrying-one-out)
+states it for the whole course and answers it through AA’s connected account of
+approach to God, surrender and spiritual progress. Its conclusion concerns what
+supplies the religious remedy when the invitation to seek direction is made.
+Religious words, human authorship and order are not sufficient evidence for it.
 
-The word “suggested” qualifies how the answer is offered. It does not change the
-religious work which the offer undertakes. The argument therefore concerns the
-course as a supplied spiritual remedy, even where accepting it is voluntary and
-the writers acknowledge fallibility. It grants recovery and divine assistance;
-neither grant makes another religious answer the delivery of the stipulated
-sufficient prescription.
+The relevant difference is between asking for help in carrying out the prescribed
+answer and supplying an answer through which God is then sought. In the latter
+case, the invitation already performs the work His given direction would settle.
+The [grounding test](THESIS.md#the-grounding-test-and-the-self-defeat-of-the-appeal)
+examines which relationship the course has to the prescribed answer. Suggestions
+and acknowledged fallibility belong in that examination; neither makes the
+supplied remedy an unanswered question.
 
 ## 2. Doesn’t AA leave people free to follow their religion?
 
@@ -34,21 +37,22 @@ an individual understanding of the programme itself.[^liberty] Freedom extends
 beyond choosing a name for God. These provisions count against portraying AA
 as an inflexible creed that forbids revelation.
 
-**The reply.** They do, and the essay does not portray it that way. They tell us
-what a member may bring, how an exercise may be carried out, and whether someone
-may follow another approach. The criticism concerns the published course’s
-standing as another spiritual answer. A liberty to carry religious duties into
-it is not the same relationship as the prescription determining that answer.
+**The reply.** They do, and they matter to the whole-offer question. They support
+the possibility that a member’s duties determine how particular acts are performed,
+and they rule out treating AA as an immutable interpretation imposed on everyone.
+They would answer the central criticism if they showed that prescribed instruction
+determines the complete religious remedy which the books offer. The
+[main examination](THESIS.md#is-the-course-another-answer-or-a-means-of-carrying-one-out)
+explains why the account of approach and restoration still requires more than
+that reading of the liberty passages supplies.
 
-A member’s freedom to disagree does not establish the answer with which they
-may disagree. Nor does accepting a religious duty within an exercise establish
-that religious instruction determines the course’s account of the remedy.
-The [wording comparison](THESIS.md#2-freedom-about-belief-leaves-a-course-already-chosen)
-concerns what is recommended, not an immutable interpretation imposed on every
-member. They count against a claim that AA forbids every alternative; the dilemma
-does not require that claim. Its adverse branch concerns the answer AA itself
-supplies while invoking God, rather than its capacity to prevent a person leaving
-or believing something else.
+An instruction’s words can remain available while its authority to settle the
+religious answer is absent from the offer. This is the distinction at issue:
+recognising it as the already sufficient answer would leave the programme no
+further answer to supply. Liberty to carry beliefs into the course does not
+establish that recognition. The [wording comparison](THESIS.md#2-freedom-about-belief-leaves-a-course-already-chosen)
+shows how the same invitation can appear open about the answer because it is
+open about belief. It does not infer compulsion or forbid a member’s departure.
 
 ## 3. Does offering one path logically rule out a sufficient answer?
 
@@ -57,25 +61,30 @@ while accepting another. Even a complete religious instruction can authorise
 practical help in carrying it out. An offer alone cannot prove that God’s answer
 has been denied or made unknowable.
 
-**The reply.** Bare sufficiency does not exclude alternatives. The premise joins
-sufficiency to divine authority over the religious answer. A means authorised
-under that instruction serves the answer; a further spiritual answer supplies
-what the instruction has already settled. The [derivation](THESIS.md#what-follows-from-that-standing)
-locates displacement in the latter standing itself. It does not add a requirement
-that the programme later overrule or forbid the prescription.
+**The reply.** An offer alone does not establish the criticism, and bare sufficiency
+does not exclude alternative practical means. The criticism is that AA operates
+on the unavailability of definitive divine direction as the answer while asking
+the person to seek God for the remedy. Its method of identifying approach,
+surrender and restoration is the issue. The [derivation](THESIS.md#3-seeking-gods-direction-after-supplying-the-answer)
+examines whether its interpretation of experience determines those religious terms,
+instead of instruction apprehended as God’s governing prescription. This is a
+claim about divine answerability within the method, not a comparison between two
+solutions which happen to differ.
 
-The central application is therefore the classification of AA’s complete offer.
-That classification is argued in the [preceding examination](THESIS.md#is-the-course-another-answer-or-a-means-of-carrying-one-out).
-If the practical-execution reading defeated it, the application of the dilemma
-would fail at that point. An argument that the offer merely lacks adequate
-evidence would not rescue the displacement conclusion. Conversely, once the
-offer is identified as another religious answer, requiring an additional rule
-of exclusion would change the inference being tested.
+The application to AA depends on the account its complete course gives, examined
+in the [practical-execution reply](THESIS.md#is-the-course-another-answer-or-a-means-of-carrying-one-out).
+The criticism must establish that the offer does this work; it cannot infer it
+merely from the presence of prayer or an ordered course. If that reading failed,
+the application would fail there. Inadequate warrant would not rescue it. The
+further connection is that the answer functionally unavailable is the direction
+the person is being invited to seek from God. This explains the self-defeat of
+the appeal, rather than merely a conflict between two proposed answers.
 
-The sufficient-prescription premise remains explicit in the main argument. The
-Islamic chapter affirms and identifies that prescription separately. Neither
-argument derives its religious premises from the programme’s failure, and the
-assessment of useful acts or attendance is not the verdict on the complete offer.
+The premise remains conditional in the main inquiry. The Islamic chapter affirms
+and identifies the prescription on separate grounds. The claim is not that nobody
+can recognise revelation or that AA must continue unchanged forever. It is that
+the same independent spiritual offer cannot remain the solution while the given
+answer governs. Assessing useful acts or attendance separately does not preserve it.
 
 ## 4. Can experience disclose anything about God?
 

@@ -56,27 +56,42 @@ The same constraint applies to a Muslim adviser interpreting continuing difficul
 
 ## 3. What would change either assessment?
 
-The central application is the reading of AA’s complete offer as another spiritual
-answer rather than execution of instruction already given. The main essay argues
-that reading from the course’s combined function: it supplies the shared way,
-interprets following it as surrender and restoration, and commends it across
-individual conceptions of God. A stronger account of the same passages as delivery
-of the given prescription would defeat that application. Human authorship or
-absence of a cited verse cannot decide between those readings on its own.
+The main argument connects the answer AA supplies with the direction it asks the
+person to seek. Its account of approach, surrender and restoration supports the
+reading that the complete offer determines the religious remedy. The
+[practical-execution examination](THESIS.md#is-the-course-another-answer-or-a-means-of-carrying-one-out)
+tests the strongest alternative: those teachings merely carry out instruction
+established elsewhere. Establishing that alternative for the whole religious
+account would defeat the adverse application. Human authorship and the absence
+of a cited verse cannot decide between those readings on their own.
 
-The entailment and its application must remain distinct. On the stipulated premise
-that divine instruction authoritatively and sufficiently settles the religious
-answer, a further answer with independent standing displaces it in that role.
-The contested textual inference is that AA’s offer has this standing. A later
-veto is not an additional premise. Nor is failure to establish a religious claim
-enough by itself to prove this classification. The [main argument](THESIS.md#is-the-course-another-answer-or-a-means-of-carrying-one-out)
-must succeed or fail at its actual interpretation of the course.
+The disputed assumption concerns divine answerability within the method:
+definitive divine direction is unavailable as what determines the religious
+remedy. The essay argues that AA’s interpretation of experience does that work
+in its invitation, while a prescribed instruction may remain available as a
+member’s belief or duty. The claim must be established at that transition;
+failure to cite revelation does not establish it. This concerns the method of
+identifying direction, not an encounter with recognised instruction followed
+by refusal.
+The further connection is the identity of the direction sought and displaced:
+the given instruction would answer the appeal about what God wills in this matter.
+The essay argues this through Step Eleven’s distinction between knowledge of His
+will and power to carry it out. It does not equate every instance of divine help
+with a religious prescription.
 
-Showing that the complete religious account derives its standing from the
-prescription would place it in the favourable branch of the grounding test.
-Liberty to disagree with the programme does not establish that derivation;
-it limits claims about compulsion. Challenging the stipulated prescription’s
-authority, clarity or sufficiency instead challenges a premise of the entailment.
+These transitions can be contested separately. Evidence that the course only
+organises practical means would challenge the first. An account showing how the
+method apprehends prescribed instruction as what definitively determines its
+religious remedy would challenge the second. Evidence that the
+appeal concerns assistance alone, without the attributed account of following
+God, would challenge the third. A later veto is not an additional premise, and
+inadequate warrant cannot substitute for establishing these connections.
+
+Showing that the complete account genuinely delivers the prescribed answer puts
+it in the favourable branch of the grounding test. Challenging the prescription’s
+authority, clarity or sufficiency instead challenges a stated premise. Neither
+an asserted resemblance nor a label such as religious or independent proves the
+textual application. The reasons must reach the work the course actually performs.
 
 The Islamic assessment has an additional source commitment and burden of application.
 
@@ -115,10 +130,12 @@ what AA’s offer has supplied and how it describes its relation to God.
 
 Final authority alone does not establish that a sufficient instruction has already
 been given. The essay states that further premise separately. Its central argument
-then concerns a course supplying another religious answer, not just a method
-reserving a later right to veto a known instruction. An independently supplied
-answer conflicts with the prescribed answer’s governing role under that premise;
-the application to AA rests on the interpretation tested in the essay.
+concerns a method operating on the unavailability of definitive divine direction
+as the answer while directing the person to seek God for the remedy. The
+[essay](THESIS.md#3-seeking-gods-direction-after-supplying-the-answer) examines
+that assumption through the way the course’s religious account is determined.
+The appeal exposes the unavailable kind of answer as the very direction being
+sought. No later right to veto an instruction is required.
 
 A further theory might hold that God grounds the relevant obligations, rather
 than merely reporting independently existing duties. On that premise, a rival
