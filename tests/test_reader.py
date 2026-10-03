@@ -68,6 +68,41 @@ class ReaderTests(unittest.TestCase):
         self.assertEqual(len(soup.select('h1')), 1)
         self.assertTrue(all(a.has_attr('data-source-sha256') for a in soup.select('article')))
 
+    def test_optional_documents_use_complete_reading_branches(self):
+        soup = BeautifulSoup(self.builder.build(ROOT), 'html.parser')
+        expected = {
+            'APPENDIX.md': 'Notes on grounds and evidence',
+            'NOTICE.md': 'Scope, sources and rights',
+            'CONTRIBUTING.md': 'Contributing',
+            'CHANGELOG.md': 'Changelog',
+        }
+        for name, title in expected.items():
+            with self.subTest(document=name):
+                identifier = self.builder.document_id(name)
+                article = soup.find('article', id=identifier)
+                branch = article.parent
+                self.assertEqual(branch.name, 'details')
+                self.assertEqual(branch.get('class'), ['reading-branch'])
+                self.assertEqual(branch.get('id'), 'branch-' + identifier)
+                self.assertEqual(branch.parent.get('id'), 'main')
+                self.assertEqual(branch.find('summary', recursive=False).get_text(), title)
+                # Existing reader JS collapses these; no-JS reading/printing stays complete.
+                self.assertTrue(branch.has_attr('open'))
+                self.assertEqual(str(article), str(self.builder.render_document(ROOT/name)))
+                self.assertIsNotNone(soup.select_one(f'nav a[href="#{identifier}"]'))
+        self.assertEqual(
+            [branch.get('id') for branch in soup.select('main > details.reading-branch')],
+            ['branch-' + self.builder.document_id(name) for name in expected]
+            + ['licence', 'provenance'],
+        )
+
+    def test_main_argument_documents_stay_outside_reading_branches(self):
+        soup = BeautifulSoup(self.builder.build(ROOT), 'html.parser')
+        self.assertEqual(
+            [article.get('data-source') for article in soup.select('main > article')],
+            ['README.md', 'THESIS.md', 'ISLAMIC_APPLICATION.md', 'OBJECTIONS.md'],
+        )
+
     def test_the_delivered_css_and_javascript_are_unchanged(self):
         import hashlib
         soup = BeautifulSoup(self.builder.build(ROOT), 'html.parser')

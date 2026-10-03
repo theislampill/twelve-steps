@@ -35,6 +35,12 @@ GROUPS = (
         ('NOTICE.md', 'Scope, sources and rights'),
         ('CONTRIBUTING.md', 'Contributing'), ('CHANGELOG.md', 'Changelog'))),
 )
+COLLAPSIBLE_DOCUMENTS = {
+    'APPENDIX.md': 'Notes on grounds and evidence',
+    'NOTICE.md': 'Scope, sources and rights',
+    'CONTRIBUTING.md': 'Contributing',
+    'CHANGELOG.md': 'Changelog',
+}
 SITE_URL = 'https://theislampill.github.io/twelve-steps/'
 
 
@@ -198,9 +204,11 @@ def build(root: Path = ROOT) -> str:
     sections = ['<noscript><p class="no-js-note">All chapters are available below. JavaScript adds convenient navigation and print controls.</p></noscript>']
     for name, article in articles.items():
         content = str(article)
-        if name == 'APPENDIX.md':
+        if name in COLLAPSIBLE_DOCUMENTS:
+            # Reuse the existing collapse, deep-link and print behaviour.
+            # Leave source HTML open for complete access without JavaScript.
             content = (f'<details class="reading-branch" id="branch-{document_id(name)}" open="">'
-                       '<summary>Notes on grounds and evidence</summary>' + content + '</details>')
+                       f'<summary>{escape(COLLAPSIBLE_DOCUMENTS[name])}</summary>' + content + '</details>')
         sections.append(content)
     for filename, identifier, title in (
         ('LICENSE', 'licence', 'Licence'), ('PROVENANCE.json', 'provenance', 'Source identities')):
