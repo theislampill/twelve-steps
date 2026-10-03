@@ -6,12 +6,12 @@ This chapter develops the affirmative account that governs the [main essay](THES
 the Way of the Messengers, presented through the Qur’an and the teaching of Muhammad ﷺ,
 accepted here as revelation from Allah. A weakness in AA’s case does not prove Islam,
 and quoting a Muslim scholar does not establish what happens in an AA meeting. The
-purpose is to explain the sufficient religious answer already given, and why an
-ungrounded spiritual offer cannot stand as another answer beside it.
+purpose is to explain the religious answer already given and the grounds that
+govern any proposed practice or claim about Allah’s help.
 
 The account of religious authority, the fitrah comparison and the practical teachings
-develop that contrast. The bidʿah discussion and Millati Islami case are bounded
-applications under it, including assessment of arrangements devised by Muslims.
+develop that contrast. The bidʿah discussion tests the grounds of religious practices,
+including arrangements devised by Muslims.
 
 The Way of the Messengers is an affirmative answer about worship, repentance and obedience.
 It is not a claim that knowing a prohibition makes obeying it effortless. A Muslim who wants
@@ -82,14 +82,18 @@ not settle the wider dispute or the separate question of punishment before a mes
 arrives. Neither an innate awareness nor a general rational obligation, by itself,
 identifies a newly arranged twelve-part devotional procedure as Allah’s prescription.
 
-The comparison therefore grants AA’s strongest possible starting point: suppose someone
-really does become aware of God through reflection and recovery. There is still a further
-question about what this God has disclosed and what follows from it. A path does not
-become His prescription by helping occasion that recognition. If His disclosed answer
-is already authoritative and sufficient, the path has no standing as another spiritual
-solution that completes it.
+Recognition of God therefore directs attention to what He has disclosed. Recovery
+and reflection can occasion that recognition without authorising every practice
+associated with it. The distinction concerns the content of the knowledge gained:
+awareness of the Creator does not itself identify a recovery course as His instruction.
 
 ## 3. What the tradition provides
+
+Ibn al-Qayyim distinguishes two pressures on the heart: destructive desires and
+misleading doubts or arguments.[^two-armies] Leaving a wrong and judging the claims
+of a proposed remedy are consequently distinct tasks. In this essay, *shubuhat*
+(the plural of *shubha*) concerns the latter task. This moral and epistemic distinction
+is not a complete clinical explanation of dependence or a diagnosis of anyone’s heart.
 
 The following develops the given religious answer through its own sources. The instruction
 establishes the work to be undertaken; practical arrangements serve its performance.
@@ -149,8 +153,8 @@ company with the carrier of musk and the blower of bellows.[^company] Family,
 trustworthy friends and people who encourage truthfulness and restraint can help
 sustain the return. These reports do not appoint one friend as an infallible guide,
 or prohibit every useful contact with a non-Muslim professional or mutual-aid group.
-The actual influence and activity require assessment. That separate question about
-particular assistance does not preserve the standing of another spiritual solution.
+The actual influence and activity require assessment. These grounds authorise good
+company; they do not authenticate every religious claim made by a helpful companion.
 
 **Reliance with useful means.** Muslim 2664 joins pursuing benefit with seeking
 Allah’s help. Ibn al-Qayyim answers the fatalistic objection that prayer is pointless
@@ -201,12 +205,11 @@ prophethood for a reader who disputes it, identify an AA sponsor with a philosop
 Ibn Taymiyyah opposed, or transfer a judgement of unbelief to AA members. Its
 application is that the route by which a person first recognises an authority need
 not have permanent precedence over what that authority subsequently teaches. The
-main essay’s [structural assessment](THESIS.md#4-gods-direction-and-the-programmes-path)
-applies this concern to an offer which asks for God’s direction after supplying the
-spiritual course through which that direction is to be understood. The evidence for
-that application comes from AA’s own account of its path; the comparison does not
-require a later rejection of an already recognised divine instruction. This is
-an application of the distinction, not a judgement made by Ibn Taymiyyah about AA.
+main essay’s [assessment](THESIS.md#4-what-the-programme-adds-without-grounds)
+asks what authorises AA’s account of surrender, spiritual restoration and divine
+help. Recognising God through recovery does not give the recovery course authority
+to settle what following Him requires. AA’s own account supplies the evidence for
+this application; Ibn Taymiyyah’s distinction supplies no independent verdict on AA.
 
 Experienced relief can support recognition of mercy without establishing a human
 sequence as the prescribed religious answer. The supplied sources therefore do not
@@ -231,9 +234,19 @@ In the supplied *al-Iʿtisam*, al-Shatibi describes an invented religious way
 resembling the ordained way, and discusses both a narrower formulation centred
 on worship and a broader formulation including customs. He distinguishes such
 innovation from later sciences and arrangements with legitimate roots, and from
-avoiding something for an ordinary medical reason.[^shatibi] A programme’s date
-of invention, a repeating schedule or a written list is therefore insufficient
-to establish his objection.
+avoiding something for an ordinary medical reason.[^shatibi] The lexical sense of
+*bidʿah* concerns originating something without a previous example; his technical religious definition is narrower. A programme’s date of
+invention, a repeating schedule or a written list is therefore insufficient to
+establish his objection.
+
+Al-Shatibi’s resemblance requirement concerns the practice’s religious form.
+On printed pp. 26–27, he examines added limits and conditions which imitate
+authorised worship and are defended as serving its purposes. This differs from
+Ibn al-Qayyim’s analysis of a misleading argument resembling truth. A religious
+practice may be commended by such an argument, but the resemblance of its defence
+does not itself prove that the practice lacks authorisation. The historical examples
+in al-Shatibi’s discussion illustrate that form; they are not identities assigned
+to AA or its members.
 
 There is a major opposing taxonomy. Al-ʿIzz ibn ʿAbd al-Salam classifies innovations
 as obligatory, forbidden, recommended, disliked or permissible, testing each
@@ -269,124 +282,26 @@ ordinary activity can receive a particular ruling because of its content,
 purpose or consequences. Worship can have established general grounds without
 every practical arrangement around it being separately revealed.
 
-The test consequently examines what religious work an arrangement performs. A
-revisable teaching order can serve established instruction. A newly supplied path
-can instead present its own account of spiritual restoration as the way through.
-That role warrants scrutiny even without an express claim that God revealed its
-wording. Particular claims of a specially authorised devotion, a necessary condition
-of forgiveness or a guaranteed divine result make the need for grounds especially
-plain; they are not the only ways a path can displace the given answer.
+The application must therefore identify the added religious status, not merely
+find religious acts in a new course. General grounds may support a practical order
+for teaching repentance and prayer. They do not automatically support declaring
+that order spiritually necessary or promising an additional divine result through
+it. Conversely, lack of a separate text naming the arrangement is not proof that
+general grounds fail to authorise it.
 
-Both taxonomies require grounds for the religious status claimed. Their disagreement
-over which general grounds suffice must remain visible. Neither turns a successful
-human proposal into a further religious solution merely by calling it good. The
-main essay’s structural judgement concerns AA’s offered spiritual path; it is not
-a comprehensive ruling on every activity of every organisation bearing its name.
+The essay applies this distinction to AA’s account of surrender through its course,
+the scope and spiritual role of disclosure, and the assurances attached to its
+practices. It rejects the authority of those additions for the reasons given there.
+The fivefold account still requires testing the actual claims against religious
+principles; the restrictive account still admits authorised means. Neither is a
+shortcut to a verdict about a mixed activity, and this application is not represented
+as a consensus ruling by all Sunni schools.
 
-## 6. Worked case: an Islamic adaptation of the Twelve Steps
+The standard applies equally to arrangements devised by a Muslim author. A useful
+teaching aid can serve a prescribed act without becoming a prescribed devotion.
+Giving it an unwarranted religious status remains objectionable whoever designed it.
 
-A real example makes parity concrete. Millati Islami World Services publishes
-an adapted set of twelve steps. It expressly names Allah, replaces the first
-step’s account of powerlessness with neglect of the higher self, directs the
-fifth step’s admission to Allah and oneself, and names prayer and reading or
-study in the eleventh. These are substantive changes, not simply an unchanged
-text with an Islamic title.[^millati]
-
-The current readings make the intended ground more explicit. They identify submission
-to Allah as the direction of life, describe an integration of Islamic teaching with
-the borrowed Twelve Step approach, name Allah as ultimate authority, and make conveying
-Islam their group purpose.[^millati-ground] These claims deserve assessment as an
-attempt at religious grounding, not dismissal as a change of labels.
-
-The same Steps page also retains a belief that Allah could and would restore the
-participants to sanity. That assurance is subject to the same question raised
-about AA: what supports both the affirmed capacity and the expected action,
-for whom and under what conditions? Naming Allah correctly does not, by itself,
-justify the scope of a promise attributed to Him. The published sentence reports
-a belief; the page alone does not establish whether every use treats it as
-an exceptionless guarantee. It supplies no outcome study.
-
-The current meeting readings offer further grounds. “Hope Through Millati Islami”
-describes reproducing others’ recovery as “only a matter of willingness, patience,
-and work,” stresses reliance on Allah, and closes with Qur’an 16:97.[^millati-readings]
-That verse promises a good life and reward to the believing person who acts
-righteously. These are actual revealed grounds offered for hope, and must be
-considered. Ibn Kathir’s commentary includes worldly contentment, lawful provision
-and tranquillity in its account of the good life.[^good-life] The promise is not
-confined to the hereafter, but neither does the verse itself specify this programme
-or an exceptionless course of recovery from addiction.
-
-The reading’s encouragement need not be treated as a formal clinical guarantee.
-If it is taken to assure that every willing, patient participant who works the
-programme will reproduce another person’s recovery, that stronger inference needs
-further warrant. The question concerns the particular outcome and the scope of
-the assurance; religious hope does not become illegitimate for lacking a clinical
-trial. This applies the same distinction used for AA’s Promises.
-
-The published meeting format also opens with al-Fatihah, includes Qur’an 5:90–91,
-and closes with al-ʿAsr.[^millati-format] This is a concrete combination of devotional
-acts and meeting arrangements. Its assessment requires examining the grounds and
-status of the particular acts and their arrangement. Neither the twelve-part
-structure nor the presence of Qur’an recitation alone establishes invented worship.
-The published format does not establish what every local meeting does.
-
-The structural question is what this integration establishes. Where revelation commands
-a component, it supplies that component’s religious ground. It does not thereby
-prescribe the borrowed sequence or every relation and assurance attached to working
-it. The cited verse warrants hope in Allah’s promise; it does not identify this
-twelve-part course as the sufficient religious answer. Millati’s stated submission
-to Allah must therefore be carried through in the grounds of its actual claims.
-
-This assessment does not wait for an express exclusion of revelation. Nor does the
-adaptation’s attempt at grounding supply the ground of AA’s own offer. The given
-instruction is sufficient: a borrowed course cannot stand as another spiritual
-solution that completes it. Whether a particular arrangement is genuinely its
-application requires tracing the claims to that instruction, not merely finding
-religious words within the arrangement.
-
-The following two uses are **constructed comparisons**, not reports about
-Millati Islami meetings.
-
-In the first, a Muslim group organises a course into twelve sessions. It teaches
-repentance and prayer from their own sources, offers discussion and practical
-support, and treats the sequence as a teaching choice. The number and timing can
-change. A worksheet helps someone identify debts and plan repair; it does not
-create a new condition of repentance. On the worship/custom distinction, the
-administrative arrangement is not shown to be invented worship merely because
-it is new or regular. Under the fivefold approach, its classification would
-likewise require assessment of its purpose, contents and relevant legal grounds.
-Neither analysis requires pretending that every detail was used by the first Muslims.
-The example stipulates prescription-grounding; its possibility does not establish
-that AA’s spiritual offer has that ground or leave that offer standing as another answer.
-
-In the second, a facilitator adds that Allah has prescribed this exact sequence
-for all Muslims with the problem, or attached a special reward to an invented
-count, or made completion of the course necessary for forgiveness. Those are
-additional religious claims. Evidence that the course helped participants,
-or that some of its components are prescribed, does not establish the added
-specifications. This version encounters al-Shatibi’s objection if the claimed
-religious form lacks warrant. Invoking the fivefold classification still
-requires actual legal grounds; it does not establish the new claim by naming it good.
-
-The distinction has practical consequences. The first group organises the teaching
-of an answer already given. The second adds religious terms which the cited grounds
-do not establish. The objection would also arise without an explicit declaration
-of divine authorship if the course supplied another spiritual remedy in the place
-of the sufficient prescription. The task is to assess the religious role performed,
-not wait for a facilitator to adopt the word legislation.
-
-The published Millati Islami materials examined here do not establish that the organisation
-adopts the second use. A verdict to that effect would need further evidence
-about its teaching and practice. The definite findings are that the published adaptation
-asserts Islamic authority and supplies actual revealed content, while the cited grounds
-do not establish the
-complete borrowed sequence or the stronger recovery assurance as divine prescription.
-Muslim authorship confers no exemption, and borrowing an organisational form alone
-does not settle its religious status. Particular prayers, disclosures, meditations
-or rules about amends may require separate
-assessment; one verdict about the whole package cannot do that work.
-
-## 7. The person seeking help
+## 6. The person seeking help
 
 This account concerns guidance and practices, not a declaration about the
 standing of every participant. Bukhari 6780 records the Prophet forbidding a
@@ -448,16 +363,8 @@ useful or bearing an Islamic name.
 
 [^tawqif]: Ibn Taymiyyah, *Majmuʿ al-Fatawa*, [29:16–17](https://www.islamweb.net/ar/library/content/22/3785/), passage beginning with the third argument and the two kinds of human conduct. His expressions include *al-asl fi’l-ʿibadat al-tawqif* and *al-ʿadat al-asl fiha al-ʿafw*. The application to a modern recovery course is this author’s analysis.
 
-[^millati]: Millati Islami World Services, [“12 Steps”](https://millatiislami.org/2020/09/08/12-steps/), page dated 8 September 2020, inspected 2 October 2026. Description is limited to the published steps, especially 1–3, 5 and 11. Neither local meeting practice nor clinical outcomes were investigated. The two course examples following the source description are constructed and must not be attributed to the organisation.
-
-[^millati-readings]: Millati Islami World Services, [“Meeting Format – readings”](https://millatiislami.org/2025/05/02/meeting-format-readings/), page dated 2 May 2025, and its current [eight-page PDF](https://millatiislami.org/V2/wp-content/uploads/2026/09/Millati-Islami-Meeting-Format-Readings.pdf#page=7), p. 7, “Hope Through Millati Islami,” inspected 2 October 2026. The PDF’s creation metadata records 28 September 2026; this is not the HTML page’s original publication date. The passage and PDF page image were checked. The PDF’s identity is recorded in [PROVENANCE.json](PROVENANCE.json).
-
-[^good-life]: Qur’an [16:97](https://quran.com/16/97); [Ibn Kathir (Abridged), English commentary on 16:97](https://quran.com/an-nahl/97/tafsirs/en-tafisr-ibn-kathir). The commentary is cited through the identified English abridgement, not a fresh collation of an Arabic edition. The distinction between the verse’s promise and a specified recovery trajectory is this chapter’s analysis.
-
-[^millati-format]: Millati Islami World Services, [“Meeting Format”](https://millatiislami.org/2020/09/08/meeting-format/), page dated 8 September 2020, inspected 2 October 2026. Its sequence distinguishes opening al-Fatihah from the subsequent “Opening Verse,” Qur’an 5:90–91. Description of this published sequence is not an observation of local practice or a ruling on its individual recitations.
-
 [^person]: *Sahih al-Bukhari* [6780](https://sunnah.com/bukhari:6780), Book of Legal Punishments. The report prohibits the curse while retaining the judgement about drinking; it does not abolish moral responsibility or permit a modern helper to administer punishment.
 
 [^completion]: Qur’an [5:3](https://quran.com/5/3); *Sahih Muslim* [1718a](https://sunnah.com/muslim:1718a) and [1718b](https://sunnah.com/muslim:1718b), reports from ʿA’ishah, Book of Judicial Decisions. Arabic and displayed translations checked 2 October 2026. These grounds concern completeness of religion and unauthorised religious additions, not a revealed clinical schedule. The chapter’s application and the disagreement over later arrangements are stated in its own prose.
 
-[^millati-ground]: Millati Islami, current [Meeting Format Readings](https://millatiislami.org/V2/wp-content/uploads/2026/09/Millati-Islami-Meeting-Format-Readings.pdf), PDF pp. 3–4 and 6. Page 4 acknowledges borrowing from AA and NA; p. 6 states the group’s ultimate authority and religious purpose. These are the organisation’s published claims about its grounds, not independent proof that every element of its course follows from them.
+[^two-armies]: Ibn al-Qayyim, *Miftah dar al-saʿadah*, ed. ʿAbd al-Rahman ibn Hasan ibn Qaʾid, third edition (Dar ʿAtaʾat al-ʿIlm / Dar Ibn Hazm, 1440/2019), continuous [p. 395](https://ibnelqayem.com/ar/books/34?is_intro=0&page=395), hosted Arabic text. The sentence about the two armies precedes the counsel he reports from Ibn Taymiyyah. The distinction is paraphrased; its application to evaluating recovery advice belongs to this essay. The [source notice](NOTICE.md#sources) states the edition-verification limit.

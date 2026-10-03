@@ -1,9 +1,9 @@
 {
-  "version": "0.13.0",
+  "version": "0.14.0",
   "date": "2026-10-02",
-  "parent_version": "0.12.0",
-  "publication": "Local archive only; no public repository, tag or remote release created.",
-  "version_note": "Version labels identify supplied archives; they do not assert the existence of public Git tags.",
+  "parent_version": "0.13.0",
+  "publication": "Public source repository https://github.com/theislampill/twelve-steps; reader https://theislampill.github.io/twelve-steps/. Main-branch commits are built and deployed by GitHub Actions. Edition metadata is not itself proof of a successful deployment.",
+  "version_note": "Edition labels identify editorial versions; they do not assert matching Git tags or GitHub Releases.",
   "predecessors": [
     {
       "version_label": "original",
@@ -95,6 +95,13 @@
       "bytes": 127569,
       "sha256": "7fd5cade74497774b7ef662c937420d05d6fc7abdcfb26cd8770b81b261799bb",
       "verification": "Delivered archive rechecked and preserved on 2026-10-02; source base for v0.13.0."
+    },
+    {
+      "version_label": "v0.13.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.13.0.zip",
+      "bytes": 108644,
+      "sha256": "64cd95988de396441422a7e58d7bc6c85c3ac642ca233b94cc265cdbc277d6be",
+      "verification": "Imported archive identity recorded by the repository in PUBLISHING.md and its historical checksum receipt. Earlier delivered archive remains separate."
     }
   ],
   "editorial_source": {
@@ -141,17 +148,6 @@
       "passages": "Opening p. 3; pp. 8–9, 25–29, 139–141, 353, 357–360. In the inspected body, printed page + 73 = physical PDF page. Bibliographic leaves and selected cited pages checked as images.",
       "verification": "Downloaded edition and selected passages checked on 2026-10-02. Whole work not read; no independent authentication of every report it cites.",
       "bundled": false
-    },
-    {
-      "file": "millati-readings.pdf",
-      "work": "Millati Islami World Services, Meeting Format Readings",
-      "url": "https://millatiislami.org/V2/wp-content/uploads/2026/09/Millati-Islami-Meeting-Format-Readings.pdf",
-      "bytes": 450920,
-      "sha256": "808456257e4b3369895fa333a24f92bfb44e108a7c8082bf54afbead055df9d0",
-      "pdf_pages": 8,
-      "passages": "Current eight-page reading packet, especially p. 7, Hope Through Millati Islami; text and p. 7 image checked. The PDF metadata records creation on 2026-09-28, distinct from the linked HTML page dated 2025-05-02. For v0.11.0, pp.3–4 and6 were reread for the religious grounds claimed by the adaptation.",
-      "verification": "Downloaded PDF and corresponding current HTML checked on 2026-10-02. Published material, not observation of meetings or evidence of clinical outcomes.",
-      "bundled": false
     }
   ],
   "official_aa_pdf_sources": {
@@ -182,7 +178,7 @@
         "bytes": 77631,
         "sha256": "f6fd940220f7914b8f9f076459478b032f3c7ad7977b5b0e436fb6cfa79bd993",
         "pdf_pages": 17,
-        "scope": "Printed pp. 72–88; especially pp. 74 and 83–87. Images of pp. 83–84 checked for v0.9.0; p. 74 additionally checked as text and image for v0.10.0. For v0.11.0 the continuation on p.75 and progression on pp.72,75–76 were reread; p.75 additionally checked as image.",
+        "scope": "Printed pp. 72–88; especially pp. 74 and 83–87. Images of pp. 83–84 checked for v0.9.0; p. 74 additionally checked as text and image for v0.10.0. For v0.11.0 the continuation on p.75 and progression on pp.72,75–76 were reread; p.75 additionally checked as image. For v0.14.0, pp72-76 reread for the scope and spiritual significance of disclosure, retaining confidentiality and recipient limits.",
         "bundled": false
       },
       {
@@ -191,7 +187,7 @@
         "bytes": 73866,
         "sha256": "7b3a28f1c75f4298b7783adfb9972f9dd0dc39e45ccf8cb81133559e1502c04b",
         "pdf_pages": 15,
-        "scope": "Printed pp. 89–103; especially pp. 93–94.",
+        "scope": "Printed pp.89-103; especially pp.93-95. Page95 reread for v0.14.0 as contrary evidence against unrestricted exclusion of another spiritual approach.",
         "bundled": false
       },
       {
@@ -279,7 +275,7 @@
   },
   "web_texts": {
     "access_date": "2026-10-02",
-    "scope": "Exact URLs and passage locators appear in the Markdown footnotes. They cover Quran verses; hadith in Bukhari, Muslim and Abu Dawud; Nawawi on repentance; Izz and Nawawi on five-fold innovation; Ibn Taymiyyah on worship/customs; Maturidi and Ghazali on reason/obligation; Millati Islami published Steps, meeting format and current readings; Ibn Kathir on Quran 16:97 through the identified English abridgement; Ibn al-Qayyim counsel; NIAAA care boundary. Hosted primary passages were read; this does not claim manuscript collation, an independent hadith transmission study, observed meeting practice or clinical comparison.",
+    "scope": "Exact URLs and locators appear in Markdown footnotes: Quran; hadith in Bukhari, Muslim and Abu Dawud; Nawawi on repentance; Izz and Nawawi on fivefold innovation; Ibn Taymiyyah on worship and customs; Maturidi and Ghazali on reason and obligation; Ibn al-Qayyim on resemblance and the two armies; NIAAA care boundary. Previously verified passages are retained with bounded additions. No manuscript collation, independent transmission study, meeting observation or clinical comparison is claimed.",
     "v011_additions": {
       "access_date": "2026-10-02",
       "sources": [
@@ -301,10 +297,22 @@
       "scope": "Hosted Arabic main text inspected for resemblance, silver/copper comparison, acceptance through wording, reverse case of truth rejected through wording, and impartial examination. Distinguished from the preceding counsel attributed to Ibn Taymiyyah. Application to AA is the essay’s own argument.",
       "limits": "No physical scan or independently identified English translation checked. The earlier heritage-site locator 1:140 has an unidentified edition; it is not applied to this reproduction.",
       "bundled": false
+    },
+    "v014_additions": {
+      "access_date": "2026-10-02",
+      "sources": [
+        "https://sunnah.com/bukhari:6069",
+        "https://sunnah.com/bukhari:1936",
+        "https://quran.com/59/18"
+      ],
+      "scope": "Arabic and displayed translations checked for paired disclosure evidence and self-accounting. Miftah continuous p395 additionally reread for the two-armies sentence; pp395-397 retained for impartial analysis of resemblance. Website numbering and digital edition metadata are not independent print or transmission verification."
     }
   },
-  "current_verification_scope": "Editorial revision of the verified v0.12.0 sources. No new primary-source interpretation, full-book reading, meeting observation or clinical comparison claimed. Existing source identities, critical quotations, source-reader text parity, internal links and archive integrity rechecked for v0.13.0. The distinction between religious authority and reported benefit, the resemblance analysis and the positive Islamic source work are retained.",
-  "prior_v011_verification_scope": "Retained source identities and verified passages from v0.9.0 and v0.10.0. For v0.11.0 the AA structural passages were reread, including Big Book45–50,58–60,63,72,74–76,83–85,93–94 and12&12 StepThree35,39–40; p75 checked as image. Millati readings3–4,6 reread for claimed grounds. Quran5:3 and Muslim1718a–b checked online in Arabic and displayed translations. No new full-book reading, manuscript collation, meeting observation or clinical comparison claimed.",
-  "prior_v012_verification_scope": "Previous source identities and research retained. For v0.12.0 the wording analysis uses renewed checks of Big Book59; 12&12 StepTwo26; P-15 pp13–14,20; P-84 p4; P-86 pp5–6, and the context recorded in the essay. Ibn al-Qayyim’s Arabic resemblance passage was checked in the named digital edition, continuous pp395–397. No exact English translation, physical title-page verification, new full-book reading, meeting observation or clinical comparison is claimed.",
-  "edition_scope": "Self-contained criticism of AA’s offered spiritual remedy and its appeal to God’s direction; affirmative religious grounds, source assessment, objections and notes on evidence. Editorial correspondence and earlier submitted formulations are not bundled."
+  "current_verification_scope": "Revision of the launched repository. Root and two requested independent Sol 6.1 Max advisers assessed the argument and review separately; adviser opinion is not a primary source. Relevant official PDF passages reread, especially Big Book49-50,59-60,63,72-76,93-95 and12&12 StepThree35,39-40 and StepEleven98,105; Shatibi24-27 checked as images. Prior assurance, fitrah, practical and jurisprudential source research retained. New Quran and hadith passages checked as stated. Mechanical reader checks verify links, footnotes, source inclusion and generated hashes, not theological validity. No complete-book reading, meeting observation, clinical comparison or consensus ruling claimed.",
+  "edition_scope": "A sustained Islamic criticism of the religious authority claimed for AA’s experiential spiritual course, with analysis of resemblance, authorisation, positive religious guidance, assurances and strongest replies. Historical source archives remain separate; research correspondence is not bundled.",
+  "revision_base": {
+    "commit": "7afe81f046484f8fe75bab19105565a63dad2c1e",
+    "repository": "https://github.com/theislampill/twelve-steps",
+    "scope": "Fresh local clone of the launched repository, initially clean. Existing Markdown build and reader design retained."
+  }
 }

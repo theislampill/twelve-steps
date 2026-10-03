@@ -1,5 +1,34 @@
 # Changelog
 
+## 0.14.0 — 2 October 2026
+
+Rebuilt the essay around one complaint: AA gives its experiential course religious
+authority which its stated grounds do not establish. The 12&12’s interpretation
+of surrender and God’s will, and the Big Book’s account of disclosure and spiritual
+progress, now carry the argument before the examination of assurances.
+
+The judgement is consistently presented as an Islamic assessment with internal
+points of contact. This clarifies a material overstatement in the previous edition:
+offering a course does not by itself prove that revelation is unavailable or that
+AA formally contradicts its own premises. Displacement now names the argued
+relationship between the programme’s religious claims and the prescribed answer.
+General religious authorisation is distinguished from a demand for a revealed
+pedigree for every practical arrangement.
+
+Distinguished shubha, a misleading argument, from bidʿah, a religious practice’s
+authorisation problem. Applied the resemblance analysis to the inference from
+freedom of creed to absence of a religious claim requiring grounds. Retained the
+positive Islamic account and Sunni bidʿah disagreement, and added the verified
+two-armies distinction with a bounded application. The Step map separates acts
+from additional claims rather than assigning twelve automatic rulings.
+
+Removed the Millati Islami case, its constructed comparisons, incoming links and
+source records. Historical changelog entries remain accounts of earlier editions.
+Added paired disclosure sources, self-accounting grounds and the Big Book p. 95
+alternative-approach passage to the relevant discussion. Updated the public
+repository notices and retained the original-edition checksum receipt. Markdown
+remains the source of the eight-document reader and its existing build pipeline.
+
 ## 0.13.0 — 2 October 2026
 
 The essay and reading guide now introduce the criticism directly for readers familiar

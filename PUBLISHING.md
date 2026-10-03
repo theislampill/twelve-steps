@@ -55,7 +55,7 @@ review. Check both a wide and a mobile layout, keyboard navigation, repeated-not
 return links, dark mode and print. Link checks are internal; they do not promise
 that external publishers will keep their URLs available.
 
-Dependency versions and wheel hashes are pinned. Dependabot proposes updates; review
+Dependency versions and wheel hashes are pinned. Review dependency updates against
 the reader and tests before merging. CI actions are pinned to commit SHAs. The build
 job has read-only repository access; only the main-branch deployment job receives
 Pages and OpenID Connect permissions. CODEOWNERS requests the maintainer's review;
@@ -73,9 +73,9 @@ The input was `Twelve_Step_Jurisdiction_v0.13.0.zip` (108,644 bytes), SHA-256:
 Its Markdown, licence and provenance were checkpointed at
 [`0250547`](https://github.com/theislampill/twelve-steps/commit/0250547aefb656b9859ee9a2c24851eb2377d020).
 `site/original-v0.13.0.sha256` records the supplied archive's original checksums; it
-is a historical receipt, not a manifest of this evolving repository. The original
-`PROVENANCE.json` publication statement describes that local input archive, not the
-later GitHub publication. Its source-research claims have not been expanded.
+is a historical receipt, not a manifest of this evolving repository. The imported
+`PROVENANCE.json` described a local archive. The current file records the public
+repository and the source-checking scope of subsequent editorial editions.
 
 Each generated `_site/SHA256SUMS` covers the newly built HTML and accompanying source
 files. From `_site`, run `sha256sum --check SHA256SUMS` to check that artifact. Generated
