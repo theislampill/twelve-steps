@@ -390,10 +390,10 @@ involve, while His direction is unavailable **as what settles that account**.
 This is not merely a seeker who has yet to learn the answer. It is a method which
 frustrates reception of divine direction as the answer in the very seeking it
 commends, and therefore interferes with the growth pursued through that seeking.
-The outward side of the meditation’s warning applies when this method is commended
-to another; the inward side applies when the seeker adopts the same relation to
-divine direction. The method reproduces the interference through its own teaching
-and adoption.
+**By the standard stated in AA’s own “ONLY TWO SINS” meditation, AA’s method commits both sins:**
+commending it to another interferes with that person’s growth, and adopting it
+oneself interferes with one’s own growth. The method reproduces both sins through
+its own teaching and adoption.
 
 Step Eleven’s warning against asking God to endorse a previously chosen solution
 makes the question intelligible within AA’s own account of surrender. Its commentary
