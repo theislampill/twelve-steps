@@ -1,7 +1,7 @@
 {
-  "version": "0.17.0",
+  "version": "0.17.1",
   "date": "2026-10-03",
-  "parent_version": "0.16.0",
+  "parent_version": "0.17.0",
   "publication": "Public source repository https://github.com/theislampill/twelve-steps; reader https://theislampill.github.io/twelve-steps/. Main-branch commits are built and deployed by GitHub Actions. Edition metadata is not itself proof of a successful deployment.",
   "version_note": "Edition labels identify editorial versions; they do not assert matching Git tags or GitHub Releases.",
   "predecessors": [
@@ -334,7 +334,7 @@
       "sources": [
         "https://www.aa.org/daily-reflections?date=00-11-22"
       ],
-      "scope": "Official entry read in the live AA website through its Daily Reflections search, including the opening quotation, attribution and ensuing meditation on self-serving prayers, humility and acceptance. The entry attributes the quotation to Alcoholics Anonymous, Third Edition, p. 542. The original Third Edition page was not independently inspected. The external Islamic reversal applies the chapter's account of growth to the method's relation to divine guidance; it does not attribute that account to AA or treat this meditation as an exhaustive AA doctrine of sin.",
+      "scope": "Official entry read in the live AA website through its Daily Reflections search, including the opening quotation, attribution and ensuing meditation on self-serving prayers, humility and acceptance. The entry attributes the quotation to Alcoholics Anonymous, Third Edition, p. 542. The original Third Edition page was not independently inspected. In merged PR #6, this source supported an external Islamic reversal. That placement is historical: the v0.17.1 candidate moves the reversal into THESIS section 3 as an internal consequence of AA’s own seeking-and-growth commitments, without requiring an already-given complete prescription. The entry is not treated as an exhaustive AA doctrine of sin.",
       "bundled": false
     },
     "v015_additions": {
@@ -343,11 +343,26 @@
         "https://andrewmbailey.com/rma/2002a-Adams-PrecisFiniteInfiniteGoods.pdf"
       ],
       "scope": "Robert Merrihew Adams, Precis of Finite and Infinite Goods, Philosophy and Phenomenological Research 64.2 (2002), pp439-444, especially pp440-441. His own distinction between moral metaphysics and epistemology limits the appendix comparison. Complete book not read."
+    },
+    "v0171_correction": {
+      "access_date": "2026-10-03",
+      "sources": [
+        "https://www.aa.org/daily-reflections?date=00-11-22",
+        "https://www.aa.org/sites/default/files/2022-01/en_step11.pdf"
+      ],
+      "scope": "Official Daily Reflections indexed text rechecked for November 22 quotation, attribution and meditation; prior live-site reading retained. Retained official Step Eleven PDF identity rechecked, extracted text reread and page images inspected at printed pp. 96 and 102 (PDF pp. 1 and 7). The original Third Edition p. 542 was not independently inspected. The growth reversal applies the main essay’s argued account of methodological interference to AA’s own seeking-and-growth commitments. Neither an already-given complete prescription nor its Islamic identification is a premise of this reversal. The separate authority-and-sufficiency argument retains its explicit premise; the Islamic chapter separately affirms and identifies the prescription."
     }
   },
-  "current_verification_scope": "The supplied independent review was read in full against the current v0.16.0 manuscript and the user’s governing wording. The revision develops the connected appeal rather than only a comparison of two answers. Root and the two existing requested Sol 6.1 Max advisers assessed the actual revised text; manuscript reconstruction preceded their fidelity comparison. Both first passes challenged the inference from a religious account to independent answer provision. The revised reply distinguishes experience selecting exercises from experience commending the religious account itself, and preserves the general-authorisation alternative and its precise defeat point. Bounded companion review checked consistency; source-interpretation limits remain explicit. Adviser agreement is not primary evidence or proof. Existing extracts reread for Big Book pp46-50, 59-60 and93-94, 12&12 Step Three pp35 and39-40, Step Eleven pp102-104, Asfahani pp36-37, and El-Tobgui pp165-166. Prior source identities and verification limits retained. No new primary source, complete-book reading, independent Arabic collation, clinical comparison or consensus judgement is claimed. Reader tests and publication checks establish technical properties, not substantive validity.",
+  "current_verification_scope": "Issue #7, including the owner clarification updated 3 October 2026 at 09:08:40 UTC, and merged PR #6 state read against verified current main db26030eed1f25e9c238b6cb1a35a4b21bb5cc12. Bounded reclassification: a short two-paragraph self-application and its source note added to THESIS section 3; former Islamic paragraph replaced by a dependency cross-reference. No rewrite of the accepted answerability derivation. Source verification and participant/practical-means limits remain explicit. Reader tests and PR checks establish technical properties, not substantive validity or publication authority.",
   "edition_scope": "The governing criticism is AA operating on the unavailability of definitive divine direction as the answer while directing the person to seek God for the remedy. The manuscript examines its method of identifying approach, surrender and restoration, argues why instruction as the definitive governing answer is unavailable within that operation, and explains why the appeal exposes this very unavailable kind of answer as what is sought. The grounding test examines genuine delivery or substitution within the appeal; a comparison of competing solutions, room for a human answer, missing warrant or a later veto does not replace the inquiry. The practical-execution objection is tested at the whole-course inference; conditional premises and the separate affirmative Islamic argument remain explicit. Wording analysis examines the same operation beneath the presentation of openness. Prior research, positive Islamic content, scope boundaries, Millati removal and reader pipeline are preserved.",
   "revision_base": {
+    "commit": "db26030eed1f25e9c238b6cb1a35a4b21bb5cc12",
+    "repository": "https://github.com/theislampill/twelve-steps",
+    "scope": "Fetched current main independently confirmed; PR #6 merged and remote branch deleted. New fix/v0.17.1-growth-reversal branch from that merge commit in a clean isolated checkout. Existing history preserved; this candidate requires independent review before merge or publication."
+  },
+  "release_status": "Unreleased review candidate for Issue #7; a feature-branch commit and successful checks do not establish independent acceptance, merge or publication.",
+  "v017_verification_scope": "The supplied independent review was read in full against the current v0.16.0 manuscript and the user’s governing wording. The revision develops the connected appeal rather than only a comparison of two answers. Root and the two existing requested Sol 6.1 Max advisers assessed the actual revised text; manuscript reconstruction preceded their fidelity comparison. Both first passes challenged the inference from a religious account to independent answer provision. The revised reply distinguishes experience selecting exercises from experience commending the religious account itself, and preserves the general-authorisation alternative and its precise defeat point. Bounded companion review checked consistency; source-interpretation limits remain explicit. Adviser agreement is not primary evidence or proof. Existing extracts reread for Big Book pp46-50, 59-60 and93-94, 12&12 Step Three pp35 and39-40, Step Eleven pp102-104, Asfahani pp36-37, and El-Tobgui pp165-166. Prior source identities and verification limits retained. No new primary source, complete-book reading, independent Arabic collation, clinical comparison or consensus judgement is claimed. Reader tests and publication checks establish technical properties, not substantive validity.",
+  "v017_revision_base": {
     "commit": "da7ccffd7384348d86bc51c93724b98598149a1b",
     "repository": "https://github.com/theislampill/twelve-steps",
     "scope": "Live main and local checkout matched v0.16.0 and were clean before revision. Isolated v0.17.0 worktree; existing material and reader pipeline retained."
