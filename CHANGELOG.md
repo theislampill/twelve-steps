@@ -11,6 +11,14 @@ evidence governing judgement from evidence recruited for a prior inclination,
 while preserving the case of qualified reasoning which errs. Added precise source
 notes and updated the source-checking record.
 
+The review response clarifies that the arrangement treats divine instruction as
+insufficient in its governing capacity; revelation itself does not become
+insufficient. Added a short Islamic application of the growth-language in AAWS’s
+November 22 *Daily Reflections* entry. Its attribution to Third Edition p. 542 is
+recorded as the entry’s attribution, without claiming independent inspection of
+that original page. The application concerns the method’s relation to divine
+guidance, not every participant’s development or an exhaustive AA doctrine of sin.
+
 The AA-facing essay, README, objections and appendix are unchanged from accepted
 v0.17.0. Its divine-answerability derivation already makes the relevant analytical
 distinctions. The Islamic addition applies those distinctions under its own
