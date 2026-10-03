@@ -1,41 +1,43 @@
 # The Twelve Steps and the prescribed answer
 
-*AA, divine prescription and the Way of the Messengers — edition 0.14.0, 2 October 2026.*
+*AA, divine prescription and the Way of the Messengers — edition 0.15.0, 3 October 2026.*
 
 [Open the HTML reader](https://theislampill.github.io/twelve-steps/) · [Read the essay](THESIS.md)
 
-AA asks the alcoholic to seek God’s help and supplies a spiritual course to follow.
-Its literature connects reliance on AA with surrender to Providence and practising
-the Steps with following God’s will. The complaint is that recovery experience
-does not establish authority for those religious claims. Suggestions and liberty
-of creed leave that problem unanswered: a course can be voluntary and still offer
-unwarranted religious direction.
+AA asks someone to seek God’s direction while already supplying a course for
+following it. Its books interpret reliance on AA as surrender to Providence and
+relate practising the Steps to God’s will. Calling the course suggested and
+leaving belief individual can make the religious answer appear undecided.
+Yet an answer has already been offered.
 
-The [essay](THESIS.md) judges that course from an openly Islamic standpoint. The
-Way of the Messengers supplies binding and sufficient religious guidance; human
-arrangements must serve it within its authorisation. Shared virtues and reported
-benefit do not authorise the additional account of spiritual restoration AA makes
-for its programme. Naming God as director does not give the programme authority
-to supply the religious terms of His direction.
+The [essay](THESIS.md) examines that invitation through AA’s own words. It asks
+what establishes the programme’s account as God’s direction, then tests what
+follows if God has already given clear, binding and sufficient instruction.
+That instruction would determine the course’s religious standing; it could not
+be reduced to a personal interpretation of an answer supplied in advance.
+This argument does not require the reader to accept Islam.
 
-The criticism distinguishes *shubha*, a specious argument resembling truth, from
-*bidʿah*, an unauthorised religious innovation in the sense adopted here. It tests
-the misleading inference that freedom of creed removes the need for religious
-grounds, then examines the course and the grounds of its religious claims.
+[The Way of the Messengers and the work of recovery](ISLAMIC_APPLICATION.md)
+develops the separate Islamic argument. It accepts the Qur’an and Muhammad’s
+teaching as revelation, explains the prescribed work of repentance, worship,
+repair, company and useful means, and judges AA’s course as an additional
+religious answer. Its premises and judgement are stated in that chapter.
+
+The two arguments ask connected questions with different grounds. AA’s account
+can be examined before accepting the Islamic answer; the Islamic answer is not
+inferred from a weakness in AA. The project’s concern is the religious authority
+of the offered course, not a denial that people recover or receive help.
 
 ## Reading further
 
-[The Way of the Messengers and the work of recovery](ISLAMIC_APPLICATION.md) develops
-the affirmative answer through fitrah, repentance, worship, repair, company and
-useful means. It also examines Sunni disagreement over bidʿah and the distinction
-between worship and ordinary arrangements.
+[Objections and replies](OBJECTIONS.md) separates replies about the invitation
+from replies about the Islamic judgement. The [appendix](APPENDIX.md) maps acts
+and claims, examines the inference from continued drinking, and explains the
+conditional argument about divine authority.
 
-[Objections and replies](OBJECTIONS.md) begins with the strongest alternative:
-that AA simply helps people practise existing teachings. The [appendix](APPENDIX.md)
-maps the relevant Steps and explains what religious grounds and recovery evidence
-can establish. [Source scope and rights](NOTICE.md), [source identities](PROVENANCE.json),
-[contribution guidance](CONTRIBUTING.md) and the [changelog](CHANGELOG.md) complete
-the reading documents.
+[Source scope and rights](NOTICE.md), [source identities](PROVENANCE.json),
+[contribution guidance](CONTRIBUTING.md) and the [changelog](CHANGELOG.md)
+complete the reading documents.
 
 The [care notice](NOTICE.md#scope-and-care) applies throughout. This is an argument
 about religious authority, not a treatment or withdrawal plan. Markdown is the

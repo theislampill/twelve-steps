@@ -1,153 +1,167 @@
 # Objections and replies
 
-The criticism concerns AA’s authority to supply religious direction. These replies
-test that judgement against the strongest alternative readings of its course.
+The first four replies concern the essay’s examination of AA’s invitation. The
+last three concern the separate Islamic assessment. An objection to one does
+not automatically settle the other.
 
-## 1. Why isn’t this simply a useful way to practise existing teachings?
+## 1. Isn’t AA simply recommending something that might help?
 
-**The objection.** Honesty, humility, prayer, restitution and service already have
-religious grounds. AA gives people practical ways to do them. Its authors need not
-have derived every exercise from revelation for the exercise to be permissible.
-An experienced teacher can recommend an arrangement without founding a new religion.
+**The objection.** Trying a practice can teach us something. AA offers a fallible
+path grounded in experience, asks members to learn through action, and qualifies
+its connection with God’s will by “so, we trust”. It need not claim revelation
+before recommending prayer, honesty or help from others. A proposed course does
+not become an independent religious authority merely because someone wrote it.
 
-**The reply.** That is a valid distinction, and the criticism depends on observing
-it. Human authorship, religious content and a sequence do not together prove
-bidʿah. Al-Shatibi permits later disciplines and arrangements with general religious
-roots; the fivefold account likewise tests later practices against religious
-principles. A beneficial means does not need a revealed pedigree merely because
-it serves a religious end.
+**The reply.** The distinction between a proposal and an authoritative instruction
+is sound. The issue is the additional interpretation AA gives its proposal.
+Relying on the fellowship is explained as surrender to Providence; practising
+the principles is connected with God’s will; the outlined method is described
+as God’s discipline. Those identifications are already offered to the reader
+before the reader’s own investigation has taken place. Their tentative wording
+does not make them disappear.
 
-AA’s published account, however, adds an interpretation of spiritual restoration
-to the useful activities. The [essay’s application](THESIS.md#4-what-the-programme-adds-without-grounds)
-examines reliance on AA as surrender to Providence, disclosure as necessary
-spiritual work, and assurances attached to the course. General grounds for prayer
-and repair do not establish all these added relations. Nor does evidence that an
-exercise helped someone identify its religious necessity or promised divine result.
+The reader may reasonably investigate a recommended practice. What still requires
+support is the programme’s account of what the practice means in relation to God.
+A successful trial could strengthen confidence that an exercise helps; it would
+not, without further reasons, establish the full religious interpretation.
+The [authority argument](THESIS.md#3-seeking-gods-direction-after-supplying-the-answer)
+grants both recovery and divine help before testing that distinction.
 
-Reliance on a helpful group can itself be reliance on a means Allah provides, and
-particular disclosure can be practically necessary. Those possibilities must be
-assessed on their actual grounds. They do not authenticate the complete religious
-account AA recommends, especially its assurances about divine response and the unseen.
+The error would be to move from permission to investigate the proposal to
+acceptance of the answer the proposal gives about surrender and God’s direction.
+Fallibility describes the status of that answer; it is not evidence for its truth.
+This reply neither demands a separate revealed sentence for every useful exercise
+nor treats every spiritual interpretation as impossible to justify.
 
-The judgement concerns those additions and the religious account they compose.
-It does not condemn an inventory simply because someone wrote it, or a teaching
-order simply because someone chose it. Evidence authorising the disputed religious
-role would change that judgement within its scope. Merely listing virtues shared
-with the course leaves that role unproved.
+## 2. Doesn’t AA leave people free to follow their religion?
 
-## 2. Does AA forbid someone from following revelation instead?
+**The objection.** The books recognise religious duties, encourage renewed
+devotions and allow another spiritual approach. The sponsorship pamphlet permits
+an individual understanding of the programme itself.[^liberty] Freedom extends
+beyond choosing a name for God. These provisions count against portraying AA
+as an inflexible creed that forbids revelation.
 
-**The objection.** AA permits religious learning, recognises required devotions,
-and encourages someone who prefers another spiritual approach to follow their
-conscience. Big Book p. 95 expressly disclaims a monopoly on God.[^liberty] How can
-the essay say that revelation has become unavailable?
+**The reply.** They do, and the essay does not portray it that way. They tell us
+what a member may bring, how an exercise may be carried out, and whether someone
+may follow another approach. The criticism asks a different question about the
+published course: what establishes its interpretation of surrender and spiritual
+restoration as God’s direction?
 
-**The reply.** An unrestricted claim of unavailability would be wrong. Those
-passages establish that the book permits other religious knowledge and approaches.
-The criticism concerns what establishes the religious course AA itself recommends.
-Permitting a person to choose a different approach does not authorise this one.
-Accepting an outside duty within an exercise likewise does not establish the
-religious status of the whole course.
+A member’s freedom to disagree does not establish the answer with which they
+may disagree. Nor does accepting a religious duty within an exercise establish
+that religious instruction determines the course’s account of the remedy.
+The [wording comparison](THESIS.md#2-freedom-about-belief-leaves-a-course-already-chosen)
+concerns what is recommended, not an immutable interpretation imposed on every
+member. The liberty passages limit a coercion claim; they do not supply the
+grounds of that recommendation.
 
-The prescription is displaced as the governing source of the offered remedy,
-not made impossible to learn or obey anywhere. This is an assessment of the
-programme’s account of spiritual recovery, under the Islamic premises stated in
-the essay. It is not a finding that every meeting enforces an exclusion rule.
-A later refusal of a known instruction would be a further issue, not the evidence
-needed to examine the religious claims already made.
+## 3. Does offering one path logically rule out a sufficient answer?
 
-## 3. Doesn’t “suggested” make this a fallible proposal rather than legislation?
+**The objection.** Two means may serve the same end. A person may recommend one
+while accepting another. Even a complete religious instruction can authorise
+practical help in carrying it out. An offer alone cannot prove that God’s answer
+has been denied or made unknowable.
 
-**The objection.** AA does not demand belief in an infallible procedure. The Big
-Book makes the Step Three prayer’s exact wording optional. The 12&12 qualifies
-its connection with God’s will by “so, we trust”.[^suggestion]
+**The reply.** Mere coexistence is not the contradiction. The conflict concerns
+which answer determines the religious terms. If the offered course supplies
+those terms independently, an instruction allowed only to confirm or personalise
+them cannot also be what establishes them. The [essay](THESIS.md#3-seeking-gods-direction-after-supplying-the-answer)
+states that conflict and its premises in full.
 
-**The reply.** Those qualifications reduce the claim’s strength and must remain
-beside it. They do not remove its religious content. A suggested devotional course
-still requires grounds for its account of worship, surrender and divine help.
-The essay criticises the authority of that account, without turning a suggestion
-into a compulsory membership creed.
+The texts establish the religious answer AA commends. A judgement that it is an
+unauthorised alternative also needs the relevant instruction and an assessment
+of what it authorises. The internal argument must not quietly borrow that
+judgement from Islam. Conversely, an Islamic assessment need not first establish
+that AA explicitly forbids revelation: its question is whether the course’s
+religious claims have the authority they need.
 
-“Religious” also needs a clear meaning. AA can truthfully deny being a religious
-organisation while publishing teaching about prayer and God’s will. The essay
-examines that teaching; it does not manufacture a contradiction between two uses
-of the word. The [resemblance analysis](THESIS.md#2-suggestions-do-not-remove-that-claim)
-tests the mistaken inference from non-imposition to freedom from the need for
-religious grounds. It does not accuse the authors of consciously concealing a plan.
+The conclusion is consequently about the standing of the course’s religious
+answer. An assessment of separately useful acts, or of someone’s attendance,
+does not decide that question. Renaming the complete course “practical help”
+leaves its published account of surrender and divine direction to be examined.
 
-## 4. Does sufficiency by itself exclude another useful path?
+## 4. Can experience disclose anything about God?
 
-**The objection.** Two means can serve the same end. Offering one does not logically
-deny that another exists or suffices.
+**The objection.** Recovery, answered prayer and moral change can give a believer
+reason to recognise God’s mercy. A demand for formal deduction or a separately
+revealed text for every recognition would dismiss ordinary religious knowledge.
 
-**The reply.** Correct. The conclusion depends on divine authority and the rejection
-of unauthorised religious additions, together with the assessment of what AA adds.
-It does not follow from the word *sufficient* alone. The religious instruction
-can authorise practical means while forbidding an added religious condition or
-assurance. That distinction explains why a calendar is not another prescription.
+**The reply.** The argument grants that experienced help can disclose mercy. It
+tests what else the experience establishes. Recognising the giver of help does
+not automatically authenticate the receiver’s complete explanation of the help.
+This is a distinction between conclusions, not a ban on experiential knowledge.
 
-The criticism therefore rejects the programme’s unsupported religious direction.
-It does not preserve that direction by relabelling the complete course as help.
-Taking a useful activity separately is a different assessment; it cannot establish
-the religious account made for the programme as a whole.
+Learning through practice remains possible. The practical and religious claims
+must each be assessed for what supports them. The same standard applies to
+Islamic accounts of answered prayer: a fulfilled hope does not establish every
+condition an observer associates with it. The [Islamic discussion](ISLAMIC_APPLICATION.md#4-how-ibn-taymiyyahs-argument-bears-on-this-question)
+also preserves reason’s affirmative role, rather than treating revelation as an
+excuse to stop reasoning.
 
-## 5. Can experience support religious knowledge?
+## 5. Why call an arrangement an unauthorised religious addition?
 
-**The objection.** Recovery, moral change and answered prayer can give a believer
-reason to recognise God’s mercy. Demanding a separate revealed text for every
-recognition would dismiss ordinary religious experience.
+**The objection.** Honesty, prayer, self-examination, restitution and service have
+religious grounds. A teacher may arrange them into lessons. Neither human
+authorship nor a chosen order proves religious innovation. The fivefold Sunni
+classification of innovations recognises legitimate later developments.
 
-**The reply.** Experience can support such knowledge. The question is what follows
-from it. Recognising mercy does not authenticate every condition attached to the
-practice through which someone sought help. The [Ibn Taymiyyah discussion](ISLAMIC_APPLICATION.md#4-how-ibn-taymiyyahs-argument-bears-on-this-question)
-preserves both the value of experienced benefit and the authority of revelation
-to teach more than the person independently concluded.
+**The reply.** The [Islamic application](ISLAMIC_APPLICATION.md#6-the-islamic-judgement-of-aas-course)
+distinguishes organising an act from assigning a further religious role to the
+arrangement. It examines the interpretation of surrender through AA, the scope
+and spiritual necessity of disclosure, and the assurance attached to the practices.
+General grounds for familiar virtues do not establish all those claims.
 
-The same restraint governs Islamic claims about prayer. A condition is not
-defective merely because it is a condition. Its grounds and application must be
-established, and continuing difficulty does not disclose which condition a person
-failed to meet. The [evidence notes](APPENDIX.md#2-what-continued-drinking-can-establish)
-explain that inference.
+That argument must answer the strongest available grounds for the disputed
+claim. It cannot win merely by observing that the author did not cite a verse.
+An act can have grounds its author did not mention; a verse can be cited without
+supporting the status claimed. The [bidʿah discussion](ISLAMIC_APPLICATION.md#5-bidʿah-the-disagreement-and-the-governing-distinction)
+therefore preserves the real disagreement over which general grounds authorise
+later arrangements. Its judgement of AA is argued, not presented as a verdict
+shared by every Sunni scholar.
 
-## 6. Does this give people information when they need help acting?
+The same constraint applies to a Muslim’s course. A useful teaching aid does not
+become a devotion or a condition of divine help simply by receiving an Islamic
+name. This is the point of applying the test equally; it requires no separate
+case against a named Muslim organisation.
 
-**The objection.** Someone may already know drinking is wrong but still be unable
-to leave it without sustained support.
+## 6. Does the religious answer give information where action is needed?
 
-**The reply.** The prescribed work includes action and assistance: repentance,
-repair, worship, good company and useful means. The [positive account](ISLAMIC_APPLICATION.md#3-what-the-tradition-provides)
-develops these. Knowing a prohibition does not make obedience effortless, and
-religious sufficiency does not mean a clinical plan has been revealed.
+**The objection.** Someone may know drinking is wrong and still need sustained
+help to leave it. Saying that religion is complete does not solve that practical
+difficulty.
 
-The criticism gives no instruction to discontinue appropriate care. It also
-allows no inference that reported recovery is unreal or divine help impossible.
-A useful result does not establish the programme’s religious authority. That is
-the conclusion being defended.
+**The reply.** The [positive account](ISLAMIC_APPLICATION.md#3-what-the-tradition-provides)
+prescribes work: repentance, repair, worship, good company and pursuing benefit
+while seeking Allah’s help. Its completeness concerns religious direction.
+Learning how to carry it out, organising assistance and obtaining appropriate
+treatment are real tasks within that account.
 
-## 7. Does the argument assume Islam rather than prove it?
+The claim is neither that knowledge makes obedience effortless nor that religious
+sources supply a clinical timetable. Those would be different claims requiring
+different grounds. The criticism gives no instruction to discontinue care, and
+it draws no conclusion about a person’s sincerity from continuing difficulty.
+The [care notice](NOTICE.md#scope-and-care) applies to the entire project.
 
-**The objection.** AA’s readers need not accept the Qur’an, Muhammad’s prophethood
-or the Islamic account of religious completion. Those premises cannot be derived
-from AA’s own references to God.
+## 7. Why should an AA reader accept the Islamic judgement?
 
-**The reply.** This is an openly Islamic assessment, not a wholly internal
-refutation of AA. Its account of the religious remedy has independent grounds;
-this essay does not infer Islam from a gap in AA or claim to establish the whole
-case for revelation here. AA’s own statements establish the religious claims
-under examination. The accepted revelation supplies the standard of judgement.
+**The objection.** An AA reader may not accept the Qur’an, Muhammad’s prophethood
+or the religious rules governing later devotions. AA’s references to God cannot
+establish those premises.
 
-That distinction also limits “self-defeat”. Asking God for help while recommending
-a course is not itself a formal contradiction. The criticism is that the
-programme supplies unwarranted religious direction in the course of appealing
-to God’s direction. Under the adopted standard, naming Him does not authorise
-that substitution. The argument must show the unsupported religious work rather
-than obtain its verdict from the label.
+**The reply.** The internal essay does not require those premises. Its argument
+about the invitation and its conditional argument about divine authority must
+stand on the reasons stated there. The Islamic chapter supplies a distinct
+affirmative account: it accepts the Qur’an and Muhammad’s teaching as revelation,
+explains what they prescribe and judges AA’s religious course on those grounds.
 
-The same standard applies to this author. Islamic language confers no exemption;
-an interpretation or practical proposal must be warranted for the status claimed.
-The companion chapter therefore preserves Sunni disagreements over reason and
-bidʿah where they affect the argument.
+A reader can follow that argument without already agreeing with its sources.
+Disputing their authority identifies a substantive religious disagreement; it
+does not turn the internal argument into an Islamic proof or refute Islam through
+AA’s usefulness. This project does not establish the whole case for revelation.
+It makes its dependence on that case visible where the dependence matters.
 
-[^liberty]: Big Book, [Chapter 6](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt6.pdf#page=3), pp. 74–75 and 87; [Chapter 7](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt7.pdf#page=5), pp. 93–95, especially p. 95 (PDF p. 7); [Chapter 11](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt11.pdf#page=14), p. 164. Page 95 concerns someone preferring another spiritual approach. These are material limits on an exclusion claim, not grounds for treating AA’s course as received prescription. The essay’s notes identify the edition.
+The author’s interpretation and application also remain open to criticism.
+Invoking revelation does not make this essay revelation, and invoking a scholar
+does not transfer that scholar’s authority to a new judgement about AA.
 
-[^suggestion]: Big Book, [Chapter 5](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt5.pdf#page=6), p. 63; 12&12, [Step Three](https://www.aa.org/sites/default/files/2022-01/en_step3.pdf#page=7), p. 40. The [essay’s wording analysis](THESIS.md#2-suggestions-do-not-remove-that-claim) identifies the relevant liberty and spiritual/religious passages in the pamphlets.
+[^liberty]: Big Book, [Chapter 6](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt6.pdf#page=3), pp. 74–75 and 87; [Chapter 7](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt7.pdf#page=5), pp. 93–95, especially p. 95 (PDF p. 7); [Chapter 11](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt11.pdf#page=14), p. 164. Page 95 concerns someone preferring another spiritual approach. *Questions and Answers on Sponsorship*, [P-15, p. 14](https://aaws.widen.net/content/zz7rsf3sie/pdf/p-15_qa_on_sponsorship_online.pdf#page=14), explicitly allows individual understanding of the programme. These passages are evidence of liberty, not evidence that revelation supplies the grounds of the programme’s religious account. Editions are identified in the essay’s notes and source notice.

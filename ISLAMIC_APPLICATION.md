@@ -2,21 +2,25 @@
 
 *The affirmative contrast, its religious grounds and its applications.*
 
-This chapter develops the affirmative account that governs the [main essay](THESIS.md):
-the Way of the Messengers, presented through the Qur’an and the teaching of Muhammad ﷺ,
-accepted here as revelation from Allah. A weakness in AA’s case does not prove Islam,
-and quoting a Muslim scholar does not establish what happens in an AA meeting. The
-purpose is to explain the religious answer already given and the grounds that
-govern any proposed practice or claim about Allah’s help.
+Islam’s answer begins with the claim that God has already taught people how to
+worship Him, repent of wrongdoing and seek His help. For someone struggling with
+drinking, that teaching includes leaving intoxicants, repairing harm, returning
+to worship, choosing good company and pursuing useful means. Its authority is
+not supplied by a recovery programme.
 
-The account of religious authority, the fitrah comparison and the practical teachings
-develop that contrast. The bidʿah discussion tests the grounds of religious practices,
-including arrangements devised by Muslims.
+This chapter accepts the Qur’an and Muhammad’s teaching as revelation from Allah
+and explains the resulting judgement of AA’s spiritual course. It is the project’s
+affirmative religious argument. The [main essay](THESIS.md) separately examines
+what AA’s invitation already decides and what acknowledging divine authority
+would require. Neither argument proves the other’s premises merely by exposing
+a difficulty in AA.
 
-The Way of the Messengers is an affirmative answer about worship, repentance and obedience.
-It is not a claim that knowing a prohibition makes obeying it effortless. A Muslim who wants
-to leave destructive drinking may already know the rule and still need companionship,
-practical assistance and appropriate treatment. Those needs belong inside the account.
+A reader need not already know Islamic terminology to follow the account below.
+The sources establish its commitments; their application to AA is argued in
+[section 6](#6-the-islamic-judgement-of-aas-course). The claim of religious
+sufficiency includes work and assistance. Knowing that drinking is wrong does
+not make leaving it effortless, and the account includes companionship,
+practical help and appropriate treatment.
 
 ## 1. Whose knowledge governs?
 
@@ -30,7 +34,7 @@ Authority is joined to sufficiency. Qur’an 5:3 affirms the completion of the r
 Muslim 1718a–b rejects additions introduced into the religious affair that do not belong to it,
 and acts not in accordance
 with the prophetic command.[^completion] The religious answer does not await a further
-spiritual sequence to make it complete. This is the ground for rejecting an innovation
+spiritual sequence to make it complete. This is the ground for rejecting an unauthorised innovation
 which presents another religious way through the same harm. Practical means authorised
 within the religion do not complete a deficiency in it. The distinction concerns the
 status of the offer, not whether someone devised a new calendar or useful instrument.
@@ -91,8 +95,8 @@ awareness of the Creator does not itself identify a recovery course as His instr
 
 Ibn al-Qayyim distinguishes two pressures on the heart: destructive desires and
 misleading doubts or arguments.[^two-armies] Leaving a wrong and judging the claims
-of a proposed remedy are consequently distinct tasks. In this essay, *shubuhat*
-(the plural of *shubha*) concerns the latter task. This moral and epistemic distinction
+of a proposed remedy are consequently distinct tasks. Judging a proposed remedy requires distinguishing a persuasive formulation from
+the proposition it actually advances. This moral and epistemic distinction
 is not a complete clinical explanation of dependence or a diagnosis of anyone’s heart.
 
 The following develops the given religious answer through its own sources. The instruction
@@ -205,8 +209,8 @@ prophethood for a reader who disputes it, identify an AA sponsor with a philosop
 Ibn Taymiyyah opposed, or transfer a judgement of unbelief to AA members. Its
 application is that the route by which a person first recognises an authority need
 not have permanent precedence over what that authority subsequently teaches. The
-main essay’s [assessment](THESIS.md#4-what-the-programme-adds-without-grounds)
-asks what authorises AA’s account of surrender, spiritual restoration and divine
+main essay’s [authority argument](THESIS.md#3-seeking-gods-direction-after-supplying-the-answer)
+asks what establishes AA’s account of surrender, spiritual restoration and divine
 help. Recognising God through recovery does not give the recovery course authority
 to settle what following Him requires. AA’s own account supplies the evidence for
 this application; Ibn Taymiyyah’s distinction supplies no independent verdict on AA.
@@ -223,6 +227,21 @@ evidence takes precedence over conjecture; where both are inconclusive, their
 relative strength matters. Two genuinely conclusive proofs cannot conflict.[^certainty]
 Thus an uncertain interpretation does not become decisive through a religious
 label. This rule also constrains the present author’s use of the Islamic sources.
+
+Reason therefore does more than check the form of an argument. The commentary
+itself uses it to establish theological content, including divine mercy. On
+printed pp. 225–227, it also describes moral features of acts and their relation
+to divine commands, endorsing an account which includes both. The discussion
+records disagreement within and across schools; it is not a licence to reduce
+all Ashʿaris or Muʿtazilis to one unqualified formula.[^moral-reason]
+
+The relevant objection is to giving a fallible human framework authority over
+soundly established divine teaching. It is not an objection to every rational
+judgement made without quoting a text. Sound reasoning remains necessary in
+establishing a source, understanding what it says and testing an inference. An
+apparent conflict requires locating the error or uncertainty in the reasoning,
+transmission, interpretation or alleged contradiction; a religious label does
+not decide that examination in advance.
 
 ## 5. Bidʿah: the disagreement and the governing distinction
 
@@ -289,9 +308,9 @@ that order spiritually necessary or promising an additional divine result throug
 it. Conversely, lack of a separate text naming the arrangement is not proof that
 general grounds fail to authorise it.
 
-The essay applies this distinction to AA’s account of surrender through its course,
-the scope and spiritual role of disclosure, and the assurances attached to its
-practices. It rejects the authority of those additions for the reasons given there.
+The next section applies this distinction to AA’s account of surrender through
+its course, the scope and spiritual role of disclosure, and the assurances
+attached to its practices. Those religious claims require their own assessment.
 The fivefold account still requires testing the actual claims against religious
 principles; the restrictive account still admits authorised means. Neither is a
 shortcut to a verdict about a mixed activity, and this application is not represented
@@ -301,7 +320,87 @@ The standard applies equally to arrangements devised by a Muslim author. A usefu
 teaching aid can serve a prescribed act without becoming a prescribed devotion.
 Giving it an unwarranted religious status remains objectionable whoever designed it.
 
-## 6. The person seeking help
+## 6. The Islamic judgement of AA’s course
+
+AA’s course must be judged by what it teaches about seeking and following God,
+not simply by the presence of familiar virtues in its Steps. Prayer, honesty,
+self-examination and repair have Islamic grounds. Those grounds determine the
+acts and their religious meaning. AA supplies a further account: reliance on its
+guidance begins surrender to Providence, progress through its course brings
+spiritual restoration, and practising its principles is related to God’s will.
+The [main essay](THESIS.md#1-the-answer-aa-offers) establishes those claims from
+AA’s texts. This section assesses their authority under the religious grounds
+stated in this chapter.
+
+An authorised act does not authenticate every course built around it. Qur’an
+59:18 gives grounds for taking account of one’s deeds; a written inventory can
+assist that work.[^accounting] A teacher may organise lessons, and a friend may
+help someone fulfil an obligation. Their arrangements need not each have a
+separately revealed timetable. But neither usefulness nor the inclusion of
+prayer authorises them to make the arrangement a further religious way to Allah.
+The question is whether its grounds reach that additional claim.
+
+The distinction is concrete in Step Five. Big Book pp. 72–75 connects recounting
+the life story with the humbling work it regards as necessary, explains renewed
+drinking after incomplete disclosure as unfinished personal work, and describes
+spiritual experience following disclosure.[^disclosure-aa] Repentance, restitution
+and seeking advice have Islamic grounds. Particular circumstances may make
+detailed disclosure necessary for effective advice. That practical judgement is
+different from making such disclosure part of Allah’s prescribed remedy. The
+general duties alone do not establish the latter claim.
+
+The Islamic sources also require attention to what is disclosed and why.
+Bukhari 6069 condemns exposing sins Allah concealed; Bukhari 1936 records a man
+disclosing a wrong to obtain the prescribed remedy.[^disclosure] These distinguish
+publicising wrongdoing from seeking needed instruction. AA’s confidentiality
+and care in choosing a recipient matter, but neither establishes that recounting
+everything is religiously necessary. Nor does AA claim that a sponsor absolves
+sin or that disclosure is a condition of Allah’s forgiveness. Its actual account
+of spiritual progress is the claim being assessed.
+
+Step Eleven’s commentary reaches further still. It connects the interwoven
+practices with a secure spiritual foundation and assurance concerning God’s
+kingdom, conditional on continuing to try to find and do His will.[^kingdom]
+The condition is part of the claim; it is not stated as completion of twelve
+stages. Grounds for prayer and evidence of relief do not establish that assurance
+about the unseen. The programme must not become the source of religious confidence
+merely by directing a person to pray.
+
+The [defence from general grounds](OBJECTIONS.md#5-why-call-an-arrangement-an-unauthorised-religious-addition)
+can support organised assistance. A helpful group may be a means Allah provides;
+trusting it can express trust in His provision. That does not establish that
+following the group’s religious teaching conforms to His will: the teaching must
+itself be warranted. Likewise, the need to disclose facts for advice does not
+establish a general religious requirement to recount one’s life. These are the
+limits of the defence. They concern the inference from an authorised means to
+the religious account attached to it, not the fact that human beings arranged it.
+
+On these grounds, I reject AA’s course as an additional religious answer to this
+harm. The Way of the Messengers already determines worship, repentance and the
+grounds for claims about Allah’s help. AA’s experiential case supplies no authority
+to accept its further account of surrender and restoration as a religious answer
+in its own right. That is a rejection of the account’s claimed standing on the
+grounds offered. It does not establish that every recommended arrangement is
+forbidden or that AA declares each one a revealed duty.
+
+The innovation judgement has a further requirement: an added religious status
+must actually be claimed and lack authorisation. Making the course itself a
+prescribed way to Allah, or its comprehensive disclosure an added devotional
+condition, without authorisation for that status would meet that objection.
+The cited passages do not settle that
+classification for every reading of the course. Calling an unwarranted religious
+interpretation *bidʿah* cannot replace showing which practice has acquired which
+unauthorised status. The distinction matters under both accounts discussed above.
+
+The course cannot acquire independent religious authority by appealing to Allah
+as director. Permitting His instruction to accompany it as a member’s belief
+does not establish that authority either. A complete religious answer needs no
+additional spiritual route to complete it. Taking a useful act separately does
+not preserve the rejected claim for the programme as a further religious answer.
+The judgement concerns that claim; it is not a verdict on every participant’s
+faith or every act of assistance.
+
+## 7. The person seeking help
 
 This account concerns guidance and practices, not a declaration about the
 standing of every participant. Bukhari 6780 records the Prophet forbidding a
@@ -368,3 +467,13 @@ useful or bearing an Islamic name.
 [^completion]: Qur’an [5:3](https://quran.com/5/3); *Sahih Muslim* [1718a](https://sunnah.com/muslim:1718a) and [1718b](https://sunnah.com/muslim:1718b), reports from ʿA’ishah, Book of Judicial Decisions. Arabic and displayed translations checked 2 October 2026. These grounds concern completeness of religion and unauthorised religious additions, not a revealed clinical schedule. The chapter’s application and the disagreement over later arrangements are stated in its own prose.
 
 [^two-armies]: Ibn al-Qayyim, *Miftah dar al-saʿadah*, ed. ʿAbd al-Rahman ibn Hasan ibn Qaʾid, third edition (Dar ʿAtaʾat al-ʿIlm / Dar Ibn Hazm, 1440/2019), continuous [p. 395](https://ibnelqayem.com/ar/books/34?is_intro=0&page=395), hosted Arabic text. The sentence about the two armies precedes the counsel he reports from Ibn Taymiyyah. The distinction is paraphrased; its application to evaluating recovery advice belongs to this essay. The [source notice](NOTICE.md#sources) states the edition-verification limit.
+
+[^accounting]: Qur’an [59:18](https://quran.com/59/18), directing each soul to consider what it has put forward for tomorrow. The application to self-accounting is stated here; the verse neither prescribes AA’s inventory nor forbids a written aid.
+
+[^disclosure]: *Sahih al-Bukhari* [6069](https://sunnah.com/bukhari:6069), on exposing concealed sins, and [1936](https://sunnah.com/bukhari:1936), in which a man discloses intercourse while fasting and receives instruction about expiation. Arabic and displayed translations checked on 2 October 2026. The latter is a control against treating all disclosure as forbidden; it does not authorise indiscriminate disclosure or equate a sponsor with the Prophet.
+
+[^disclosure-aa]: Big Book, [Chapter 6](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt6.pdf), pp. 72–76 (PDF pp. 1–5). The argument preserves the chosen recipient, confidentiality, consideration for others and possibility of postponement. The book links incomplete disclosure to renewed drinking, gives its spiritual interpretation of completed disclosure, and directs review of the first five Steps before continuing.
+
+[^kingdom]: 12&12, [Step Eleven](https://www.aa.org/sites/default/files/2022-01/en_step11.pdf#page=3), p. 98 (PDF p. 3); p. 105 also gives confidence concerning the hereafter while discussing suffering. Neither passage makes attendance itself a guarantee of salvation.
+
+[^moral-reason]: Ibn Taymiyyah, supplied *Creed of Asfahani* translation, printed pp. 225–227 (PDF pp. 232–234), especially the three alternatives and combined account on p. 226. The distinctions and the author’s reported affiliations are paraphrased from this passage, not offered as a complete history of Sunni or Muʿtazili ethics. Together with pp. 16–17 and El-Tobgui pp. 171–172, they rule out portraying his method as the rejection of substantive rational knowledge about God.

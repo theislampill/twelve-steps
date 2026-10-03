@@ -1,7 +1,7 @@
 {
-  "version": "0.14.0",
-  "date": "2026-10-02",
-  "parent_version": "0.13.0",
+  "version": "0.15.0",
+  "date": "2026-10-03",
+  "parent_version": "0.14.0",
   "publication": "Public source repository https://github.com/theislampill/twelve-steps; reader https://theislampill.github.io/twelve-steps/. Main-branch commits are built and deployed by GitHub Actions. Edition metadata is not itself proof of a successful deployment.",
   "version_note": "Edition labels identify editorial versions; they do not assert matching Git tags or GitHub Releases.",
   "predecessors": [
@@ -102,6 +102,13 @@
       "bytes": 108644,
       "sha256": "64cd95988de396441422a7e58d7bc6c85c3ac642ca233b94cc265cdbc277d6be",
       "verification": "Imported archive identity recorded by the repository in PUBLISHING.md and its historical checksum receipt. Earlier delivered archive remains separate."
+    },
+    {
+      "version_label": "v0.14.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.14.0.zip",
+      "bytes": 98253,
+      "sha256": "6b36773bee5601739e87bf748af3d7c79a50e7a482332ebf30a3a4c19e9c22c5",
+      "verification": "Delivered archive rechecked and preserved on 2026-10-02. Repository commit 37cb7db2bcaa00d431282d2c5a4c9c6bc791bd94 is the v0.15.0 revision base."
     }
   ],
   "editorial_source": {
@@ -109,7 +116,7 @@
     "bytes": 9941932,
     "sha256": "bed5565280dcb71b96fc3437cf2f9c07cdc75e6fe6e3798e24fe6bf886cad6ad",
     "work": "Ibn Taymiyyah, Al-Aqidah al-Asfahaniyyah, Wordsmiths translation, Sapience Publishing, 2024",
-    "passages": "Current use: printed pp. 16–17 (PDF pp. 23–24) and pp. 36–37 (PDF pp. 43–44). Earlier contextual reading reported in predecessor provenance is not claimed as a fresh complete reading.",
+    "passages": "Current use: printed pp. 16–17 (PDF pp. 23–24), pp. 36–37 (PDF pp. 43–44), and pp. 225–227 (PDF pp. 232–234). The latter pages were newly checked as text and images for v0.15.0. No complete-book reading is claimed.",
     "bundled": false,
     "pdf_pages": 248,
     "verification": "File identity and the current cited portions checked on 2026-10-02; complete work not read."
@@ -178,7 +185,7 @@
         "bytes": 77631,
         "sha256": "f6fd940220f7914b8f9f076459478b032f3c7ad7977b5b0e436fb6cfa79bd993",
         "pdf_pages": 17,
-        "scope": "Printed pp. 72–88; especially pp. 74 and 83–87. Images of pp. 83–84 checked for v0.9.0; p. 74 additionally checked as text and image for v0.10.0. For v0.11.0 the continuation on p.75 and progression on pp.72,75–76 were reread; p.75 additionally checked as image. For v0.14.0, pp72-76 reread for the scope and spiritual significance of disclosure, retaining confidentiality and recipient limits.",
+        "scope": "Printed pp. 72–88; especially pp. 74 and 83–87. Images of pp. 83–84 checked for v0.9.0; p. 74 additionally checked as text and image for v0.10.0. For v0.11.0 the continuation on p.75 and progression on pp.72,75–76 were reread; p.75 additionally checked as image. For v0.14.0, pp72-76 reread for the scope and spiritual significance of disclosure, retaining confidentiality and recipient limits. For v0.15.0, p88 checked as text and image for the divine-discipline formulation.",
         "bundled": false
       },
       {
@@ -214,7 +221,7 @@
         "bytes": 61894,
         "sha256": "84e32d438fb88c013882344583a1ba6f408d1238cd65f3ecc3e314c3653d1f54",
         "pdf_pages": 8,
-        "scope": "Printed pp. 34–41; entire commentary previously read. For v0.10.0, pp.35 and39–40 reread for the relationship between AA guidance, Providence and conformity to God’s will.",
+        "scope": "Printed pp. 34–41; entire commentary previously read. For v0.10.0, pp.35 and39–40 reread for the relationship between AA guidance, Providence and conformity to God’s will. Whole commentary reread for v0.15.0, including the relationship between reliance and surrender.",
         "bundled": false
       },
       {
@@ -223,7 +230,7 @@
         "bytes": 68644,
         "sha256": "d5474055d91507bb1991ccc939e0d889c7f0d8875d9d126db896bc173818f1fe",
         "pdf_pages": 10,
-        "scope": "Printed pp. 96–105; entire commentary; images of pp. 98 and 103–105.",
+        "scope": "Printed pp. 96–105; entire commentary; images of pp. 98 and 103–105. Whole commentary reread for v0.15.0, especially pp102-104 on chosen solutions, rationalisation and divine guidance.",
         "bundled": false
       },
       {
@@ -250,7 +257,7 @@
         "bytes": 479768,
         "sha256": "5de1198780331204e6480789d1ea55160cff73ad7286a6a789a007e1ef7bf4f5",
         "pdf_pages": 32,
-        "scope": "P-15, especially pp. 13–14 and 20; revised 2025, printing code 2/26.",
+        "scope": "P-15, especially pp. 13–14 and 20; revised 2025, printing code 2/26. For v0.15.0, p14 checked as text and image for freedom to interpret the programme.",
         "bundled": false
       },
       {
@@ -306,13 +313,20 @@
         "https://quran.com/59/18"
       ],
       "scope": "Arabic and displayed translations checked for paired disclosure evidence and self-accounting. Miftah continuous p395 additionally reread for the two-armies sentence; pp395-397 retained for impartial analysis of resemblance. Website numbering and digital edition metadata are not independent print or transmission verification."
+    },
+    "v015_additions": {
+      "access_date": "2026-10-02",
+      "sources": [
+        "https://andrewmbailey.com/rma/2002a-Adams-PrecisFiniteInfiniteGoods.pdf"
+      ],
+      "scope": "Robert Merrihew Adams, Precis of Finite and Infinite Goods, Philosophy and Phenomenological Research 64.2 (2002), pp439-444, especially pp440-441. His own distinction between moral metaphysics and epistemology limits the appendix comparison. Complete book not read."
     }
   },
-  "current_verification_scope": "Revision of the launched repository. Root and two requested independent Sol 6.1 Max advisers assessed the argument and review separately; adviser opinion is not a primary source. Relevant official PDF passages reread, especially Big Book49-50,59-60,63,72-76,93-95 and12&12 StepThree35,39-40 and StepEleven98,105; Shatibi24-27 checked as images. Prior assurance, fitrah, practical and jurisprudential source research retained. New Quran and hadith passages checked as stated. Mechanical reader checks verify links, footnotes, source inclusion and generated hashes, not theological validity. No complete-book reading, meeting observation, clinical comparison or consensus ruling claimed.",
-  "edition_scope": "A sustained Islamic criticism of the religious authority claimed for AA’s experiential spiritual course, with analysis of resemblance, authorisation, positive religious guidance, assurances and strongest replies. Historical source archives remain separate; research correspondence is not bundled.",
+  "current_verification_scope": "Historical comparison informed a revision separating the internal inquiry from the Islamic assessment. Root and two requested Sol 6.1 Max advisers assess premises, source implications and audience accessibility; their opinions are not primary evidence. AA passages and selected Asfahani and El-Tobgui passages reread as described in NOTICE.md. New Asfahani225-227 and AA88/Sponsorship14 passages checked as images. Existing positive Islamic and jurisprudential source research retained. Mechanical reader checks concern source inclusion, links, footnotes, hashes and rendering, not theological validity. No complete-book reading, meeting observation, clinical comparison or consensus ruling claimed.",
+  "edition_scope": "An internal examination of what AA’s invitation has already decided about seeking God’s direction, including an explicit conditional authority argument; a separate affirmative Islamic account and assessment of AA’s religious course. Assurances support the inquiry; research correspondence is not bundled.",
   "revision_base": {
-    "commit": "7afe81f046484f8fe75bab19105565a63dad2c1e",
+    "commit": "37cb7db2bcaa00d431282d2c5a4c9c6bc791bd94",
     "repository": "https://github.com/theislampill/twelve-steps",
-    "scope": "Fresh local clone of the launched repository, initially clean. Existing Markdown build and reader design retained."
+    "scope": "Clean v0.14.0 main checkout; isolated v0.15.0 worktree. Existing Markdown build and reader design retained."
   }
 }

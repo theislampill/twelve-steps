@@ -1,8 +1,8 @@
 # Notes on grounds and evidence
 
-The acts a course contains, the religious claims made for them and evidence of
-their usefulness require separate examination. This appendix makes those
-distinctions checkable without issuing a ruling from each Step’s title.
+The main essay examines AA’s invitation and the authority it asks a reader to
+recognise. The Islamic chapter then assesses the course under its stated
+religious grounds. These notes distinguish the relevant acts, claims and evidence.
 
 ## 1. The acts and the claims made for them
 
@@ -25,8 +25,8 @@ added condition or assurance. A practice’s historical origin outside Islam doe
 not alone decide that question. Equally, its resemblance to an authorised act
 does not establish the complete religious account in which it is embedded.
 
-The [main application](THESIS.md#4-what-the-programme-adds-without-grounds) examines
-the disputed additions. The [bidʿah discussion](ISLAMIC_APPLICATION.md#5-bidʿah-the-disagreement-and-the-governing-distinction)
+The [Islamic application](ISLAMIC_APPLICATION.md#6-the-islamic-judgement-of-aas-course) examines
+the disputed religious claims. The [bidʿah discussion](ISLAMIC_APPLICATION.md#5-bidʿah-the-disagreement-and-the-governing-distinction)
 explains why restrictive and fivefold classifications cannot be used as automatic
 verdict columns. Both require actual assessment of the relevant religious grounds;
 they can disagree over which grounds suffice.
@@ -54,7 +54,23 @@ unsuccessful case from testing the assurance. No Boolean calculation can supply
 the missing evidence about participation, causation or the religious promise.
 The same constraint applies to a Muslim adviser interpreting continuing difficulty.
 
-## 3. What would change the religious assessment?
+## 3. What would change either assessment?
+
+The internal finding concerns the religious answer already offered in the
+invitation. Evidence that the cited course passages do not give the proposed
+acts that religious meaning would require revising the interpretation. Showing
+how the programme’s account is established as God’s direction would answer the
+grounding criticism. A permission to disagree with the account is a different
+kind of evidence; it limits claims about compulsion without establishing the
+account’s truth.
+
+The conditional conflict depends on acknowledging God’s authority and then
+making the human course the prior measure of His answer. Evidence that a given
+claim is actually determined by soundly established divine instruction removes
+that conflict for that claim. Neither a later refusal nor an invented test of
+meeting behaviour is required to state the relation between the two authorities.
+
+The Islamic assessment has an additional source commitment and burden of application.
 
 Grounds authorising the disputed religious role would change the judgement within
 their scope. A warranted interpretation must reach the claim actually made:
@@ -73,4 +89,51 @@ of the Way of the Messengers rests on affirmative religious grounds, not on a
 failure in AA. Those grounds and their application remain open to substantive
 argument; the author gains no infallibility by invoking them.
 
-[^steps]: Big Book, [Chapter 5](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt5.pdf#page=2), pp. 59–60; [Chapter 6](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt6.pdf), pp. 72–76; 12&12, [Step Three](https://www.aa.org/sites/default/files/2022-01/en_step3.pdf), pp. 35 and 39–40, and [Step Eleven](https://www.aa.org/sites/default/files/2022-01/en_step11.pdf), pp. 98 and 103–105. These are selected passages, not a claim to have inspected all twelve 12&12 commentaries. The religious sources for self-accounting and disclosure are cited in the [essay](THESIS.md#4-what-the-programme-adds-without-grounds); repentance, restitution and supplication are developed in the [companion chapter](ISLAMIC_APPLICATION.md#3-what-the-tradition-provides).
+## 4. What follows from acknowledging divine authority?
+
+The conditional argument distinguishes three commitments. A Power greater than
+ourselves may merely be stronger in some respect. A source with complete knowledge
+which teaches truth cannot be mistaken in that teaching. A source entitled to command us
+with final authority in the relevant matter gives us a decisive reason for
+obedience. These are different properties; the first
+does not establish the other two.
+
+Suppose God has the latter properties. Then a soundly established instruction
+from Him cannot depend for its truth or binding force on a human programme’s
+approval. This follows from the authority acknowledged in the premise. It does
+not prove God’s existence, identify a revelation or establish that a particular
+programme actually claims superior authority. The essay separately examines
+what AA’s offer has supplied and how it describes its relation to God.
+
+A further theory might hold that God grounds the relevant obligations, rather
+than merely reporting independently existing duties. On that premise, a rival
+standard cannot determine what those same obligations really are. But a person
+can still reason about whether an alleged instruction actually comes from God,
+what it means and whom it addresses. Dependence of an obligation on God does
+not make every claim to speak for Him true. Nor does divine self-sufficiency,
+taken by itself, establish that particular theory of obligation.
+
+This last distinction also prevents a misleading appeal to Robert Adams. His
+account relates excellence to resemblance to God and obligation to the commands
+of a supremely good and loving God. It nevertheless gives ethical judgement a
+role in evaluating theological claims.[^adams] Ontological dependence is not a
+ban on epistemic examination. The present argument therefore needs no wholesale
+adoption of his theory or identification of it with Ibn Taymiyyah’s.
+
+The narrower principle is enough: reasoning that establishes an authority does
+not make every other conclusion of that reasoning the authority’s superior.
+Ibn Taymiyyah’s example of the person introducing a reliable adviser illustrates
+this distinction. His treatment also requires examining whether evidence is
+conclusive or conjectural, instead of ranking everything called reason against
+everything called revelation.[^authority-reason] The [Islamic chapter](ISLAMIC_APPLICATION.md#4-how-ibn-taymiyyahs-argument-bears-on-this-question)
+explains that use of reason and its religious commitments.
+
+No symbol or truth table supplies evidence for these premises. Formal analysis
+can show what follows from them and where an inference fails; their truth and
+their application to AA remain substantive questions.
+
+[^steps]: Big Book, [Chapter 5](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt5.pdf#page=2), pp. 59–60; [Chapter 6](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt6.pdf), pp. 72–76; 12&12, [Step Three](https://www.aa.org/sites/default/files/2022-01/en_step3.pdf), pp. 35 and 39–40, and [Step Eleven](https://www.aa.org/sites/default/files/2022-01/en_step11.pdf), pp. 98 and 103–105. These are selected passages, not a claim to have inspected all twelve 12&12 commentaries. The religious sources for self-accounting and disclosure are cited in the [Islamic application](ISLAMIC_APPLICATION.md#6-the-islamic-judgement-of-aas-course); repentance, restitution and supplication are developed in the [companion chapter](ISLAMIC_APPLICATION.md#3-what-the-tradition-provides).
+
+[^adams]: Robert Merrihew Adams, [“Précis of Finite and Infinite Goods”](https://andrewmbailey.com/rma/2002a-Adams-PrecisFiniteInfiniteGoods.pdf), *Philosophy and Phenomenological Research* 64.2 (2002), pp. 439–444, especially pp. 440–441 (PDF pp. 2–3). His own summary distinguishes metaphysics from moral epistemology. This note uses that distinction to limit the comparison; it does not import his ethical theory into AA or equate it with Islamic theology.
+
+[^authority-reason]: Carl Sharif El-Tobgui, 2013 dissertation, printed pp. 164–173 (PDF pp. 188–197), especially pp. 165–166 and 171–172. The account of Ibn Taymiyyah is secondary exposition, not an independently checked Arabic passage. The application to AA is the present author’s.

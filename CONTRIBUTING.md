@@ -4,18 +4,22 @@ A useful contribution identifies a sentence, explains the problem and proposes
 a replacement. Include a primary source and exact locator for a factual correction.
 For a logical objection, identify the premise or inference being challenged.
 
-The essay accepts the Qur’an and Muhammad’s teaching as revelation and the Way of
-the Messengers as sufficient religious guidance. Those commitments are distinct
-from its findings about AA and its application of religious principles to the
-programme. Do not derive Islam from a gap in AA, or treat a quoted principle as
-an automatic verdict about a modern course.
+The main essay examines AA’s invitation through its own claims and an explicit
+conditional argument about divine authority. The Islamic chapter accepts the
+Qur’an and Muhammad’s teaching as revelation and makes a separate religious
+assessment. Preserve the premises and conclusion of each argument. Do not derive
+Islam from a gap in AA or use Islamic completion silently to prove an internal
+contradiction.
 
 ## Argument and sources
 
-Preserve one governing question: what authorises the religious direction AA gives
-its course? The argument examines its account of surrender, spiritual restoration
-and divine help. The assurances supply evidence inside that inquiry. A new edition
-which changes the core claim must explain the change in the changelog.
+Keep the invitation’s prior choice in view: AA asks the person to seek God’s
+direction while supplying a course it already interprets as surrender and
+restoration. Freedom about belief does not remove that supplied answer. Test
+what establishes its religious meaning and what acknowledging divine authority
+would require. The assurances follow this inquiry; a later veto is a different
+question. A new edition which changes the core claim must explain the change in
+the changelog.
 
 Distinguish an authorised act, a practical arrangement and an additional religious
 condition or assurance. Human authorship and an ordered course do not themselves
@@ -23,11 +27,13 @@ prove bidʿah. General religious grounds may authorise later means. Conversely,
 shared virtues and useful results do not authenticate every claim made for a
 complete course. Apply this standard to the author’s proposals too.
 
-The essay uses **shubha** for a specious argument resembling truth, and **bidʿah**
-for the religious innovation discussed in the Islamic chapter. These are the
-critic’s terms, not AA’s. Their relation must be argued; a misleading defence
-does not by itself prove an unlawful practice. Preserve disagreement over which
-general grounds authorise particular later arrangements.
+In the methodological sources, **shubha** names a specious argument resembling
+truth; **bidʿah** concerns the religious innovation discussed in the Islamic
+chapter. The first directs scrutiny towards the proposition beneath a persuasive
+formulation; the second requires assessing a practice and its authorisation.
+These terms do different work. Neither is AA’s own vocabulary, and neither name
+can do the reasoning for the reader. Preserve disagreement over which general
+grounds authorise particular later arrangements.
 
 Ibn al-Qayyim’s method tests the meaning beneath a formulation. Attractive wording
 can conceal falsehood, and unattractive wording can obscure truth.[^shubuhat]
@@ -45,14 +51,21 @@ author’s judgement about AA.
 
 The supplied *Creed of Asfahani* translation offers examples of reconstructing an
 argument, answering it on more than one ground and granting a disputed description
-for a bounded reply.[^method] This supports careful argument, not a rigid template.
+for a bounded reply.[^method] Apply that discipline: give the strongest relevant
+argument once, answer it in a bounded place, identify the exact error or remaining
+disagreement, then state the conclusion earned. A grant should advance the
+argument rather than scatter concessions through every paragraph. This is an
+editorial use of the examples, not a claim that the author always follows a rigid template.
 Distinguish the senses of *religious*, *help*, *will*, *faith* and *human power*
 before drawing conclusions from them.
 
 ## Prose and reader
 
-Write a finished argument for someone familiar with AA. Each paragraph should
-advance a claim, supply evidence or answer a necessary objection. Avoid narrating
+Write for an AA reader who neither knows the criticism nor accepts Islam. State
+the complaint in familiar words before asking a religious premise to carry it.
+Use scholarly sources to perform the reasoning, not as substitutes for it.
+Each paragraph should advance a claim, supply evidence or answer a necessary
+objection. Avoid narrating
 the project’s editing history inside the essay. Use concrete acts and source
 passages instead of repeatedly announcing displacement or the absence of standing.
 Keep essential qualifications beside their claims; give extended replies one full
@@ -83,4 +96,4 @@ disclosures or speculating about someone’s motives, illness or faith.
 
 [^method]: Ibn Taymiyyah, *Al-ʿAqidah al-Asfahaniyyah*, Wordsmiths translation (Sapience Publishing, 2024), printed pp. 36–37, PDF pp. 43–44. For ambiguous terms, see El-Tobgui’s 2013 dissertation, printed pp. 226–233, PDF pp. 250–257. The latter is secondary exposition. Source identities and checking limits are in [PROVENANCE.json](PROVENANCE.json).
 
-[^shubuhat]: Ibn al-Qayyim, *Miftah dar al-saʿadah*, continuous pp. 395–397 of the named 2019 Arabic digital reproduction, cited in the [essay’s application](THESIS.md#2-suggestions-do-not-remove-that-claim). The comparison of formulations is this project’s application. The source’s sponge-and-glass counsel does not prescribe a particular document structure.
+[^shubuhat]: Ibn al-Qayyim, *Miftah dar al-saʿadah*, continuous pp. 395–397 of the named 2019 Arabic digital reproduction, cited in the [essay’s application](THESIS.md#2-freedom-about-belief-leaves-a-course-already-chosen). The comparison of formulations is this project’s application. The source’s sponge-and-glass counsel does not prescribe a particular document structure.

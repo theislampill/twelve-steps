@@ -1,5 +1,44 @@
 # Changelog
 
+## 0.15.0 — 3 October 2026
+
+Separated the internal examination of AA’s invitation from the affirmative Islamic
+assessment. Edition 0.14.0 combined them into one Islamic authority argument.
+That change lost a separately sustained question: what the programme has already
+decided when it asks the person to seek God’s direction. This edition restores
+that inquiry and states its conclusion and conditional premises independently.
+The Islamic judgement has its own source commitments and application.
+
+Rewrote the opening and wording comparison for AA readers who do not already know
+the criticism or accept Islam. The main prose explains the difference between
+freedom about belief and a spiritual answer already offered. Scholarly methods
+shape the argument; Arabic analytical terms and a scholar’s name do not substitute
+for explaining it. The assurances remain subsequent evidence.
+
+Developed the conditional authority argument without treating greater power as
+final authority or treating every human proposal as a denial of revelation.
+Added the Big Book p. 88 description of divine discipline and Step Eleven’s
+warning about asking God to endorse a chosen answer. Retained the freedom to
+interpret the programme, including Sponsorship p. 14, without treating that
+freedom as grounds for its religious account.
+
+Added a bounded distinction between what divine authority entails and how an
+alleged instruction is authenticated and understood. Rechecked the supplied
+Asfahani commentary on reason and moral judgement, pp. 225–227, alongside the
+existing sources. The appendix limits the comparison with Robert Adams through
+his own account; it does not import his theory into AA or Islamic theology.
+
+Preserved the positive Islamic account, the fitrah comparison, repentance,
+practical means and Sunni disagreement over religious innovation. The specific
+Islamic application now belongs in that chapter. It distinguishes rejection of
+independent religious standing on the grounds offered from a further finding
+that a particular practice has an unauthorised devotional status. The latter
+cannot be inferred merely from human authorship, order or a religious interpretation.
+Millati remains removed.
+Reorganised replies by argument and aligned the reading guide, scope notice,
+source record and contribution rules. The eight-document Markdown reader,
+publishing workflow and historical checksum receipt remain in use.
+
 ## 0.14.0 — 2 October 2026
 
 Rebuilt the essay around one complaint: AA gives its experiential course religious
