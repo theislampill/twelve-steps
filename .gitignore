@@ -1,2 +1,8 @@
 .DS_Store
 Thumbs.db
+.venv/
+__pycache__/
+*.py[cod]
+_site/
+# The reader is generated; edit Markdown and site/reader.html instead.
+/index.html

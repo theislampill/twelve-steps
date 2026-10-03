@@ -1,0 +1,25 @@
+name: Correction or publishing problem
+description: Identify a passage, source, broken link or reader problem.
+body:
+  - type: markdown
+    attributes:
+      value: Please discuss the published work. Do not disclose private meeting conversations, personal health information or credentials.
+  - type: input
+    id: location
+    attributes:
+      label: Passage or page
+      description: Link to the section, file or workflow run.
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What needs correction?
+      description: State the problem and the proposed correction. For a reader bug, include the browser and reproduction steps.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting source or evidence
+      description: Include an edition and page number for textual corrections where possible.

@@ -2,7 +2,7 @@
 
 *AA, divine prescription and the Way of the Messengers — edition 0.13.0, 2 October 2026.*
 
-[Open the HTML reader](index.html) · [Read the essay](THESIS.md)
+[Open the HTML reader](https://theislampill.github.io/twelve-steps/) · [Read the essay](THESIS.md)
 
 AA asks a person to seek God’s help for alcoholism while already offering the
 spiritual way through it. Suggestions, individual understanding of God and liberty
