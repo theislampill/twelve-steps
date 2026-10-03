@@ -109,6 +109,16 @@ class ReaderTests(unittest.TestCase):
         self.assertTrue(all(d.has_attr('open') for d in soup.select('details.reading-branch')))
         self.assertTrue(soup.select_one('#print-reader').has_attr('hidden'))
 
+    def test_manifest_survives_pages_hidden_file_filter(self):
+        # upload-pages-artifact excludes dotfiles before uploading its tar.
+        with tempfile.TemporaryDirectory() as temp:
+            out = Path(temp)/'public'
+            self.builder.write_site(ROOT, out)
+            shipped = {p.name for p in out.iterdir() if not p.name.startswith('.')}
+            for line in (out/'SHA256SUMS').read_text().splitlines():
+                _, name = line.split('  ', 1)
+                self.assertIn(name, shipped, 'Checksum names must exist in the uploaded artifact')
+
     def test_artifact_includes_current_checksums_and_source_files(self):
         import hashlib
         with tempfile.TemporaryDirectory() as temp:

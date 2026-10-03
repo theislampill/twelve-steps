@@ -230,7 +230,9 @@ def write_site(root: Path, output: Path) -> None:
     names = (*DOCUMENTS, 'LICENSE', 'PROVENANCE.json')
     for name in names:
         shutil.copyfile(root/name, output/name)
-    files = [output/name for name in ('index.html', '.nojekyll', *names)]
+    # upload-pages-artifact strips dotfiles. Keep the local Jekyll marker
+    # out of the manifest so checksums also verify after GitHub packages it.
+    files = [output/name for name in ('index.html', *names)]
     (output/'SHA256SUMS').write_text(''.join(
         f'{sha256(path.read_bytes()).hexdigest()}  {path.name}\n'
         for path in sorted(files)), encoding='utf-8')
