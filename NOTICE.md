@@ -74,6 +74,15 @@ were read as images, with pp. 24–27 rechecked during v0.14.0’s
 authorisation and resemblance research. The supplied
 file has 641 PDF pages; the publication page describes a 640-page book.
 
+For the proposed al-Shatibi integration after v0.17.0, printed pp. 24–37 were
+rechecked as images. The Islamic chapter now makes explicit use of p. 27 on
+sufficiency and added conditions, and pp. 32–33 on religious completion. Printed
+pp. 118–120 (PDF pp. 119–121) were also checked as images for the distinction
+between evidence governing judgement and evidence recruited for a prior inclination,
+including the control concerning qualified reasoning which errs. The application
+to AA remains this project’s argument. The source check concerns the supplied
+English translation, not a fresh Arabic collation or authentication of its reports.
+
 The discussion of Ibn Taymiyyah’s *Darʾ* uses El-Tobgui’s secondary account,
 principally printed pp. 160–174, 226–233 and 276–278. The argument about
 authentication and conclusiveness on pp. 164–173 was reread for v0.15.0.

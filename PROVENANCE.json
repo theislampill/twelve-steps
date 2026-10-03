@@ -142,11 +142,11 @@
       "bytes": 5265390,
       "sha256": "1c2a1856bb437836a318b5abd8518016478a3e6ed04e578b3ea236bf89d35f3e",
       "work": "Al-Shatibi, Kitab al-Itisam, Mohammed Mahdi Al-Sharif translation, Dar Al-Kotob Al-Ilmiyah, 2012",
-      "passages": "Printed pp. 24–37 (PDF pp. 25–38), including the knowledge-of-benefits argument on printed pp. 31–32; publication details on PDF p. 3.",
+      "passages": "Printed pp. 24–37 (PDF pp. 25–38), including the knowledge-of-benefits argument on printed pp. 31–32; publication details on PDF p. 3. Proposed post-v0.17 integration explicitly uses printed p. 27 (PDF p. 28) for sufficiency and added conditions, pp. 32–33 (PDF pp. 33–34) for completion, and pp. 118–120 (PDF pp. 119–121) for evidence governing judgement versus supporting a prior inclination, with the qualified-reasoning control.",
       "scope": "Mounted file has 641 PDF pages; publication page lists a 640-page book. The index exposed 150 pages but is not the file page count. Only identified passages are claimed as inspected; complete work not read.",
       "bundled": false,
       "pdf_pages": 641,
-      "verification": "File identity and the current cited portions checked on 2026-10-02; complete work not read."
+      "verification": "File identity rechecked on 2026-10-03; printed pp. 24–37 rechecked and pp. 118–120 checked as images for the proposed integration. Complete work not read; no independent Arabic collation or verification of reports quoted in the translation."
     },
     {
       "file": "Carl_Sharif_El-TobguiRobert_Wisnovsky_Supervisor2_Wael_Halla_-_Reason_revelation__the_reconstitution_of_rationality__Taqi_al-Din_Ibn_Taymiyyas_d._728_1328_Dar_Ta_arud_al-_Aql_wa-l-Na_2013_McGill_Univ (1).pdf",

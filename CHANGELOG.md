@@ -1,5 +1,23 @@
 # Changelog
 
+## Unreleased — proposed al-Shatibi integration
+
+Strengthened the Islamic chapter’s existing distinction between practical means
+and added religious specification. Al-Shatibi’s discussion of sufficiency and
+added conditions, printed p. 27, and religious completion, pp. 32–33, now explains
+why an independently supplied religious condition fails to treat given instruction
+as sufficient in that capacity. His discussion on pp. 118–120 distinguishes
+evidence governing judgement from evidence recruited for a prior inclination,
+while preserving the case of qualified reasoning which errs. Added precise source
+notes and updated the source-checking record.
+
+The AA-facing essay, README, objections and appendix are unchanged from accepted
+v0.17.0. Its divine-answerability derivation already makes the relevant analytical
+distinctions. The Islamic addition applies those distinctions under its own
+religious premises; it supplies no new premise for the internal argument. General
+authorisation, practical means, the fivefold Sunni account and care boundaries
+remain. This is a proposal for review, not a new numbered edition or publication.
+
 ## 0.17.0 — 3 October 2026
 
 Corrected a substantive limit in v0.16.0. That edition removed the extra exclusion
