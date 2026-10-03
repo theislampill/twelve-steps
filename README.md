@@ -1,6 +1,6 @@
 # The Twelve Steps and the prescribed answer
 
-*AA, divine prescription and the Way of the Messengers — edition 0.17.1 (review candidate), 3 October 2026.*
+*AA, divine prescription and the Way of the Messengers — edition 0.19.0, 3 October 2026.*
 
 [Open the HTML reader](https://theislampill.github.io/twelve-steps/) · [Read the essay](THESIS.md)
 

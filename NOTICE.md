@@ -30,6 +30,12 @@ professional treatment, medication and mutual support options.[^care]
 
 ## Sources
 
+Edition 0.19.0 incorporates the independently reviewed changes in PRs #10 and #12,
+including the explicit two-sins conclusion and the approved STOW clarifications.
+The owner authorised this final edition on 3 October 2026. Earlier version labels
+in the records below identify the source-checking history, not the current edition.
+Finalising the edition does not claim new primary-source inspection.
+
 The AA citations use official English PDFs. The Big Book copyright leaf identifies
 the fourth edition as 2001 and records a December 2013 printing; separately hosted
 chapter files have their own production metadata. URL dates are not edition dates.
@@ -69,14 +75,14 @@ November 22, “ONLY TWO SINS”, was read on 3 October 2026, including the medi
 on prayers, humility and acceptance. The entry attributes its opening quotation
 to *Alcoholics Anonymous*, Third Edition, p. 542. That original book page was not
 independently inspected. PR #6 placed the reversal in the Islamic chapter.
-The v0.17.1 candidate moves it into the main essay as an internal consequence of
+PR #8 moved it into the main essay as an internal consequence of
 its divine-answerability argument, using AA’s own seeking-and-growth commitments.
 This reversal requires neither an already-given complete remedy nor its Islamic
 identification. The Islamic chapter separately affirms and identifies the
 stipulated prescription. The entry is not treated as
-an exhaustive statement of AA’s doctrine of sin. The candidate rechecks the
+an exhaustive statement of AA’s doctrine of sin. That review rechecked the
 official entry’s indexed text and the retained 12&12 Step Eleven text and page
-images at printed pp. 96 and 102; it makes no new claim to inspection of the
+images at printed pp. 96 and 102; it made no new claim to inspection of the
 Third Edition page.
 
 The supplied Islamic works retain separate identities: the Wordsmiths translation
@@ -89,7 +95,7 @@ were read as images, with pp. 24–27 rechecked during v0.14.0’s
 authorisation and resemblance research. The supplied
 file has 641 PDF pages; the publication page describes a 640-page book.
 
-For the proposed al-Shatibi integration after v0.17.0, printed pp. 24–37 were
+For the al-Shatibi integration merged in PR #6 after v0.17.0, printed pp. 24–37 were
 rechecked as images. The Islamic chapter now makes explicit use of p. 27 on
 sufficiency and added conditions, and pp. 32–33 on religious completion. Printed
 pp. 118–120 (PDF pp. 119–121) were also checked as images for the distinction
@@ -156,7 +162,7 @@ credits, identify changes, and link to the licence and copy used. A title-based
 citation is:
 
 *The Twelve Steps and the prescribed answer: AA, divine prescription and the Way of the Messengers.*
-Twelve-Step Jurisdiction, edition 0.17.1 (review candidate), 3 October 2026. Cite the document and section.
+Twelve-Step Jurisdiction, edition 0.19.0, 3 October 2026. Cite the document and section.
 
 The [source repository](https://github.com/theislampill/twelve-steps) and
 [HTML reader](https://theislampill.github.io/twelve-steps/) are public. Git commits
