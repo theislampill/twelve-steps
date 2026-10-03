@@ -267,6 +267,33 @@ does not itself prove that the practice lacks authorisation. The historical exam
 in al-Shatibi’s discussion illustrate that form; they are not identities assigned
 to AA or its members.
 
+Al-Shatibi connects this added specification with sufficiency. On printed p. 27,
+he describes someone intending greater devotion but failing to recognise the
+sufficiency of the Lawgiver’s limits and laws, then adding regulations and
+conditions to what was left unrestricted. On pp. 32–33, he argues from the
+completion of religion: the addition treats the religious ordinance as though
+it still needed completing.[^shatibi-sufficiency] The problem concerns what is
+allowed to settle the religious practice. When a human judgement supplies further
+conditions as part of religion without grounds for them, the arrangement treats
+the given instruction as not sufficient to determine that practice in its
+governing capacity. Read with
+his recognition of general grounds, this does not condemn choosing a useful
+time or order for carrying out an authorised act. Such a choice serves its
+performance; it does not establish a further religious condition or benefit.
+
+He also distinguishes allowing evidence to determine a religious judgement from
+recruiting evidence to support a judgement already determined by inclination.
+On printed pp. 118–120, the latter can still appeal to religious texts, but bends
+their interpretation towards its prior choice instead of referring uncertain
+passages to clear ones. He distinguishes this from qualified reasoning which
+seeks to follow the evidence and may nevertheless err.[^shatibi-evidence]
+For the present assessment, the useful distinction concerns what justifies the
+religious claim, not which thought occurred first. Someone may discover a useful
+practice and later recognise genuine religious grounds for it. The question is
+whether those grounds determine its claimed religious role, or whether familiar
+religious material only accompanies a role determined elsewhere. This tests the
+account being offered; it does not diagnose the intentions of its authors.
+
 There is a major opposing taxonomy. Al-ʿIzz ibn ʿAbd al-Salam classifies innovations
 as obligatory, forbidden, recommended, disliked or permissible, testing each
 against the principles of the Sharia. His examples include the tools needed to
@@ -341,6 +368,17 @@ separately revealed timetable. But neither usefulness nor the inclusion of
 prayer authorises them to make the arrangement a further religious way to Allah.
 The question is whether its grounds reach that additional claim.
 
+Al-Shatibi’s sufficiency argument explains why that distinction matters here.
+If revealed instruction determines what repentance requires, an inventory may
+help someone carry it out without adding a religious requirement. If the course
+instead determines what constitutes surrender and spiritual restoration, then
+including repentance within it has not made revelation determine that account.
+On the reading argued in the main essay, AA’s interpretation of recovery
+does this determining work. The Islamic objection is therefore to treating that
+interpretation as supplying religious direction which the given instruction
+already settles. This applies al-Shatibi’s distinction to the argued account of
+AA; it does not use his condemnation to establish that account in advance.
+
 The distinction is concrete in Step Five. Big Book pp. 72–75 connects recounting
 the life story with the humbling work it regards as necessary, explains renewed
 drinking after incomplete disclosure as unfinished personal work, and describes
@@ -398,6 +436,17 @@ include virtues: the claimed religious role must itself have grounds. This is
 the chapter’s application of those principles, not a claim that every Sunni school
 has issued the same judgement of AA. Nor does the judgement assign an identical
 ruling to every exercise, interpretation or participant.
+
+AAWS’s November 22 meditation, “ONLY TWO SINS”, presents interference with
+another’s growth and with one’s own as the two sins.[^growth] On the Islamic
+account defended here, spiritual growth includes apprehending and submitting to
+Allah’s prescribed direction. A methodology that tells people to seek God while
+operating on the unavailability of His definitive prescription as the answer
+interferes with that growth: it directs another through a method in which that
+prescription is unavailable as the governing answer, and the seeker adopting
+the method enters the same relation to divine guidance. AA’s own warning thus
+turns against the method it commends, both in directing another and in adopting
+it oneself.
 
 Resemblance explains how the addition can look like obedience. The offer uses
 prayer, humility and surrender, and names God as director. Those genuine religious
@@ -470,6 +519,10 @@ useful or bearing an Islamic name.
 
 [^shatibi]: Al-Shatibi, supplied translation, printed pp. 24–30 (PDF pp. 25–31): definitions, later sciences and arrangements, and ordinary health-related avoidance. The later criticism of competing legislation, pp. 33–37, has also been read. It does not independently establish that a specified AA use falls under the definition.
 
+[^shatibi-sufficiency]: Al-Shatibi, supplied translation, printed p. 27 (PDF p. 28), on the sufficiency of the Lawgiver’s limits and the addition of regulations and conditions; printed pp. 32–33 (PDF pp. 33–34), on completion of religion and adding as though it required completion. These passages are read with the general-root discussion on printed pp. 25–26 (PDF pp. 26–27). They address religious specification, not a prohibition of every later practical arrangement. The application to AA is this chapter’s, not al-Shatibi’s.
+
+[^shatibi-evidence]: Al-Shatibi, supplied translation, printed pp. 118–120 (PDF pp. 119–121), especially the contrast on p. 119 between directing proofs towards an inclination and seeking guidance through them. Page 120 distinguishes qualified reasoning which follows the evidence but errs. The chapter uses this distinction about justification without transferring the passage’s judgements of persons to AA. These pages and the sufficiency passages above were checked as images on 3 October 2026; no fresh collation of the Arabic original or independent verification of the reports quoted in them is claimed.
+
 [^fivefold]: Al-ʿIzz ibn ʿAbd al-Salam, *Qawaʿid al-ahkam fi masalih al-anam*, [2:204](https://www.islamweb.net/ar/library/content/39/627/) and [2:205](https://www.islamweb.net/ar/library/content/39/629/), displayed pagination. Al-Nawawi, *Sharh Sahih Muslim*, [commentary on Muslim 867](https://www.islamweb.net/ar/library/content/53/2431/), chapter on shortening the prayer and sermon, displayed 6:465. These are hosted primary Arabic texts. Their displayed pagination is used rather than silently importing page numbers from a different printing.
 
 [^umar]: *Sahih al-Bukhari* [2010](https://sunnah.com/bukhari:2010) and [2012](https://sunnah.com/bukhari:2012). Al-Shatibi, supplied translation, printed p. 26 (PDF p. 27). The translation’s “allegory” is its rendering; the chapter does not claim a separate Arabic collation of that line.
@@ -489,5 +542,7 @@ useful or bearing an Islamic name.
 [^disclosure-aa]: Big Book, [Chapter 6](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt6.pdf), pp. 72–76 (PDF pp. 1–5). The argument preserves the chosen recipient, confidentiality, consideration for others and possibility of postponement. The book links incomplete disclosure to renewed drinking, gives its spiritual interpretation of completed disclosure, and directs review of the first five Steps before continuing.
 
 [^kingdom]: 12&12, [Step Eleven](https://www.aa.org/sites/default/files/2022-01/en_step11.pdf#page=3), p. 98 (PDF p. 3); p. 105 also gives confidence concerning the hereafter while discussing suffering. Neither passage makes attendance itself a guarantee of salvation.
+
+[^growth]: AAWS, *Daily Reflections*, [“ONLY TWO SINS”, November 22](https://www.aa.org/daily-reflections?date=00-11-22). The entry attributes its quotation to *Alcoholics Anonymous*, Third Edition, p. 542; its meditation concerns self-serving prayers, humility and acceptance. Official entry read 3 October 2026; the original Third Edition page was not independently inspected. The reversal applies this chapter’s Islamic account of growth, not AA’s definition or an exhaustive AA doctrine of sin. Its object is the method’s relation to divine guidance, not every participant’s intentions, faith or actual development.
 
 [^moral-reason]: Ibn Taymiyyah, supplied *Creed of Asfahani* translation, printed pp. 225–227 (PDF pp. 232–234), especially the three alternatives and combined account on p. 226. The distinctions and the author’s reported affiliations are paraphrased from this passage, not offered as a complete history of Sunni or Muʿtazili ethics. Together with pp. 16–17 and El-Tobgui pp. 171–172, they rule out portraying his method as the rejection of substantive rational knowledge about God.

@@ -142,11 +142,11 @@
       "bytes": 5265390,
       "sha256": "1c2a1856bb437836a318b5abd8518016478a3e6ed04e578b3ea236bf89d35f3e",
       "work": "Al-Shatibi, Kitab al-Itisam, Mohammed Mahdi Al-Sharif translation, Dar Al-Kotob Al-Ilmiyah, 2012",
-      "passages": "Printed pp. 24–37 (PDF pp. 25–38), including the knowledge-of-benefits argument on printed pp. 31–32; publication details on PDF p. 3.",
+      "passages": "Printed pp. 24–37 (PDF pp. 25–38), including the knowledge-of-benefits argument on printed pp. 31–32; publication details on PDF p. 3. Proposed post-v0.17 integration explicitly uses printed p. 27 (PDF p. 28) for sufficiency and added conditions, pp. 32–33 (PDF pp. 33–34) for completion, and pp. 118–120 (PDF pp. 119–121) for evidence governing judgement versus supporting a prior inclination, with the qualified-reasoning control.",
       "scope": "Mounted file has 641 PDF pages; publication page lists a 640-page book. The index exposed 150 pages but is not the file page count. Only identified passages are claimed as inspected; complete work not read.",
       "bundled": false,
       "pdf_pages": 641,
-      "verification": "File identity and the current cited portions checked on 2026-10-02; complete work not read."
+      "verification": "File identity rechecked on 2026-10-03; printed pp. 24–37 rechecked and pp. 118–120 checked as images for the proposed integration. Complete work not read; no independent Arabic collation or verification of reports quoted in the translation."
     },
     {
       "file": "Carl_Sharif_El-TobguiRobert_Wisnovsky_Supervisor2_Wael_Halla_-_Reason_revelation__the_reconstitution_of_rationality__Taqi_al-Din_Ibn_Taymiyyas_d._728_1328_Dar_Ta_arud_al-_Aql_wa-l-Na_2013_McGill_Univ (1).pdf",
@@ -327,6 +327,15 @@
         "https://quran.com/59/18"
       ],
       "scope": "Arabic and displayed translations checked for paired disclosure evidence and self-accounting. Miftah continuous p395 additionally reread for the two-armies sentence; pp395-397 retained for impartial analysis of resemblance. Website numbering and digital edition metadata are not independent print or transmission verification."
+    },
+    "pr6_review_additions": {
+      "access_date": "2026-10-03",
+      "work": "Alcoholics Anonymous World Services, Daily Reflections, November 22, ONLY TWO SINS; copyright 1990",
+      "sources": [
+        "https://www.aa.org/daily-reflections?date=00-11-22"
+      ],
+      "scope": "Official entry read in the live AA website through its Daily Reflections search, including the opening quotation, attribution and ensuing meditation on self-serving prayers, humility and acceptance. The entry attributes the quotation to Alcoholics Anonymous, Third Edition, p. 542. The original Third Edition page was not independently inspected. The external Islamic reversal applies the chapter's account of growth to the method's relation to divine guidance; it does not attribute that account to AA or treat this meditation as an exhaustive AA doctrine of sin.",
+      "bundled": false
     },
     "v015_additions": {
       "access_date": "2026-10-02",
