@@ -23,7 +23,6 @@ or push a new commit. The workflow uses GitHub's short-lived deployment credenti
 
 The target is `https://theislampill.github.io/twelve-steps/`; no custom domain or CNAME
 is required. In the repository's About panel, that URL can also be set as Website.
-The supplied repository description is retained.
 
 ## Local preview
 

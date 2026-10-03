@@ -26,8 +26,11 @@ Him. The appeal presents the supplied course as surrender to divine direction;
 it does not, by naming God, make His already prescribed answer govern the offer.
 
 The argument below examines whether this is what AA’s complete offer does, including
-the strongest alternative: a course which simply helps carry out instruction. It
-keeps explicit the premise of a clear, binding and sufficient divine prescription.
+the strongest alternative: a course which simply helps carry out instruction.
+The criticism of AA’s method of seeking does not assume that a complete divine
+prescription has already been given. The further conclusion—that no independent
+religious answer remains for AA to supply—assumes that God has already given clear,
+binding instruction sufficient to settle the religious response to this harm.
 The separate [Islamic argument](ISLAMIC_APPLICATION.md) affirms that prescription
 as the Way of the Messengers and sets out its content. Its religious grounds do
 not come from a failure in AA. The first inquiry can be followed without already
@@ -54,7 +57,8 @@ Step Eleven seeks knowledge of His will and the power to carry it out. The book
 names God as director on p. 62. This is advice about how to relate to God as well
 as how to stop drinking.[^claims]
 
-The 12&12 explains how the course gives that relationship practical form. Step
+*Twelve Steps and Twelve Traditions* (the 12&12) explains how the course gives that
+relationship practical form. Step
 Three, pp. 34–35, asks how a person can let God into their life and answers through
 the willingness already shown in relying on AA’s guidance about alcohol. It
 interprets that reliance as a beginning of surrender to Providence. Pages 39–40
@@ -322,8 +326,8 @@ the offered account cease to supply an answer. The [wording analysis](#2-freedom
 examines that distinction; the [replies](OBJECTIONS.md#2-doesnt-aa-leave-people-free-to-follow-their-religion)
 retain the specific liberty passages.
 
-Even a course which led someone to recognise God’s help does not thereby acquire
-the work of determining His answer. The route to recognising an authority and
+Helping someone recognise God’s help does not by itself authorise a course to
+determine His answer. The route to recognising an authority and
 the instruction of that authority have different roles. If His prescribed answer
 settles the remedy, a course cannot retain its own answer-supplying role merely
 because it helped the person begin to seek Him.
