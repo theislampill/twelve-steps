@@ -56,19 +56,27 @@ The same constraint applies to a Muslim adviser interpreting continuing difficul
 
 ## 3. What would change either assessment?
 
-The internal finding concerns the religious answer already offered in the
-invitation. Evidence that the cited course passages do not give the proposed
-acts that religious meaning would require revising the interpretation. Showing
-how the programme’s account is established as God’s direction would answer the
-grounding criticism. A permission to disagree with the account is a different
-kind of evidence; it limits claims about compulsion without establishing the
-account’s truth.
+The central application is the reading of AA’s complete offer as another spiritual
+answer rather than execution of instruction already given. The main essay argues
+that reading from the course’s combined function: it supplies the shared way,
+interprets following it as surrender and restoration, and commends it across
+individual conceptions of God. A stronger account of the same passages as delivery
+of the given prescription would defeat that application. Human authorship or
+absence of a cited verse cannot decide between those readings on its own.
 
-The conditional conflict depends on acknowledging God’s authority and then
-making the human course the prior measure of His answer. Evidence that a given
-claim is actually determined by soundly established divine instruction removes
-that conflict for that claim. Neither a later refusal nor an invented test of
-meeting behaviour is required to state the relation between the two authorities.
+The entailment and its application must remain distinct. On the stipulated premise
+that divine instruction authoritatively and sufficiently settles the religious
+answer, a further answer with independent standing displaces it in that role.
+The contested textual inference is that AA’s offer has this standing. A later
+veto is not an additional premise. Nor is failure to establish a religious claim
+enough by itself to prove this classification. The [main argument](THESIS.md#is-the-course-another-answer-or-a-means-of-carrying-one-out)
+must succeed or fail at its actual interpretation of the course.
+
+Showing that the complete religious account derives its standing from the
+prescription would place it in the favourable branch of the grounding test.
+Liberty to disagree with the programme does not establish that derivation;
+it limits claims about compulsion. Challenging the stipulated prescription’s
+authority, clarity or sufficiency instead challenges a premise of the entailment.
 
 The Islamic assessment has an additional source commitment and burden of application.
 
@@ -104,6 +112,13 @@ approval. This follows from the authority acknowledged in the premise. It does
 not prove God’s existence, identify a revelation or establish that a particular
 programme actually claims superior authority. The essay separately examines
 what AA’s offer has supplied and how it describes its relation to God.
+
+Final authority alone does not establish that a sufficient instruction has already
+been given. The essay states that further premise separately. Its central argument
+then concerns a course supplying another religious answer, not just a method
+reserving a later right to veto a known instruction. An independently supplied
+answer conflicts with the prescribed answer’s governing role under that premise;
+the application to AA rests on the interpretation tested in the essay.
 
 A further theory might hold that God grounds the relevant obligations, rather
 than merely reporting independently existing duties. On that premise, a rival

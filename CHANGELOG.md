@@ -1,5 +1,34 @@
 # Changelog
 
+## 0.16.0 — 3 October 2026
+
+Repaired the transition in the central argument. Edition 0.15.0 restored separate
+AA and Islamic arguments, but made a lack of warrant its definite finding and
+made displacement depend on an additional restrictive relationship it said had
+not been established. That changed the earlier dilemma. This edition assesses
+whether AA’s complete offer supplies another spiritual answer or carries out a
+prescription established elsewhere. Under the stated premise of a clear, binding
+and sufficient divine prescription, standing as another answer is itself the
+displacement; no further veto or rule of exclusion is required.
+
+Recovered and developed the extended wording analysis from v0.12.0/v0.13.0. The
+essay strips and restores the language of suggestion, individual conception and
+liberty, showing how freedom about belief can resemble openness about an answer
+already supplied. It then tests the actual disputed application, including the
+strongest case for a course as practical execution. The conclusion rests on AA’s
+combined account of approach to God, surrender, restoration and divine direction,
+not merely on human authorship or the absence of a cited prescription. The
+conditional conclusion and the textual interpretation supporting its application
+are distinguished explicitly.
+
+Retained the stronger AA evidence, the separate affirmative Islamic argument,
+positive religious content, source limits, jurisprudential disagreement and
+method rules from v0.14.0/v0.15.0. Authority joined to sufficiency, and practical
+means distinguished from another religious answer, were already present in
+v0.13.0; this edition uses those results. Millati remains removed. Reconciled
+the reading guide, replies, appendix, Islamic application and source record.
+The eight-document Markdown reader, build and CI pipeline remain unchanged.
+
 ## 0.15.0 — 3 October 2026
 
 Separated the internal examination of AA’s invitation from the affirmative Islamic

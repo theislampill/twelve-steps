@@ -1,7 +1,7 @@
 {
-  "version": "0.15.0",
+  "version": "0.16.0",
   "date": "2026-10-03",
-  "parent_version": "0.14.0",
+  "parent_version": "0.15.0",
   "publication": "Public source repository https://github.com/theislampill/twelve-steps; reader https://theislampill.github.io/twelve-steps/. Main-branch commits are built and deployed by GitHub Actions. Edition metadata is not itself proof of a successful deployment.",
   "version_note": "Edition labels identify editorial versions; they do not assert matching Git tags or GitHub Releases.",
   "predecessors": [
@@ -109,6 +109,13 @@
       "bytes": 98253,
       "sha256": "6b36773bee5601739e87bf748af3d7c79a50e7a482332ebf30a3a4c19e9c22c5",
       "verification": "Delivered archive rechecked and preserved on 2026-10-02. Repository commit 37cb7db2bcaa00d431282d2c5a4c9c6bc791bd94 is the v0.15.0 revision base."
+    },
+    {
+      "version_label": "v0.15.0",
+      "archive_name": "Twelve_Step_Jurisdiction_v0.15.0.zip",
+      "bytes": 109807,
+      "sha256": "cf33b13e3b51f289861595cd257cb0e7e532d562713601a3feb8744c6af5a40e",
+      "verification": "Delivered archive CRC and hash rechecked on 2026-10-03; its THESIS.md matched the revision base. Main commit b1cca1ae28eda028089379b817f66018e25cd365 is the v0.16.0 revision base."
     }
   ],
   "editorial_source": {
@@ -167,7 +174,7 @@
         "bytes": 75449,
         "sha256": "2434c961bd5cf46f9c71f6e8734403d6ff0fc42ac19098af624151645c96d811",
         "pdf_pages": 14,
-        "scope": "Printed pp. 44–57; entire chapter, with images of pp. 53 and 55.",
+        "scope": "Printed pp. 44–57; entire chapter, with images of pp. 53 and 55. For v0.16.0, pp46-47 reread for the initial scope of approach/contact and subsequent spiritual growth.",
         "bundled": false
       },
       {
@@ -194,7 +201,7 @@
         "bytes": 73866,
         "sha256": "7b3a28f1c75f4298b7783adfb9972f9dd0dc39e45ccf8cb81133559e1502c04b",
         "pdf_pages": 15,
-        "scope": "Printed pp.89-103; especially pp.93-95. Page95 reread for v0.14.0 as contrary evidence against unrestricted exclusion of another spiritual approach.",
+        "scope": "Printed pp.89-103; especially pp.93-95. Page95 reread for v0.14.0 as contrary evidence against unrestricted exclusion of another spiritual approach. For v0.16.0, pp93-94 reread for the strongest practical-application reading.",
         "bundled": false
       },
       {
@@ -221,7 +228,7 @@
         "bytes": 61894,
         "sha256": "84e32d438fb88c013882344583a1ba6f408d1238cd65f3ecc3e314c3653d1f54",
         "pdf_pages": 8,
-        "scope": "Printed pp. 34–41; entire commentary previously read. For v0.10.0, pp.35 and39–40 reread for the relationship between AA guidance, Providence and conformity to God’s will. Whole commentary reread for v0.15.0, including the relationship between reliance and surrender.",
+        "scope": "Printed pp. 34–41; entire commentary previously read. For v0.10.0, pp.35 and39–40 reread for the relationship between AA guidance, Providence and conformity to God’s will. Whole commentary reread for v0.15.0, including the relationship between reliance and surrender. Whole commentary reread for v0.16.0 and the relation of the complete course to spiritual direction.",
         "bundled": false
       },
       {
@@ -248,7 +255,7 @@
         "bytes": 1388864,
         "sha256": "564302e2f32e9fe7ad5a69106b076216b0fb8b9146e81ea0cf4a53f512690e6a",
         "pdf_pages": 24,
-        "scope": "P-86, introductory discussion and member accounts; copyright 2018, printing code 8/25.",
+        "scope": "P-86, introductory discussion and member accounts; copyright 2018, printing code 8/25. For v0.16.0, introductory liberty-of-creed and offered-solution passages reread together.",
         "bundled": false
       },
       {
@@ -322,11 +329,11 @@
       "scope": "Robert Merrihew Adams, Precis of Finite and Infinite Goods, Philosophy and Phenomenological Research 64.2 (2002), pp439-444, especially pp440-441. His own distinction between moral metaphysics and epistemology limits the appendix comparison. Complete book not read."
     }
   },
-  "current_verification_scope": "Historical comparison informed a revision separating the internal inquiry from the Islamic assessment. Root and two requested Sol 6.1 Max advisers assess premises, source implications and audience accessibility; their opinions are not primary evidence. AA passages and selected Asfahani and El-Tobgui passages reread as described in NOTICE.md. New Asfahani225-227 and AA88/Sponsorship14 passages checked as images. Existing positive Islamic and jurisprudential source research retained. Mechanical reader checks concern source inclusion, links, footnotes, hashes and rendering, not theological validity. No complete-book reading, meeting observation, clinical comparison or consensus ruling claimed.",
-  "edition_scope": "An internal examination of what AA’s invitation has already decided about seeking God’s direction, including an explicit conditional authority argument; a separate affirmative Islamic account and assessment of AA’s religious course. Assurances support the inquiry; research correspondence is not bundled.",
+  "current_verification_scope": "The supplied independent archive comparison and actual v0.13.0 THESIS sections 1-6 were read against the v0.15.0 baseline. The v0.13.0 and v0.15.0 archives were checked for CRC and identity. Root and the two requested Sol 6.1 Max advisers examined the actual revised passages for fidelity and validity; their judgements are not primary evidence. The complete Step Three commentary, Big Book pp46-47 and93-94, and The God Word introduction were reread for the disputed classification. Prior source checks and their limits are retained and identified by edition in NOTICE.md. Mechanical checks assess inclusion, links, footnotes, hashes and rendering, not theological validity. No complete-book reading, meeting observation, clinical comparison or consensus ruling is claimed.",
+  "edition_scope": "AA invitation and conditional dilemma: the complete offer is argued to supply another spiritual answer, whose independent standing displaces an already given, clear, binding and sufficient divine prescription. The practical-execution objection is examined at that exact classification, without a further exclusion or veto premise. A separate affirmative Islamic argument identifies and applies the prescription. Full wording analysis, later AA research, positive Islamic content and source discipline are retained; research correspondence is not bundled.",
   "revision_base": {
-    "commit": "37cb7db2bcaa00d431282d2c5a4c9c6bc791bd94",
+    "commit": "b1cca1ae28eda028089379b817f66018e25cd365",
     "repository": "https://github.com/theislampill/twelve-steps",
-    "scope": "Clean v0.14.0 main checkout; isolated v0.15.0 worktree. Existing Markdown build and reader design retained."
+    "scope": "Clean v0.15.0 main checkout; isolated v0.16.0 worktree. Selective recovery from verified v0.13.0 archive while retaining later material and the Markdown reader pipeline."
   }
 }

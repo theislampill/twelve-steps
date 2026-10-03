@@ -16,17 +16,19 @@ proposed way through the problem undecided. The invitation is to bring one’s
 understanding of God to a spiritual answer AA already recommends. Freedom about
 belief is being mistaken for openness about the answer.
 
-That matters if God has already given an answer. Clear, binding and sufficient
-instruction would determine the religious remedy; it would not need the Steps to
-make it complete. Does AA’s course derive its religious standing from that
-instruction, or does the programme supply the answer while God supplies the help
-to follow it? This question arises in the invitation itself, before any disagreement
-with a sponsor.
+The dilemma arises if God has already given a clear, binding and sufficient
+religious answer. A course offered as the religious answer must then deliver that
+instruction or supply another answer in its place. AA asks the person to seek His direction after supplying
+the spiritual course through which it is to be pursued. If that course stands
+as another religious answer, the displacement is in the offer itself. God is
+invoked as director within an answer the programme has already supplied.
 
-The argument begins with AA’s own account of surrender and God’s will. A separate
-[Islamic assessment](ISLAMIC_APPLICATION.md) then identifies the guidance it accepts
-and explains its judgement of the course. Readers can examine the first argument
-without already accepting the second.
+The argument tests that description of AA’s offer directly, including the objection
+that the course merely carries out religious instruction. It begins with AA’s own
+account of surrender and God’s will, and states the sufficient-prescription premise
+conditionally. The separate [Islamic argument](ISLAMIC_APPLICATION.md) affirms and
+identifies that prescription as the Way of the Messengers. Readers can examine
+the first argument without already accepting that identification.
 
 ## 1. The answer AA offers
 
@@ -53,9 +55,9 @@ The 12&12 explains how the course gives that relationship practical form. Step
 Three, pp. 34–35, asks how a person can let God into their life and answers through
 the willingness already shown in relying on AA’s guidance about alcohol. It
 interprets that reliance as a beginning of surrender to Providence. Pages 39–40
-extend the work to the person’s wider troubles: the remaining Steps are to become
-a continuing way of life. Page 40 relates conformity to their principles to
-conformity to God’s will, qualified by “so, we trust”.[^tt-role]
+extend the work to the person’s wider troubles: continuing action on the remaining
+Steps is presented as necessary for the desired life. Page 40 relates conformity
+to their principles to conformity to God’s will, qualified by “so, we trust”.[^tt-role]
 
 The Big Book also tells the reader how to recognise progress along this course.
 Pages 72–75 connect disclosure with humility, overcoming drinking and a new
@@ -72,142 +74,226 @@ The issue is the religious direction the books actually give.
 
 ## 2. Freedom about belief leaves a course already chosen
 
-The invitation’s reassuring wording can obscure what has been decided. A reader
-hears that the Steps are suggestions, that God may be understood individually,
-and that AA imposes no common creed. The familiar description “spiritual, not
-religious” reflects the pamphlets’ distinction between a spiritual programme and
-a religious organisation.[^language] It is easy to hear all of this as saying
-that the answer about following God has been left open.
+The wording of the invitation can make a supplied answer look like an open question.
+The Steps are suggestions; God is approached “as we understood Him”; members retain
+liberty of creed. “Spiritual, not religious” is shorthand for the pamphlets’
+distinction between a spiritual programme and a religious organisation.[^language]
+These expressions sound like a refusal to determine the answer. Yet *The “God” Word*
+defends liberty of creed and then urges readers not to let someone else’s beliefs
+prevent them from finding AA’s solution. Freedom concerning belief and an already
+offered solution appear together in the same introduction.
 
-Put the invitation in plain words: **follow the course AA recommends; understand
-God individually; approach Him through actions the programme relates to surrender,
-spiritual growth and His will.** This is a proposal about the answer, even though
-accepting it is voluntary. AA presents the course through its writers’ experience
-and interpretation. Its case does not establish the whole arrangement as a
-delivered divine prescription.
+To examine that arrangement, strip away the reassuring descriptions, state the
+proposition, then put the descriptions back. Attractive wording does not establish
+falsehood, just as unattractive wording does not establish truth. The test concerns
+whether the meaning changes with the expression.[^resemblance] The following
+formulations are paraphrases of the offer, not quotations from AA.
 
-Now put the familiar wording back: **these are our suggested Steps; turn to God
-as you understand Him; you need not adopt a common creed to begin.** The same
-course is being offered on the same grounds. Its religious meaning has not
-disappeared. The invitation also permits individual interpretations of the
-programme itself; that freedom belongs in an accurate account.[^language]
-AA has still selected and described what its books recommend as the way through.
+Stated plainly: **the sequence is offered as the spiritual way through this harm;
+the conception of God is left individual; a received prescription is not what
+settles the programme’s remedy in the case it presents.** The writers’ experience
+and spiritual interpretation identify the course. On Big Book p. 50, differences
+in conceptions accompany the common transformation; on p. 60, the writers’ account
+supports their conclusions about God and relief.[^basis][^claims] AA invites the
+reader to follow that course without requiring agreement on a received religious
+answer first.
 
-The confusion is between **leaving belief free and leaving the answer open**.
-Someone may genuinely decline to impose a creed while offering a religious
-answer in another form. Here, declining to settle a common creed accompanies
-teaching a common spiritual course. The language of non-imposition describes
-how the course is offered; it does not show that no religious direction has
-been supplied.[^resemblance]
+Put the reassuring wording back: **here is our suggested spiritual programme,
+drawn from our experience; approach God as you understand Him; AA is not a religious
+organisation, and no common creed is imposed.** The sequence remains the proposed
+way through. Its grounds remain the experience and interpretation which commended
+it. No received prescription has become what establishes the remedy merely by
+changing the description. The substantive proposition is the same.
 
-The distinction does not depend on accusing anyone of deceit. Nor does pleasing
-wording make a proposition false. It makes the question easier to miss: what
-entitles this already selected course to interpret the direction the person is
-being asked to seek? The next section tests that claim.
+The resemblance lies in the move from **freedom about belief to apparent openness
+about the answer**. A fellowship can refrain from demanding a common creed while
+supplying a spiritual course. Here the course has already been selected and given
+a religious meaning. The invitation to understand God individually can make that
+selection sound like leaving the answer to the person. What the person brings is
+their understanding of God to an offer whose spiritual direction is already supplied.
+
+The sponsorship pamphlet also permits individual understanding of the programme
+itself.[^language] That matters: a suggested course can be interpreted, adapted or
+declined. But a freedom to reinterpret an offered answer does not mean that the
+offer has left the answer undecided. The present question concerns what the books
+recommend, including their account of surrender and God’s will.
+
+Each expression does a particular part of the work. “Suggestions” presents the
+course without compulsion. “God as we understood Him” leaves the conception
+individual. “Spiritual, not religious” distinguishes the programme from a religious
+organisation or established faith. Liberty of creed permits differing beliefs to
+accompany it. None changes the source or function of the spiritual course being
+offered. Together they can make the provision of that course resemble a refusal
+to provide a religious answer. This does not require deceit by the writers or
+confusion in every reader.
+
+This is the precise sense in which **the decline is the legislation**: the creed
+is left individual while the programme supplies the spiritual course. “Legislation”
+here names the work of supplying the religious account of the remedy, distinct
+from arranging performance of an answer already given. It does not mean that AA
+claims to have received a new revelation. The refusal to impose a creed is part
+of how that selected way is offered. A received
+prescription may enter as a participant’s understanding, while the programme
+continues to supply the way through the harm.
+
+The question concealed by that resemblance is whether the religious answer was
+**already given, already clear, already non-negotiable and already sufficient**.
+If it was, its authority governs the answer; the answer is not waiting for the
+programme to supply it. The next section tests whether AA’s complete offer is
+another answer of that kind, or an arrangement serving the instruction already given.
 
 ## 3. Seeking God’s direction after supplying the answer
 
-AA’s own teaching requires a distinction between God’s direction and our account
-of it. Step Eleven’s commentary warns against asking God to provide a solution
-we have already chosen. On pp. 102–104 it cautions that earnest prayer can coexist
-with wishful thinking, rationalisation and presumption about what God wills for
-someone else.[^direction] The same distinction applies when the proposed answer
-belongs to a fellowship. Shared conviction does not make an interpretation cease
-to be an interpretation.
+The dilemma begins with the role the offer undertakes. AA supplies a spiritual
+way through the harm while asking the person to seek God’s direction through it.
+In that role it proceeds as though the religious answer remains to be supplied
+by the programme. If God has already settled that answer, the programme must
+deliver His instruction or supply another answer in its place. The grounding
+question tests which of those things the offer does.
 
-The kind of authority being sought matters. A Power greater than ourselves might
-only have an ability we lack. Greater ability alone does not give it a right to
-settle every religious question. The Big Book goes further in calling God the
-Director, and Step Eleven seeks His will. Consider that appeal on the assumption
-that God is truthful, knows what He directs and has final authority in the
-relevant matter. Once an instruction is soundly established as His, a fallible
-human course cannot make its authority depend on agreement with that course.
-Otherwise the course is still directing what counts as His direction.
+The premise is **authority joined to sufficiency**. Suppose God has given clear,
+binding instruction sufficient to settle the religious response to this harm.
+Clear instruction can be understood; binding instruction governs what may be
+taught in His name; sufficient instruction leaves no missing religious answer
+for a further spiritual course to complete. Bare sufficiency would not prohibit
+alternatives: two practical means may serve the same end. The stronger premise
+is that God’s instruction settles the religious answer and the authority for
+what belongs to it. Appropriate means can serve that answer without adding another.
 
-That is a conditional argument about what acknowledging such an authority entails;
-it does not prove that God exists or that a particular message comes from Him.
-Checking a message’s source, meaning and application remains necessary. What is
-incoherent is granting God final authority while reserving final authority for
-our own answer. The [grounds of this distinction](APPENDIX.md#4-what-follows-from-acknowledging-divine-authority)
-are set out separately. It matters before a dispute occurs, because it concerns
-what the method will allow to establish the answer in the first place.
+The kind of divine authority matters too. A Power greater than ourselves might
+only have an ability we lack. The Big Book’s Director and Step Eleven’s appeal to
+His will raise a stronger question. If God is truthful, knows what He directs and
+has final authority in this matter, a human course cannot decide in advance what
+His answer must be. That follows conditionally from the authority acknowledged;
+it neither proves God’s existence nor identifies a particular revelation. Checking
+a message’s authenticity, meaning and application remains necessary. The
+[appendix](APPENDIX.md#4-what-follows-from-acknowledging-divine-authority) develops
+this distinction without treating human reasoning as the enemy of revelation.
 
-The disputed move occurs in Step Three’s explanation of surrender. Relying on
-AA’s guidance is first described as an action the newcomer has taken. It is then
-interpreted as turning towards Providence. Conforming to the programme’s principles
-is subsequently related to conforming to God’s will. Changed reliance establishes
-that the newcomer now trusts a source of help.
-It does not, by itself, establish that this source expresses the will of the God
-being sought. A person may rightly trust someone’s practical advice while being
-mistaken about that person’s religious teaching. The move from useful dependence
-to divine direction needs reasons which reach that further claim.
+### Is the course another answer, or a means of carrying one out?
 
-Grant the strongest claim about the founders’ experience: they recovered, and God
-helped them. The question remains. Receiving help while following a course does
-not establish that the whole course describes what God directs another person
-to do. Mercy can reach someone whose understanding is incomplete. A practice
-can be useful without every explanation attached to it being true. AA’s own
-warning about mistaken guidance would lose its force if experienced benefit
-settled every such interpretation. Familiar religious principles and learning
-through practice can justify particular acts and warrant investigation. They
-do not automatically establish the course’s whole account of surrender and
-divine direction. That further account is what needs grounds.
+The strongest objection addresses the whole course, not merely attendance at a
+meeting. A religious teacher could arrange prayer, honest self-examination and
+restitution, describe progress as surrender, and recognise God’s help through the
+arrangement. Such a course could carry out a sufficient prescription without
+adding to it. The Big Book itself appeals to familiar religious precepts and
+their application on pp. 93–94.[^basis][^failure] A human arrangement does not
+become another religious answer just because it has an order and uses religious words.
 
-The route by which someone comes to trust God cannot, merely for introducing
-that trust, determine what God is allowed to teach them. A person who introduces
-you to a reliable adviser does not thereby acquire authority over the adviser’s
-answers. Likewise, gratitude for help received through AA does not give AA’s
-account of the help priority over God’s instruction. The question is what
-establishes that account, not whether gratitude is warranted.
+That objection identifies a real alternative. The answer depends on what AA’s
+complete offer supplies. Three features must be considered together. First, the
+course is identified through the writers’ recovery and commended as the spiritual
+way through the problem. Second, the books explain what following it does in
+relation to God: reliance on AA begins surrender to Providence; continuing action
+on the Steps forms the way of life related to His will; disclosure leads into the
+described spiritual restoration. Third, this account is offered across differing
+conceptions of God, before a common received instruction determines the remedy.
+These are the connected claims established in [section 1](#1-the-answer-aa-offers),
+not consequences inferred from the number twelve.
 
-Consider the possibility the invitation must face: God has already given clear,
-binding guidance sufficient to settle the religious remedy for this harm.
-*Clear* means its relevant instruction can be understood; *binding* means a
-programme cannot set it aside; *sufficient* means a further spiritual course
-does not complete a missing part of that answer. Whether such guidance has
-been given is a substantial question. Leaving the member’s conception individual
-does not decide it.
+The decisive work is done by the programme’s explanation of the spiritual remedy.
+Big Book pp. 46–47 says that a person’s own conception, however inadequate, sufficed
+for an initial approach and contact with God. It connects new power and direction
+with taking the further steps. This is an account of the terms on which spiritual
+approach begins, not merely permission to enter a meeting with unresolved beliefs.[^basis]
+Step Three asks how God is to be let into the person’s life and answers through
+reliance on AA. It then directs the person into continuing practice of the remaining
+Steps, relating conformity to their principles to God’s will. Big Book pp. 75–76
+has the person review the completed work against the course before proceeding;
+p. 88 identifies the outlined way with God’s discipline.[^tt-role][^order][^discipline]
+The books thereby supply an answer about the person’s relation to God, not simply
+a timetable for duties whose religious meaning has already been established elsewhere.
 
-There are two questions about the offered course:
+The difference from the teacher’s arrangement concerns what determines the religious
+answer. It is not whether the deviser first cited a prescription or discovered
+useful practices through experience. In the objection, the prescription determines
+what surrender requires; the teacher arranges its performance. In AA’s offer, the
+course and its interpreted results supply the account of approach, surrender and
+restoration, while differing understandings of God accompany it. The book does
+more than recommend occasions for carrying out familiar duties. It identifies
+what suffices to begin contact with God and how the person progresses from there.
 
-1. **Does that instruction authorise what the course teaches about surrender and
-   restoration?** If it does, the instruction supplies the grounds for those
-   teachings. This criticism is removed to that extent; interpretation and
-   application still need examination.
-2. **If it does not, what makes the course the religious way through?** Its
-   authors’ experience cannot make it the delivery of a prescription it does
-   not express. Naming God as the one who directs cannot fill that gap.
+Pages 93–94 describe the work as applying familiar precepts. That is the strongest
+textual basis for the teacher comparison. It explains why the course can contain
+practices already recognised by a member’s religion. It does not explain the
+further teaching on pp. 46–47: a personally held conception suffices for initial
+contact, and the ensuing course supplies the path of spiritual growth. That
+teaching states an answer about approach to God across the very disagreements
+left individual. The complete offer therefore supplies a religious answer of its
+own, even where its recommended acts coincide with established duties.
 
-AA’s texts establish that the programme supplies and religiously interprets its
-course. The definite criticism is that the invitation has already answered how
-to seek and follow God without its case establishing that answer as His direction.
-Its openness about belief does not resolve this prior choice. Absence of a claim
-to revelation alone, however, does not prove that no religious grounds could
-authorise an activity. The judgement against an unauthorised addition requires
-identifying the guidance and testing the course against it; the Islamic
-assessment examines that question separately.
+This is why the complete published course is another spiritual answer in the sense
+at issue. Its standing is independent in its **account of the remedy**, not in a
+claim that God is unnecessary or that every detail is infallible. General religious
+grounds may authorise a particular action or arrangement even when its deviser did
+not cite them. But identifying prayer, honesty and amends within AA establishes
+overlap, not that a given prescription determines this whole account. To establish
+the practical-execution reading, those grounds must reach the course’s proposed
+religious role. That would put it in the favourable branch of the grounding test;
+it would not exempt an independently supplied spiritual answer from the test.
 
-Displacement occurs if the programme retains its own religious answer while
-God’s instruction is admitted only as a personal interpretation of that answer.
-The instruction would then be made to fit terms supplied in advance, rather
-than determining their standing. The offered course and the freedom to interpret
-it establish a question about authority; they do not by themselves establish
-that restrictive relationship.
+The judgement concerns the offer just examined. It is an interpretation of the
+combined passages, open to challenge at that precise point. Both readings must
+account for the whole: the language of application on pp. 93–94 and the account
+of approach and restoration elsewhere. The latter is why I judge the complete
+offer to supply another religious answer. A successful practical-execution reading
+would have to explain that account as delivery of the given instruction. The
+distinction concerns the work performed by the teaching, rather than the mere
+presence of religious vocabulary.
 
-Under that condition, the conflict is structural. A course cannot both take the
-place of the sufficient religious answer and leave that answer to determine what
-the course may claim. If God’s instruction settles the matter, an independently
-supplied religious answer has no work left to do as that answer. Seeking His
-direction while making one’s own answer the measure of it defeats the submission
-being sought. No later sentence refusing a known command is needed to explain
-this failure.
+### What follows from that standing
 
-Under that condition, the method fails to deliver the instruction as the answer
-governing the course. This does not mean that nobody can learn it elsewhere,
-become sober or receive God’s help. These limits define the criticism, rather
-than answer it.
-The [replies](OBJECTIONS.md#1-isnt-aa-simply-recommending-something-that-might-help)
-address the practical-proposal reading and the scope of the conflict.
+The grounding test now has its two branches. **If the course’s religious standing
+derives from the given instruction, it delivers that answer and this criticism
+does not arise. If it does not, yet stands as the spiritual answer, its standing
+is already the displacement.** It undertakes the work of supplying the religious
+way through where the sufficient prescription has settled that work. An additional
+prohibition of outside guidance is unnecessary to create this relationship.
+Genuine grounding removes this criticism within its scope; it leaves questions
+of interpretation and application to be examined.
+
+On this reading of the complete offer, and under the stipulated premise, AA
+therefore operates by treating the answer as not already given in the capacity
+that would settle the remedy. This is the
+functional negation at issue. The prescription can be mentioned, believed and
+obeyed beside the course, but the course has already supplied the spiritual answer
+it invites the person to follow. If the prescription governs as the clear,
+non-negotiable and sufficient answer, that independent work is no longer available
+for the programme to do. The subversion is this substitution of answers, not a
+claim about the writers’ hidden intentions.
+
+God is nevertheless named as the one who directs, and the sequence is what the
+direction comes to. The offer asks the person to seek His help after taking the
+place of the prescribed help being sought. **If the prescription is available
+as the sufficient answer, the offer has nothing to supply as another solution.
+If the offer retains that standing, the direction it invokes is not functioning
+as that answer.** Its self-defeat lies in the condition of its appeal. Naming God
+cannot make the substitution the delivery of what He has prescribed.
+
+AA’s own warning against asking God to endorse a previously chosen solution makes
+this a question its account of surrender must face. Step Eleven, pp. 102–104,
+distinguishes sought guidance from wishful thinking, rationalisation and presumption.[^direction]
+The present criticism applies that distinction to the offered course itself.
+It concerns the answer supplied before the seeking, rather than a sponsor’s later
+refusal of a command. The warning does not prove the sufficient-prescription premise;
+the conditional argument states that premise openly.
+
+Grant that the founders recovered and that God helped them. Neither grant alters
+which answer the offer supplies. Recognising God through a helpful course does not
+give the course priority over His instruction. A person who introduces someone
+to a reliable adviser does not thereby become the source of the adviser’s answers.
+Likewise, the route to recognising God cannot prescribe in advance the religious
+answer He is allowed to give. The distinction concerns the role of the offer even
+when its practical benefits are granted.
+
+Under the stated premise, AA has no remainder standing as another spiritual
+solution. Softer descriptions do not preserve that standing, and assessing useful
+acts separately is not a verdict that leaves the complete offer intact. Failure
+to deliver the prescribed answer does not mean that nobody can learn it elsewhere,
+become sober or receive God’s assistance. Those limits specify the criticism;
+they do not undo it. The [replies](OBJECTIONS.md#1-isnt-aa-simply-recommending-something-that-might-help)
+address the remaining objections without changing the object under examination.
+
 
 ## 4. What AA says God will do
 
@@ -284,17 +370,21 @@ is invited to seek it. Neither the word “suggested” nor liberty of creed mak
 that answer an empty space. AA’s own distinction between God’s direction and
 human interpretation applies to the course itself.
 
-The grounding question follows: does God’s instruction establish that account of
-surrender and restoration, or is an experienced human answer being given His
-name? Recovery and recognition of mercy do not decide between those claims. If
-the religious answer has already been given, it must determine the proposed
-course’s standing. It cannot be reduced to a personal way of understanding an
-answer the programme has already settled.
+The complete offer supplies a religious account of the remedy. Under the premise
+of an already given, binding and sufficient prescription, that account must
+deliver the prescribed answer or stand in its place. AA’s independently supplied
+course falls into the adverse branch for the reasons examined in
+[section 3](#3-seeking-gods-direction-after-supplying-the-answer). Its standing as
+another spiritual answer is the displacement; invoking God within it is the
+condition of the self-defeat. The objection does not await a further rule excluding
+revelation, and it is not exhausted by asking for stronger evidence of benefit.
 
 The [Way of the Messengers](ISLAMIC_APPLICATION.md) is the affirmative answer
 defended in the next argument. That chapter states its sources, the work they
 prescribe and its reasons for rejecting AA’s course as an additional religious
-answer. This essay has examined the invitation which makes that question necessary.
+answer. The argument here explains why that answer and the programme’s independent
+spiritual offer cannot retain the same governing role. The Islamic chapter supplies
+the affirmative religious grounds, rather than deriving them from a gap in AA.
 The [care notice](NOTICE.md#scope-and-care) applies throughout.
 
 [^claims]: Big Book, [Chapter 5, “How It Works”](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt5.pdf#page=1), pp. 58–63 (PDF pp. 1–6); [Chapter 6, “Into Action”](https://www.aa.org/sites/default/files/2021-11/en_bigbook_chapt6.pdf#page=12), pp. 83–87 (PDF pp. 12–16). The Promises’ closing assurance is on printed p. 84. “Our alcoholism”, the probability qualification, the conditions on participation and the allowance for slow fulfilment are part of the claims, not concessions added by this essay.

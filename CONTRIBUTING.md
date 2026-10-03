@@ -18,8 +18,11 @@ direction while supplying a course it already interprets as surrender and
 restoration. Freedom about belief does not remove that supplied answer. Test
 what establishes its religious meaning and what acknowledging divine authority
 would require. The assurances follow this inquiry; a later veto is a different
-question. A new edition which changes the core claim must explain the change in
-the changelog.
+question. Examine the actual contested inference: whether the complete published
+course stands as another spiritual answer or executes the prescription. If that
+inference fails, state its failure there. Do not replace it with a warrant criticism
+followed by a new, unestablished restriction condition. A new edition which changes
+the core claim must explain the change in the changelog.
 
 Distinguish an authorised act, a practical arrangement and an additional religious
 condition or assurance. Human authorship and an ordered course do not themselves

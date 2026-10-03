@@ -328,9 +328,10 @@ self-examination and repair have Islamic grounds. Those grounds determine the
 acts and their religious meaning. AA supplies a further account: reliance on its
 guidance begins surrender to Providence, progress through its course brings
 spiritual restoration, and practising its principles is related to God’s will.
-The [main essay](THESIS.md#1-the-answer-aa-offers) establishes those claims from
-AA’s texts. This section assesses their authority under the religious grounds
-stated in this chapter.
+The [main examination](THESIS.md#is-the-course-another-answer-or-a-means-of-carrying-one-out)
+argues why this complete offer supplies another religious answer, addressing the
+objection that it merely arranges prescribed acts. This section adopts that
+reading and judges the offer under the religious grounds stated in this chapter.
 
 An authorised act does not authenticate every course built around it. Qur’an
 59:18 gives grounds for taking account of one’s deeds; a written inventory can
@@ -377,28 +378,37 @@ the religious account attached to it, not the fact that human beings arranged it
 
 On these grounds, I reject AA’s course as an additional religious answer to this
 harm. The Way of the Messengers already determines worship, repentance and the
-grounds for claims about Allah’s help. AA’s experiential case supplies no authority
-to accept its further account of surrender and restoration as a religious answer
-in its own right. That is a rejection of the account’s claimed standing on the
-grounds offered. It does not establish that every recommended arrangement is
-forbidden or that AA declares each one a revealed duty.
+grounds for claims about Allah’s help. The programme’s account of approach,
+surrender and restoration undertakes to supply that answer through its own course.
+Its standing as another answer is the displacement: the prescribed direction is
+no longer what settles the remedy in the offer. The objection does not await a
+later refusal of a command. The religious answer affirmed here leaves no place
+for that further answer to complete or replace it.
 
-The innovation judgement has a further requirement: an added religious status
-must actually be claimed and lack authorisation. Making the course itself a
-prescribed way to Allah, or its comprehensive disclosure an added devotional
-condition, without authorisation for that status would meet that objection.
-The cited passages do not settle that
-classification for every reading of the course. Calling an unwarranted religious
-interpretation *bidʿah* cannot replace showing which practice has acquired which
-unauthorised status. The distinction matters under both accounts discussed above.
+The added religious status at issue belongs to the course as a way of approaching
+and following God, not simply to a timetable or a collection of useful acts.
+Under the account of religious innovation developed in section 5, supplying that
+further religious way without grounds in the prescribed answer is the objectionable
+addition. The fivefold account does not authorise it merely because its materials
+include virtues: the claimed religious role must itself have grounds. This is
+the chapter’s application of those principles, not a claim that every Sunni school
+has issued the same judgement of AA. Nor does the judgement assign an identical
+ruling to every exercise, interpretation or participant.
 
-The course cannot acquire independent religious authority by appealing to Allah
-as director. Permitting His instruction to accompany it as a member’s belief
-does not establish that authority either. A complete religious answer needs no
-additional spiritual route to complete it. Taking a useful act separately does
-not preserve the rejected claim for the programme as a further religious answer.
-The judgement concerns that claim; it is not a verdict on every participant’s
-faith or every act of assistance.
+Resemblance explains how the addition can look like obedience. The offer uses
+prayer, humility and surrender, and names God as director. Those genuine religious
+ideas can make the supplied course appear to carry the authority of the direction
+it invokes. The question is whether the prescribed answer determines that course’s
+religious standing. An appeal to Allah does not turn a further answer into the
+delivery of His instruction. This applies the distinction between resemblance
+in an argument and authorisation of a practice; neither judgement proves the
+other merely by sharing religious language.
+
+The rejection therefore concerns the complete offer as another spiritual solution.
+Taking a useful act separately does not preserve that standing for the programme.
+The assessment of assistance has its own object; it is not a remainder of the
+rejected religious answer. Questions of a particular practice’s devotional status,
+or a participant’s faith, still require their own evidence.
 
 ## 7. The person seeking help
 

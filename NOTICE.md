@@ -8,8 +8,10 @@ evidence about a particular meeting or member. Narcotics Anonymous requires
 separate analysis of its own sources. No endorsement is claimed from any cited
 organisation or author.
 
-The main essay examines AA’s own invitation and the conditional implications of
-acknowledging divine authority. It does not assume the Qur’an’s authority. The
+The main essay examines AA’s own invitation and what follows if God has already
+given a clear, binding and sufficient religious answer. Its application rests on
+an argued reading of AA’s complete offer as another spiritual answer, rather than
+merely a means of carrying out instruction. It does not assume the Qur’an’s authority. The
 Islamic chapter separately accepts the Qur’an and Muhammad’s teaching as
 revelation, develops the Way of the Messengers as sufficient religious guidance,
 and assesses AA’s religious course on those grounds. Their conclusions have
@@ -41,13 +43,17 @@ Sponsorship* (P-15, revised 2025, printing code 2/26), *Many Paths to Spirituali
 2018, printing code 8/25). A member’s account remains an individual account even
 when it appears in a Conference-approved publication.
 
-For this edition, the course passages were reread: Big Book pp. 44–50, 53, 55,
+For v0.15.0, the course passages were reread: Big Book pp. 44–50, 53, 55,
 58–60, 62–63 and 72–76; the complete 12&12 Step Three and Step Eleven
 commentaries; and Big Book p. 88 and Sponsorship p. 14, also checked as images.
 These last two passages identify the outlined method as divine discipline and
 permit individual understanding of the programme. The earlier checks of the
 assurances and liberty passages remain part of the source base. A book passage
-is not evidence of what every meeting or member does.
+is not evidence of what every meeting or member does. For v0.16.0, the complete
+Step Three commentary, Big Book pp. 46–47 and 93–94, and the introduction to
+*The “God” Word* were reread against the revised application. Existing source
+checks remain evidence for the retained passages; this edition does not claim
+to have repeated every earlier check.
 
 The supplied Islamic works retain separate identities: the Wordsmiths translation
 of Ibn Taymiyyah’s *Creed of Asfahani* (2024), al-Shatibi’s *al-Iʿtisam* in Mohammed
@@ -55,13 +61,13 @@ Mahdi Al-Sharif’s translation (2012), and El-Tobgui’s dissertation (2013).
 *Asfahani* is used at printed pp. 16–17, 36–37 and 225–227; the last three pages were
 checked as text and images for the discussion of reason and moral judgement.
 Its editorial subheadings are the translator’s. Al-Shatibi’s printed pp. 24–37
-were read as images, with pp. 24–27 rechecked during the preceding edition’s
+were read as images, with pp. 24–27 rechecked during v0.14.0’s
 authorisation and resemblance research. The supplied
 file has 641 PDF pages; the publication page describes a 640-page book.
 
 The discussion of Ibn Taymiyyah’s *Darʾ* uses El-Tobgui’s secondary account,
 principally printed pp. 160–174, 226–233 and 276–278. The argument about
-authentication and conclusiveness on pp. 164–173 was reread for this edition.
+authentication and conclusiveness on pp. 164–173 was reread for v0.15.0.
 It is not a fresh verification
 of the Arabic original. Ibn al-Qayyim’s *al-Daʾ wa’l-Dawaʾ* is cited from the
 identified Arabic edition and scan, edited by Muhammad Ajmal al-Islahi, fourth
@@ -110,7 +116,7 @@ credits, identify changes, and link to the licence and copy used. A title-based
 citation is:
 
 *The Twelve Steps and the prescribed answer: AA, divine prescription and the Way of the Messengers.*
-Twelve-Step Jurisdiction, edition 0.15.0, 3 October 2026. Cite the document and section.
+Twelve-Step Jurisdiction, edition 0.16.0, 3 October 2026. Cite the document and section.
 
 The [source repository](https://github.com/theislampill/twelve-steps) and
 [HTML reader](https://theislampill.github.io/twelve-steps/) are public. Git commits
